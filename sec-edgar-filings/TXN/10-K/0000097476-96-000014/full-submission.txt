@@ -1,0 +1,2035 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MZk9oBTr+0VCEoCvgGl3J2AExEBefazXaHU0igyl56mA1vdtVd1CerNPAq1ErPxZ
+ X3n+ILN0/y+Y9y/Tj4qTuw==
+
+<SEC-DOCUMENT>0000097476-96-000014.txt : 19960227
+<SEC-HEADER>0000097476-96-000014.hdr.sgml : 19960227
+ACCESSION NUMBER:		0000097476-96-000014
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		19960223
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TEXAS INSTRUMENTS INC
+		CENTRAL INDEX KEY:			0000097476
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP) [3600]
+		IRS NUMBER:				750289970
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03761
+		FILM NUMBER:		96524898
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13500 N CENTRAL EXPWY
+		STREET 2:		P O BOX 655474
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75265
+		BUSINESS PHONE:		2149952551
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 655474  M/S 241
+		STREET 2:		LEGAL DEPT
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75265
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                           Washington, D. C.  20549
+
+                                   FORM 10-K
+
+                 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                    OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                  For the Fiscal Year Ended December 31, 1995
+                        Commission File Number 1-3761
+
+                         TEXAS INSTRUMENTS INCORPORATED
+            -----------------------------------------------------
+            (Exact name of Registrant as specified in its charter)
+
+              Delaware                            75-0289970      
+      ------------------------       ------------------------------------
+      (State of Incorporation)       (I.R.S. Employer Identification No.)
+
+   13500 North Central Expressway, P.O. Box 655474, Dallas, Texas, 75265-5474
+   --------------------------------------------------------------------------
+   (Address of principal executive offices)                        (Zip Code)
+
+        Registrant's telephone number, including area code 214-995-3773
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+                                                     Name of each exchange on
+Title of each class                                     which registered
+- -----------------------------                        ------------------------
+Common Stock, par value $1.00                        New York Stock Exchange
+                                                     London Stock Exchange
+                                                     Tokyo Stock Exchange
+                                                     The Stock Exchanges of
+                                                       Zurich, Basle and
+                                                       Geneva
+Preferred Stock Purchase Rights                      New York Stock Exchange
+
+Indicate by check mark whether the Registrant (1) has filed all reports 
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 
+1934 during the preceding 12 months (or for such shorter period that the 
+Registrant was required to file such reports), and (2) has been subject to 
+such filing requirements for the past 90 days.  Yes  X  No     
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 
+of Regulation S-K is not contained herein, and will not be contained, to the 
+best of the Registrant's knowledge, in definitive proxy or information 
+statements incorporated by reference in Part III of this Form 10-K or any 
+amendment to this Form 10-K. (
+
+The aggregate market value of voting stock held by non-affiliates of the 
+Registrant was approximately $8,662,000,000 as of January 31, 1996.
+
+                                  189,423,197
+     ---------------------------------------------------------------------
+     (Number of shares of common stock outstanding as of January 31, 1996)
+
+Parts I, II and IV hereof incorporate information by reference to the 
+Registrant's 1995 annual report to stockholders.  Part III hereof incorporates 
+information by reference to the Registrant's proxy statement for the 1996 
+annual meeting of stockholders. 
+
+
+
+                                     PART I
+
+ITEM 1.   Business. 
+
+General
+- -------
+          Texas Instruments Incorporated (hereinafter the "Registrant," 
+including subsidiaries except where the context indicates otherwise) is 
+engaged in the development, manufacture, and sale of a variety of products in 
+the electrical and electronics industry for industrial, government, and 
+consumer markets.  These products consist of components, defense systems and 
+electronics, and digital products.  The Registrant also produces metallurgical 
+materials.  In addition, the Registrant's patent portfolio has been 
+established as an ongoing contributor to the Registrant's revenues.  The 
+Registrant's business is based principally on its broad semiconductor 
+technology and application of this technology to selected electronic end-
+equipment markets.  The Registrant from time to time considers acquisitions 
+and divestitures which may alter its business mix.  The Registrant may effect 
+one or more such transactions at such time or times as the Registrant 
+determines to be appropriate.  
+
+          The information with respect to net revenues, profit and 
+identifiable assets of the Registrant's industry segments and operations 
+outside the United States, which is contained in the note to the financial 
+statements captioned "Industry Segment and Geographic Area Operations" on 
+pages 35-37 of the Registrant's 1995 annual report to stockholders, is 
+incorporated herein by reference to such annual report.
+
+Components
+- ----------
+          Components consist of semiconductor integrated circuits (such as 
+digital signal processors, mixed signal and analog circuits, microprocessors/ 
+microcontrollers, applications processors, memories, and digital circuits), 
+semiconductor discrete devices, semiconductor subassemblies (such as custom 
+modules for specific applications), and electrical and electronic control 
+devices (such as motor protectors, starting relays, circuit breakers, 
+thermostats, sensors, and radio-frequency identification systems).
+
+          These components are used in a broad range of products for 
+industrial end-use (such as computers and peripheral equipment, 
+telecommunications, instrumentation, and industrial motor controls and 
+automation equipment), consumer end-use (such as televisions, cameras, 
+automobiles, home appliances, and residential air conditioning and heating 
+systems), and government end-use (such as defense and space equipment).  The 
+Registrant sells these components primarily to original equipment 
+manufacturers principally through its own marketing organizations and to a 
+lesser extent through distributors.
+
+Defense Systems and Electronics
+- -------------------------------
+          Defense systems and electronics consist of radar systems, navigation 
+systems, infrared surveillance and fire control systems, defense suppression 
+missiles, other weapon systems (including antitank and interdiction weapons), 
+missile guidance and control systems, electronic warfare systems, and other 
+defense electronic equipment.  Sales are made to the U.S. government (either 
+directly or through prime contractors) and to international customers approved 
+by the U.S. government.
+
+
+
+
+
+
+                                       2
+
+Digital Products
+- ----------------
+          Digital products include software productivity tools, mobile 
+computing products, printers, and electronic calculators.  Subsequent to year-
+end 1995, the Registrant reached an agreement to sell substantially all of the 
+Registrant's custom manufacturing services business.
+
+          Digital products are used in a broad range of enterprise-wide, work 
+group and personal information-based applications.  The Registrant markets 
+these products through various channels, including system suppliers, business 
+equipment dealers, distributors, retailers, and direct sales to end-users and 
+original equipment manufacturers.
+
+Metallurgical Materials
+- -----------------------
+          Metallurgical materials include clad metals, precision-engineered 
+parts and electronic connectors for use in a variety of applications such as 
+appliances, automobiles, electronic components, and industrial and 
+telecommunications equipment.  These metallurgical materials are primarily 
+sold directly to original equipment manufacturers.
+
+Competition
+- -----------
+          The Registrant is engaged in highly competitive businesses.  Its 
+competitors include several of the largest companies in the United States, 
+Asia, and elsewhere abroad as well as many small, specialized companies.  
+The Registrant is a significant competitor in each of its principal 
+businesses.  Generally, the Registrant's businesses are characterized by 
+rapidly changing technology which has, throughout the Registrant's history, 
+intensified the competitive factors, primarily performance and price. 
+
+Government Sales
+- ----------------
+          Net revenues directly from federal government agencies in the United 
+States, principally related to the defense systems and electronics segment, 
+accounted for approximately 8% of the Registrant's net revenues in 1995.
+
+          Contracts for government sales generally contain provisions for 
+cancellation at the convenience of the government.  In addition, companies 
+engaged in supplying military equipment to the government are dependent on 
+congressional appropriations and administrative allotment of funds, and may be 
+affected by changes in government policies resulting from various military and 
+political developments.  See "ITEM 3.  Legal Proceedings."
+
+Backlog
+- -------
+          The dollar amount of backlog of orders believed by the Registrant to 
+be firm was $4528 million as of December 31, 1995 and $3913 million as of 
+December 31, 1994.  Approximately 18% of the 1995 backlog (involving defense 
+systems and electronics) is not expected to be filled within the current year.  
+The backlog is significant in the business of the Registrant only as an 
+indication of future revenues which may be entered on the books of account of 
+the Registrant. 
+
+
+
+
+
+
+
+
+
+
+                                       3
+
+Raw Materials
+- -------------
+          The Registrant purchases materials, parts and supplies from a number 
+of suppliers.  The Registrant's silicon materials operation became part of a 
+joint venture with MEMC Electronic Materials, Inc., in May 1995.  The 
+Registrant retains a minority ownership interest in the joint venture.  The 
+materials, parts and supplies essential to the Registrant's business are 
+generally available at present and the Registrant believes at this time that 
+such materials, parts and supplies will be available in the foreseeable 
+future, although the Registrant has experienced some extended lead times on 
+certain raw materials, particularly for silicon wafers, because of the rapid 
+industry growth over the past three years.
+
+Patents and Trademarks
+- ----------------------
+          The Registrant owns many patents in the United States and other 
+countries in fields relating to its business.  The Registrant has developed a 
+strong, broad-based patent portfolio.  The Registrant also has several 
+agreements with other companies involving license rights and anticipates that 
+other licenses may be negotiated in the future.  The Registrant does not 
+consider its business materially dependent upon any one patent or patent 
+license, although taken as a whole, the rights of the Registrant and the 
+products made and sold under patents and patent licenses are important to the 
+Registrant's business.  As noted above, the Registrant's patent portfolio has 
+been established as an ongoing contributor to the revenues of the Registrant.  
+See "ITEM 7.  Management's Discussion and Analysis of Financial Condition and 
+Results of Operations" and "ITEM 3.  Legal Proceedings."
+
+          The Registrant owns trademarks that are used in the conduct of its 
+business.  These trademarks are valuable assets, the most important of which 
+are "Texas Instruments" and the Registrant's corporate monogram. 
+
+Research and Development
+- ------------------------
+          The Registrant's research and development expense was $927 million 
+in 1995 compared with $689 million in 1994 and $590 million in 1993.
+
+Seasonality
+- -----------
+          The Registrant's revenues are subject to some seasonal variation. 
+
+Employees
+- ---------
+          The information concerning the number of persons employed by the 
+Registrant at December 31, 1995 on page 21 of the Registrant's 1995 annual 
+report to stockholders is incorporated herein by reference to such annual 
+report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       4
+
+ITEM 2.   Properties.
+
+          The Registrant's principal offices are located at 13500 North 
+Central Expressway, Dallas, Texas.  The Registrant owns and leases plants in 
+the United States and 16 other countries for manufacturing and related 
+purposes.  The following table indicates the general location of the principal 
+plants of the Registrant and the industry segments which make major use of 
+them.  Except as otherwise indicated, the principal plants are owned by the 
+Registrant. 
+<TABLE>
+<CAPTION>
+                                      Defense
+                                    Systems and      Digital     Metallurgical
+                    Components      Electronics      Products      Materials
+                    ----------      -----------      --------    -------------
+<S>                     <C>              <C>             <C>           <C>
+Dallas, Texas           X                X               X
+Austin, Texas                            X               X
+Houston, Texas          X
+Lewisville, Texas                        X
+Lubbock, Texas          X
+McKinney, Texas                          X
+Plano, Texas<F1>(1)                      X               X
+Sherman, Texas<F1>(1)   X                X
+Temple, Texas                                            X
+Attleboro,              X                                              X
+  Massachusetts
+Almelo, Netherlands     X
+Freising, Germany       X
+Avezzano, Italy<F2>(2)  X
+Baguio,                 X
+  Philippines<F3>(3)
+Hiji, Japan             X
+Kuala Lumpur,           X
+  Malaysia<F1>(1) 
+Miho, Japan             X
+Singapore<F3>(3)        X
+Taipei, Taiwan          X
+____________________
+<FN>
+<F1>(1)Leased or primarily leased.
+<F2>(2)Owned, subject to mortgage.
+<F3>(3)Owned on leased land.
+</TABLE>
+
+          The Registrant's facilities in the United States contained 
+approximately 18,300,000 square feet as of December 31, 1995, of which 
+approximately 4,300,000 square feet were leased.  The Registrant's facilities 
+outside the United States contained approximately 7,000,000 square feet as of 
+December 31, 1995, of which approximately 1,800,000 square feet were leased. 
+
+          The Registrant believes that its existing properties are in good 
+condition and suitable for the manufacture of its products.  At the end of 
+1995, the Registrant utilized substantially all of the space in its 
+facilities. 
+
+          Leases covering the Registrant's leased facilities expire at varying 
+dates generally within the next 10 years.  The Registrant anticipates no 
+difficulty in either retaining occupancy through lease renewals, month-to-
+month occupancy or purchases of leased facilities, or replacing the leased 
+facilities with equivalent facilities.
+
+
+                                       5
+
+ITEM 3.   Legal Proceedings.
+
+          On January 1, 1996, the Registrant filed a lawsuit in Federal 
+District Court for the Eastern District of Texas against Samsung Electronics 
+Co., Ltd. of Korea, and its two U.S. subsidiaries ("Samsung"), seeking 
+injunctive relief, alleging that Samsung is in violation of several of the 
+Registrant's patents relating to the manufacture of semiconductor devices, 
+including DRAMs.  Also on that date, Samsung brought a lawsuit in Federal 
+District Court for the Northern District of Texas seeking injunctive relief 
+against the Registrant, alleging that the Registrant is infringing several of 
+Samsung's patents, and seeking a declaratory judgment that certain of the 
+Registrant's patents are either invalid, not infringed or unenforceable 
+against Samsung and that certain of the Registrant's intellectual property 
+licensing practices are unfair.  
+
+Separately, on January 16, 1996, the Registrant filed a complaint with the 
+International Trade Commission (the "ITC") under Section 337 of the Tariff Act 
+of 1930, as amended (the "Tariff Act"), charging that Samsung's importation 
+and sale in the U.S. of electronic products that are produced using processes 
+covered by the Registrant's patents is an unfair act.  The complaint seeks a 
+permanent exclusion order preventing Samsung from importing and selling 
+products that infringe the Registrant's patents in the U.S. On February 12, 
+1996, Samsung filed a complaint with the ITC under Section 337 of the Tariff 
+Act charging that the Registrant's importation and sale in the U.S. of certain 
+semiconductor products, including DRAMs that include structures covered by 
+Samsung's patents and that are produced using processes covered by Samsung's 
+patents, is an unfair act.  Samsung's complaint seeks a permanent exclusion 
+order preventing the Registrant from importing and selling semiconductor 
+products in the U.S.  See "ITEM 7.  Management's Discussion and Analysis of 
+Financial Condition and Results of Operations."
+
+          On July 19, 1991, the Registrant filed a lawsuit in Tokyo District 
+Court against Fujitsu Limited ("Fujitsu") seeking injunctive relief, alleging 
+that Fujitsu's manufacture and sale of certain DRAMs infringe the Registrant's 
+Japanese patent on the invention of the integrated circuit (the "Kilby" 
+patent).  Concurrently, Fujitsu brought a lawsuit in the same court against 
+the Registrant, seeking a declaration that Fujitsu is not infringing the Kilby 
+patent.  On August 31, 1994, the district court ruled that Fujitsu's 
+production of 1-megabit and 4-megabit DRAMs and 32K EPROMs does not infringe 
+the Kilby patent.  The Registrant has appealed the court's decision to the 
+Tokyo High Court.
+
+          The Registrant is included among a number of U.S. defense 
+contractors which are currently the subject of U.S. government investigations 
+regarding alleged procurement irregularities.  The Registrant is unable to 
+predict the outcome of the investigations at this time or to estimate the 
+kinds or amounts of claims or other actions that could be instituted against 
+the Registrant.  Under present government procurement regulations, such 
+investigations could lead to a government contractor's being suspended or 
+debarred from eligibility for awards of new government contracts for an 
+initial period of up to three years.  In the current environment, even matters 
+that seem limited to disputes about contract interpretation can result in 
+criminal prosecution.  While criminal charges against contractors have 
+resulted from such investigations, the Registrant does not believe such 
+charges would be appropriate in its case and has not, at any time, lost its 
+eligibility to enter into government contracts or subcontracts under these 
+regulations.
+
+          The Registrant is involved in various investigations and proceedings 
+conducted by the federal Environmental Protection Agency and certain state 
+
+
+
+                                       6
+
+environmental agencies regarding disposal of waste materials.  Although the 
+factual situations and the progress of each of these matters differ, the 
+Registrant believes that the amount of its liability will not have a material 
+adverse effect upon its financial position or results of operations and, in 
+most cases, the Registrant's liability will be limited to sharing clean-up or 
+other remedial costs with other potentially responsible parties.
+
+ITEM 4.   Submission of Matters to a Vote of Security Holders.
+
+          Not applicable.
+
+                     Executive Officers of the Registrant
+
+          The following is an alphabetical list of the names and ages of the 
+executive officers of the Registrant and the positions or offices with the 
+Registrant presently held by each person named: 
+
+       Name                   Age                     Position
+
+Richard J. Agnich             52          Senior Vice President, Secretary
+                                          and General Counsel
+
+William A. Aylesworth         53          Senior Vice President, Treasurer
+                                          and Chief Financial Officer
+
+Gary D. Clubb                 49          Executive Vice President (President,
+                                          Defense Systems & Electronics
+                                          Group)
+
+Thomas J. Engibous            43          Executive Vice President (President,
+                                          Semiconductor Group)
+
+William F. Hayes              52          Executive Vice President
+
+Jerry R. Junkins              58          Director; Chairman of the Board,
+                                          President and Chief Executive 
+                                          Officer
+
+Marvin M. Lane, Jr.           61          Vice President and Corporate
+                                          Controller
+
+David D. Martin               56          Executive Vice President
+
+William B. Mitchell           60          Director; Vice Chairman
+
+Charles F. Nielson            58          Vice President
+
+Elwin L. Skiles, Jr.          54          Vice President
+
+William P. Weber              55          Director; Vice Chairman
+
+
+          The term of office of each of the above listed officers is from the 
+date of his election until his successor shall have been elected and qualified 
+and the most recent date of election of each of them was April 201, 19954.  
+Messrs. Agnich, Aylesworth, Junkins, Lane, Martin, Mitchell, Nielson, and 
+Weber have served as officers of the Registrant for more than five years.  
+Messrs. Clubb, Engibous, Hayes, Nielson and Skiles have served as officers of 
+the Registrant since 1993, 1993, 1991, 1990 and 1992, respectively; and they
+and Messrs. Brookes, Clubb and Engibous have been employees of the Registrant 
+for more than five years.
+
+
+
+                                       7
+
+                                    PART II
+
+ITEM 5.   Market for Registrant's Common Equity and Related Stockholder 
+          Matters.
+
+          The information which is contained in the note to the financial 
+statements captioned "Common Stock Prices and Dividends" on page 38 of the 
+Registrant's 1995 annual report to stockholders, and the information 
+concerning the number of stockholders of record at December 31, 1995 on 
+page 21 of such annual report, are incorporated herein by reference to such 
+annual report. 
+
+ITEM 6.   Selected Financial Data.
+
+          The "Summary of Selected Financial Data" for the years 1991 through 
+1995 which appears on page 21 of the Registrant's 1995 annual report to 
+stockholders is incorporated herein by reference to such annual report.
+
+ITEM 7.   Management's Discussion and Analysis of Financial Condition and 
+          Results of Operations.
+
+          The Letter to the Stockholders on pages 3-7 of the Registrant's 1995 
+annual report to stockholders and the information contained under the caption 
+"Management Discussion and Analysis of Financial Condition and Results of 
+Operations" on pages 22-25 of such annual report are incorporated herein by 
+reference to such annual report.
+
+ITEM 8.   Financial Statements and Supplementary Data.
+
+          The consolidated financial statements of the Registrant at 
+December 31, 1995 and 1994 and for each of the three years in the period ended 
+December 31, 1995 and the report thereon of the independent auditors, on pages 
+26-39 of the Registrant's 1995 annual report to stockholders, are incorporated 
+herein by reference to such annual report.
+
+          The "Quarterly Financial Data" on page 39 of the Registrant's 1995 
+annual report to stockholders is also incorporated herein by reference to such 
+annual report.
+
+ITEM 9.   Changes in and Disagreements with Accountants on Accounting and 
+          Financial Disclosure.
+
+          Not applicable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       8
+
+                                    PART III
+
+ITEM 10.  Directors and Executive Officers of the Registrant.
+
+          The information with respect to directors' names, ages, positions, 
+term of office and periods of service, which is contained under the caption 
+"Nominees for Directorship" in the Registrant's proxy statement for the 1996 
+annual meeting of stockholders, and the information contained in the first two 
+second paragraphs under the caption "Other Matters" in such proxy statement, 
+are incorporated herein by reference to such proxy statement.
+
+          Information concerning executive officers is set forth in Part I 
+hereof under the caption "Executive Officers of the Registrant."
+
+ITEM 11.  Executive Compensation.
+
+          The information which is contained under the captions "Directors 
+Compensation" and "Executive Compensation" in the Registrant's proxy statement 
+for the 1996 annual meeting of stockholders is incorporated herein by 
+reference to such proxy statement.
+
+ITEM 12.  Security Ownership of Certain Beneficial Owners and Management.
+
+          The information concerning (a) the only persons that have reported 
+beneficial ownership of more than 5% of the common stock of the Registrant, 
+and (b) the ownership of the Registrant's common stock by the Chief Executive 
+Officer and the four other most highly compensated executive officers, and all 
+executive officers and directors as a group, which is contained under the 
+caption "Voting Securities" in the Registrant's proxy statement for the 1996 
+annual meeting of stockholders, is incorporated herein by reference to such 
+proxy statement.  The information concerning ownership of the Registrant's 
+common stock by each of the directors, which is contained under the caption 
+"Nominees for Directorship" in such proxy statement, is also incorporated 
+herein by reference to such proxy statement.
+
+          The aggregate market value of voting stock held by non-affiliates of 
+the Registrant shown on the cover page hereof excludes the shares held by the 
+Registrant's directors, some of whom disclaim affiliate status, executive vice 
+presidents and senior vice presidents.  These holdings were considered to 
+include shares credited to certain individuals' profit sharing accounts.
+
+ITEM 13.  Certain Relationships and Related Transactions.
+
+          Not applicable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       9
+
+                                    PART IV
+
+ITEM 14.  Exhibits, Financial Statement Schedules, and Reports on Form 8-K. 
+
+          (a)  1 and 2.  Financial Statements and Financial Statement 
+                         Schedules:
+
+          The financial statements and financial statement schedules are 
+listed in the index on page 15 hereof.
+
+                     3.  Exhibits:
+<TABLE>
+<CAPTION>
+            Designation of
+              Exhibit in
+              this Report              Description of Exhibit
+            --------------   -------------------------------------------------
+                <S>          <C>
+                3(a)         Restated Certificate of Incorporation of the 
+                             Registrant (incorporated by reference to Exhibit 
+                             3(a) to the Registrant's Annual Report on Form 
+                             10-K for the year 1993).
+
+                3(b)         Certificate of Amendment to Restated Certificate 
+                             of Incorporation of the Registrant (incorporated 
+                             by reference to Exhibit 3(b) to the Registrant's 
+                             Annual Report on Form 10-K for the year 1993).
+
+                3(c)         Certificate of Amendment to Restated Certificate 
+                             of Incorporation of the Registrant (incorporated 
+                             by reference to Exhibit 3(c) to the Registrant's 
+                             Annual Report on Form 10-K for the year 1993).
+
+                3(d)         Certificate of Designations relating to the 
+                             Registrant's Participating Cumulative Preferred 
+                             Stock (incorporated by reference to Exhibit 3(d) 
+                             to the Registrant's Annual Report on Form 10-K 
+                             for the year 1993).
+
+                3(e)         Certificate of Ownership Merging Texas 
+                             Instruments Automation Controls, Inc. into the 
+                             Registrant (incorporated by reference to Exhibit 
+                             3(e) to the Registrant's Annual Report on Form 
+                             10-K for the year 1993).
+
+                3(f)         Certificate of Elimination of Designations of 
+                             Preferred Stock of the Registrant (incorporated 
+                             by reference to Exhibit 3(f) to the Registrant's 
+                             Annual Report on Form 10-K for the year 1993).
+
+                3(g)         By-Laws of the Registrant (incorporated by 
+                             reference to Exhibit 3 to the Registrant's 
+                             Quarterly Report on Form 10-Q for the quarter 
+                             ended June 30, 1993).
+
+
+
+
+
+
+
+
+
+                                      10
+
+                4(a)(i)      Rights Agreement dated as of June 17, 1988 
+                             between the Registrant and First Chicago Trust 
+                             Company of New York, formerly Morgan Shareholder 
+                             Services Trust Company, as Rights Agent, which 
+                             includes as Exhibit B the form of Rights 
+                             Certificate (incorporated by reference to Exhibit 
+                             4(a)(i) to the Registrant's Annual Report on Form 
+                             10-K for the year 1993).
+
+                4(a)(ii)     Assignment and Assumption Agreement dated as of 
+                             September 24, 1992 among the Registrant, First 
+                             Chicago Trust Company of New York, formerly 
+                             Morgan Shareholder Services Trust Company, and 
+                             Harris Trust and Savings Bank (incorporated by 
+                             reference to Exhibit 4(a)(i) to the Registrant's 
+                             Quarterly Report on Form 10-Q for the quarter 
+                             ended September 30, 1992).
+
+                4(b)         The Registrant agrees to provide the Commission, 
+                             upon request, copies of instruments defining the 
+                             rights of holders of long-term debt of the 
+                             Registrant and its subsidiaries.
+
+                10(a)        Texas Instruments Annual Incentive Plan as 
+                             amended November 30, 1995.<F1>*
+
+                10(b)(i)     TI Deferred Compensation Plan (incorporated by 
+                             reference to Exhibit 10(a)(ii) to the 
+                             Registrant's Annual Report on Form 10-K for the 
+                             year 1994).<F1>*
+
+                10(b)(ii)    Amendment No. 1 to TI Deferred Compensation Plan 
+                             (incorporated by reference to Exhibit 10(a)(iii) 
+                             to the Registrant's Annual Report on Form 10-K 
+                             for the year 1994).<F1>*
+
+                10(c)        Texas Instruments Long-Term Incentive Plan 
+                             (incorporated by reference to Exhibit 10(a)(ii) 
+                             to the Registrant's Annual Report on Form 10-K 
+                             for the year 1993).<F1>*
+
+                10(d)        Texas Instruments Restricted Stock Unit Plan for 
+                             Directors (incorporated by reference to 
+                             Exhibit 10(c) to the Registrant's Quarterly 
+                             Report on Form 10-Q for the quarter ended 
+                             June 30, 1996).
+
+                10(e)        Statement of Policy of Registrant's Board of 
+                             Directors on Top Officer and Board Member 
+                             Retirement Practices (incorporated by reference 
+                             to Exhibit 10(b)(vi) to the Registrant's Annual 
+                             Report on Form 10-K for the year 1993).<F1>*
+
+                11           Computation of earnings per common and common 
+                             equivalent share.
+
+                12           Computation of Ratio of Earnings to Fixed Charges 
+                             and Ratio of Earnings to Combined Fixed Charges 
+                             and Preferred Stock Dividends.
+
+
+
+
+                                      11
+
+                13           Registrant's 1995 Annual Report to Stockholders. 
+                             (With the exception of the items listed in the 
+                             index to financial statements and financial 
+                             statement schedules herein, and the items 
+                             referred to in ITEMS 1, 5, 6, 7 and 8 hereof, the 
+                             1995 Annual Report to Stockholders is not to be 
+                             deemed filed as part of this report.)
+
+                21           List of subsidiaries of the Registrant.
+
+                23           Consent of Ernst & Young LLP.
+
+                24           Powers of Attorney.
+
+                27           Financial Data Schedule.
+
+________________
+<FN>
+     <F1>*Executive Compensation Plans and Arrangements:
+
+          Texas Instruments Annual Incentive Plan as amended November 30, 
+          1995.
+
+          TI Deferred Compensation Plan (incorporated by reference to Exhibit 
+          10(a)(ii) to the Registrant's Annual Report on Form 10-K for the 
+          year 1994).
+
+          Amendment No. 1 to TI Deferred Compensation Plan (incorporated by 
+          reference to Exhibit 10(a)(iii) to Registrant's Annual Report on 
+          Form 10-K for the year 1994).
+
+          Texas Instruments Long-Term Incentive Plan (incorporated by 
+          reference to Exhibit 10(a)(ii) to the Registrant's Annual Report on 
+          Form 10-K for the year 1993).
+
+          Statement of Policy of Registrant's Board of Directors on Top 
+          Officer and Board Member Retirement Practices (incorporated by 
+          reference to Exhibit 10(b)(vi) to the Registrant's Annual Report on 
+          Form 10-K for the year 1993).
+</TABLE>
+
+     (b)  Reports on Form 8-K:
+
+          None
+
+"Safe Harbor" Statement under the Private Securities Litigation Reform Act of 
+1995:
+
+          With the exception of historical information, the matters discussed 
+or incorporated by reference in this Report on Form 10-K are forward-looking 
+statements that involve risks and uncertainties including, but not limited to, 
+economic conditions, product demand and industry capacity, competitive 
+products and pricing, manufacturing efficiencies, new product development, 
+ability to enforce patents, availability of raw materials and critical 
+manufacturing equipment, new plant startups, the regulatory and trade 
+environment, and other risks indicated in filings with the Securities and 
+Exchange Commission.
+
+
+
+
+
+
+                                      12
+
+                                   SIGNATURE
+
+          Pursuant to the requirements of Section 13 or 15(d) of the 
+Securities Exchange Act of 1934, the Registrant has duly caused this Report to 
+be signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                             TEXAS INSTRUMENTS INCORPORATED
+
+
+
+                                             By:___________________________
+                                                Jerry R. Junkins
+                                                Chairman of the Board,
+                                                President and
+                                                Chief Executive Officer
+
+Date:  February __, 1996
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      13
+
+          Pursuant to the requirements of the Securities Exchange Act of 1934, 
+this Report has been signed below by the following persons on behalf of the 
+Registrant and in the capacities indicated on the ______ day of February, 
+1996.
+
+
+
+              Signature                                Title
+
+____________________________________       Director
+           James R. Adams
+
+____________________________________       Director
+           David L. Boren
+
+____________________________________        Director
+          James B. Busey IV
+
+____________________________________        Director
+       Gerald W. Fronterhouse
+
+____________________________________        Director
+           David R. Goode
+
+____________________________________        Chairman of the Board; President;
+          Jerry R. Junkins                  Chief Executive Officer; Director
+
+____________________________________        Director
+           William S. Lee
+
+____________________________________        Vice Chairman; Director
+         William B. Mitchell
+
+____________________________________        Director
+          Gloria M. Shatto
+
+____________________________________        Vice Chairman; Director
+          William P. Weber
+
+____________________________________        Director
+         Clayton K. Yeutter
+
+____________________________________        Senior Vice President; Treasurer;
+        William A. Aylesworth               Chief Financial Officer
+
+____________________________________        Vice President; Corporate
+         Marvin M. Lane, Jr.                Controller
+
+*By:________________________________
+          William A. Aylesworth
+            Attorney-in-fact
+
+
+
+
+
+
+
+
+
+
+
+
+                                      14
+
+
+                TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+
+                         INDEX TO FINANCIAL STATEMENTS
+                       AND FINANCIAL STATEMENT SCHEDULES
+                                 (Item 14(a))
+<TABLE>
+<CAPTION>
+                                                         Page Reference
+                                                         --------------
+                                                                     Annual
+                                                                   Report to
+                                                    Form 10-K     Stockholders
+                                                    ---------     ------------
+Information incorporated by reference
+to the Registrant's 1995 Annual Report
+to Stockholders:
+       <S>                                              <C>            <C>
+       Consolidated Financial Statements:
+
+            Income for each of the three                               26
+            years in the period ended
+            December 31, 1995 
+
+            Balance sheet at December 31,                              27
+            1995 and 1994
+
+            Cash flows for each of the                                 28
+            three years in the period
+            ended December 31, 1995
+
+            Stockholders' equity for each of                           29
+            the three years in the period
+            ended December 31, 1995
+
+            Notes to financial statements                           30-39
+
+            Report of Independent Auditors                             39
+
+Consolidated Schedule for each of the three
+years in the period ended December 31, 1995:
+
+            II.   Allowance for losses                  16               
+</TABLE>
+
+     All other schedules have been omitted since the required information is 
+not present or not present in amounts sufficient to require submission of the 
+schedule, or because the information required is included in the consolidated 
+financial statements or the notes thereto.
+
+
+
+
+
+
+
+
+
+
+
+
+                                      15
+
+                                                                   Schedule II
+                                                                    -----------
+
+                TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+                              ALLOWANCE FOR LOSSES
+                            (In Millions of Dollars)
+                 Years Ended December 31, 1995, 1994, and 1993
+
+<TABLE>
+<CAPTION>
+                            Additions
+             Balance at     Charged to                       Balance
+             Beginning      Costs and                        at End
+              of Year       Expenses       Deductions        of Year
+<S>            <C>            <C>             <C>               <C>
+1995           $37            $113            $105              $45
+- ----          ====            ====            ====             ====
+
+1994           $42             $80             $85              $37
+- ----          ====            ====            ====             ====
+
+1993           $34             $87             $79              $42
+- ----          ====            ====            ====             ====
+</TABLE>
+
+Allowances for losses from uncollectible accounts, returns, etc., are deducted 
+from accounts receivable in the balance sheet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       16
+
+
+                                                               Exhibit 10(a)
+                                                               -------------
+
+
+                     TEXAS INSTRUMENTS ANNUAL INCENTIVE PLAN
+                          As Amended November 30, 1995
+
+
+
+The Texas Instruments Annual Incentive Plan is designed to provide an 
+additional incentive for those employees who are key to the Company's success 
+in the highly technological and competitive industries in which it operates.  
+The Plan provides for rewarding certain employees by awards for outstanding 
+ability and exceptional service based upon the individual's contribution to the 
+Company.
+
+For purposes of the Plan unless otherwise indicated, the term "Company" shall 
+mean Texas Instruments Incorporated and its subsidiaries of which substantially 
+all of the voting stock is owned directly or indirectly by Texas Instruments. 
+
+Eligibility
+
+The employees of the Company eligible to receive awards under the Plan shall 
+consist of the group of employees (including officers and directors) in 
+management or other key positions specified for each year by the Committee 
+described below and such other employees as said Committee may designate for 
+such year. If an employee takes an approved leave of absence or dies prior to 
+a determination of awards to be made under the Plan for a year in which the 
+employee was eligible to receive awards under the Plan, such employee on leave 
+or the estate of such deceased employee shall be eligible to receive awards 
+under the Plan for such year.  Directors who are not full-time or part-time 
+officers or employees are not eligible to participate in the Plan.  
+
+Administration of Plan 
+
+The Plan shall be administered by a Committee of the Board of Directors which 
+shall be known as the Compensation Committee (the Committee) which shall be 
+appointed by a majority of the whole Board and shall consist of not less than 
+three directors.  The Board may designate one or more directors as alternate 
+members of the Committee, who may replace any absent or disqualified member at 
+any meeting of the Committee.  A director may serve as a member or alternate 
+member of the Committee only during periods in which he is a "disinterested 
+person" as described in Rule 16b-3 under the Securities Exchange Act of 1934, 
+as in effect from time to time.  No member or alternate member of the Committee 
+shall be eligible, while a member or alternate member, for participation in the 
+Plan.  The Committee shall have full power and authority to construe, interpret 
+and administer the Plan.  It may issue rules and regulations for administration 
+of the Plan.  It shall meet at such times and places as it may determine.  A 
+majority of the members of the Committee shall constitute a quorum and all 
+decisions of the Committee shall be final, conclusive and binding upon all 
+parties, including the Company, the stockholders and the employees. 
+
+The Committee shall have the full and exclusive right to make awards under the 
+Plan except as otherwise expressly provided in this Plan.  In determining the 
+selection of recipients and the amount or form of any award, the Committee 
+shall take into consideration the contribution of the recipients during the 
+fiscal year to the Company's success and such other factors as the Committee 
+shall determine.  The Committee shall have the authority to consult with and 
+
+
+                                       17
+
+receive recommendations from officers or other executives of the Company with 
+regard to these matters.  
+
+The Committee may delegate such power, authority and rights with respect to the 
+administration of the Plan as it deems appropriate to one or more members of 
+the management of the Company (including, without limitation, a committee of 
+one or more members of management appointed by the Committee); provided, 
+however, that the Committee shall have the exclusive right to make awards to 
+employees who are directors or officers of the Company, and that any delegation 
+to management shall conform with the requirements of the General Corporation 
+Law of Delaware, as in effect from time to time.  
+
+Expenses of Administration 
+
+The expenses of the administration of this Plan, including the dividend 
+equivalents and interest provided in the Plan, shall be borne by the Company 
+and none of them shall be charged against the Incentive Reserve described 
+below. 
+
+Amendments 
+
+The Board of Directors of the Company may, at any time and from time to time, 
+alter, amend, suspend or terminate the Plan or any part thereof as it may deem 
+proper and in the best interests of the Company, provided, however, that no 
+such action shall affect or impair the rights under any award theretofore 
+granted under the Plan, except that in the case of an employee employed outside 
+the United States (or his beneficiary) the Board may vary the provisions of the 
+Plan as it may deem appropriate to conform with local laws, practices and 
+procedures.  Further, unless the stockholders of the Company shall have first 
+approved thereof, no amendment shall be made which shall increase the maximum 
+amount which may be credited to the Incentive Reserve described below in any 
+year.
+
+Awards
+
+Awards may be made from time to time during each year under the Plan by the 
+Committee or its delegate(s) in amounts which do not exceed the amount then 
+available in the Incentive Reserve described below.  Such awards may be 
+denominated in cash, in shares of the Company's common stock, or both, and may 
+be payable in cash or shares, or both, as the Committee may determine.
+
+Scope of the Plan
+
+The Committee shall have the power, in its sole discretion, to determine what 
+payments to eligible employees shall be deemed to be incentive compensation for 
+the purposes of this Plan.  Awards under the Company's Patent Incentive Award 
+program shall be deemed not to have been made under this Plan and payments 
+under the Patent Incentive Award program shall not be charged to the Incentive 
+Reserve described below.  Payments under any incentive plans which operational 
+organizations of the Company may have from time to time to any employees who 
+are then eligible to receive awards under this Plan shall be charged to the 
+Incentive Reserve described below.  Special payments to employees involved in 
+unusual transactions (including, without limitation, a sale of a portion of the 
+business of the Company) shall not be charged to the Incentive Reserve 
+described below unless otherwise determined by the Committee.  Nothing in this 
+Plan shall be construed as preventing the Company from having from time to time 
+incentive or other variable compensation plans applicable to employees who are 
+
+
+
+                                       18
+
+not then eligible to participate in this Plan, and payments of incentive or 
+other variable compensation under such plans to such employees shall not be 
+charged to the Incentive Reserve described below.
+
+Incentive Reserve
+
+For the calendar year 1965 and each of the calendar years thereafter, the Board 
+of Directors shall cause to be credited to an Incentive Reserve (hereinafter 
+called the Reserve) an amount determined as follows: 
+
+     10% of the amount by which the Company's net income for such year exceeds 
+     6% of net capital but not in excess of the amount paid out as dividends on 
+     the common stock of the Company during such year, except that the Board 
+     may in its discretion direct that a lesser amount be credited.
+
+As used in this Plan
+
+     1.  "Net income" shall mean the amount reported as net income in the 
+         annual statement of income for the year as shown by the annual report 
+         to stockholders plus interest on long-term debt and amounts credited 
+         to the Reserve for such year.
+
+     2.  "Net capital" shall mean the total of stockholders' equity plus long-
+         term debt (less current portion) as shown on the balance sheet as of 
+         the end of the year preceding the year for which net income, as above, 
+         is determined plus treasury stock held for the purposes of this Plan.
+
+As soon as practicable after the end of each year, the Company's independent 
+auditors shall determine and report to the Board of Directors the maximum 
+amount creditable to the Reserve for that year under the provisions of this 
+Plan.  The Board shall determine the amount to be credited to the Reserve for 
+such year.  Prior to receipt of such report of the auditors, the Board may make 
+such determination based on an estimate made by the Company's Chief Financial 
+Officer of the maximum amount creditable, provided that such a determination 
+shall be effective only upon receipt of the auditors' report by the Secretary 
+of the Board of Directors and only to the extent of the maximum amount 
+creditable to the Reserve, as reported by the auditors.  The amount determined 
+by the Board shall be credited to the Reserve as of the close of the year.  The 
+Committee shall promptly be advised of the amount so credited to the Reserve 
+and of the total amount available in the Reserve (after deducting any unpaid 
+installments of incentive awards previously granted).
+
+The Committee shall make a determination of awards to be made under the Plan 
+for each year at such time or times as the Committee shall deem appropriate.  
+The aggregate of such awards may be less than, but shall not exceed, the total 
+amount available in the Reserve, except that, after the end of a year and prior 
+to the Board's determination of an amount to be credited to the Reserve for 
+that year, the Committee may make awards in excess of the amount available in 
+the Reserve if such awards are made payable only if an amount adequate to cover 
+such awards is first credited to the Reserve for such year. 
+
+If the aggregate of the awards determined by the Committee to be made under the 
+Plan for a given year shall at any time be less than the total amount available 
+in the Reserve, the Committee may at any time or times determine that 
+additional awards be made under the Plan for such year, provided that the 
+aggregate of all awards for such year shall not exceed the total amount 
+available in the Reserve, and that all awards for such year shall be determined 
+on or before December 31 of the following year. 
+
+
+                                       19
+
+If (i) the amount determined and reported by the Company's independent auditors 
+as the maximum amount creditable to the Reserve for any year shall for any 
+reason later prove to have been overstated and (ii) the amount credited to the 
+Reserve at the close of such year was in excess of the revised maximum amount 
+creditable to the Reserve for that year, then the amount available at that time 
+or subsequently in the Reserve shall be reduced by the amount of such excess.  
+Thus excess credits to the Reserve resulting from such overstatement shall be 
+corrected exclusively by adjustment of the Reserve then or subsequently 
+available and not by recourse to any person.  
+
+Any balance remaining in the Reserve after making awards for any year shall 
+continue in the Reserve and be available for awards for future years except to 
+the extent otherwise directed by the Committee.  Any payments that are made by 
+the Company, and any incentive awards that are granted by, or become 
+obligations of, the Company, through the assumption by the Company of, or in 
+substitution for, outstanding awards previously granted by an acquired company 
+shall not, except in the case of payments made to or incentive awards granted 
+to employees who are officers or directors of the Company for purposes of 
+Section 16 of the Securities Exchange Act of 1934, as amended, be charged to 
+the Reserve.
+
+Payment of Awards 
+
+Incentive awards may be made in cash or in Texas Instruments common stock, or 
+partly in cash and partly in stock as the Committee in its discretion may 
+determine.  Incentive awards made wholly or partly in stock, or any 
+installments thereof, may be paid wholly or partly in cash as the Committee in 
+its discretion may determine.  
+
+The Company shall make available as and when required a sufficient number of 
+shares of its common stock for the purpose of this Plan.  Such common stock 
+shall be either authorized and unissued shares or treasury stock. 
+
+Authorized and unissued shares and treasury stock shall be valued for the 
+purpose of awards and charged to the Reserve at the simple average of the high 
+and the low prices of Texas Instruments common stock on the Composite Tape on 
+the date the awards are made by the Committee (or if there shall be no trading 
+on that date, then on the first previous date on which there is such trading). 
+Authorized and unissued shares and treasury stock shall be valued for the 
+purpose of payments in cash of awards made in stock, at the simple average of 
+the high and the low prices of Texas Instruments common stock on the Composite 
+Tape on the payment date (or if there shall be no trading on that date, then on 
+the first previous date on which there is such trading).  
+
+The Committee may direct the awards to the participants or any of them for any 
+year to be paid in a single amount or in installments of equal or varying 
+amounts and may prescribe such terms and conditions concerning payment of such 
+installments as it deems appropriate, including completion of specific periods 
+of employment with the Company or achievement of specific goals established by 
+the Committee, as it deems appropriate, provided that such terms and conditions 
+are not more favorable to a participant than those expressly set forth in this 
+Plan.  The Committee may determine that dividend equivalents or interest, as 
+applicable, will be payable with respect to any installments of any award.  The 
+Committee may at any time after an incentive award is made amend any such 
+direction and may amend or delete any such terms and conditions concerning 
+payment of installments, if the Committee deems it appropriate.  
+
+
+
+
+                                       20
+
+When the obligation to pay an installment or installments of an award has 
+terminated for any reason, the amounts relating to such installment or 
+installments shall be added back to the Reserve and shall be available for use 
+under this Plan.  
+
+Appropriate adjustments in incentive awards payable in Texas Instruments common 
+stock shall be made to give effect to any mergers, consolidations, 
+acquisitions, stock splits, or other relevant changes in capitalization 
+occurring after the effective date of this Plan; however, no fractional shares 
+shall be distributed. 
+
+Payments of awards to employees of subsidiaries of the Company shall be paid 
+directly by such subsidiaries.  
+
+Withholding
+
+Whenever a participant is obligated to pay to the Company an amount required to 
+be withheld under applicable income tax laws in connection with the payment of 
+stock pursuant to an award under this Plan, such payment may be made (a) in 
+cash, or (b) to the extent from time to time approved by the Committee, (i) in 
+Texas Instruments common stock or (ii) partly in cash and partly in Texas 
+Instruments common stock.  For purposes of any payment in Texas Instruments 
+common stock, such stock shall be valued at the simple average of the high and 
+low prices of Texas Instruments common stock on the Composite Tape on the date 
+that the payment in stock becomes taxable (or if there is no trading on that 
+date, then on the first previous date on which there is such trading).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       21
+
+<TABLE>
+<CAPTION>
+
+                                                                                              EXHIBIT 11
+                                                                                              ----------
+
+
+                          TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+             PRIMARY AND FULLY DILUTED EARNINGS PER COMMON AND COMMON EQUIVALENT SHARE
+                             (In thousands, except per-share amounts)
+
+Years ended December 31             
+                                                                ------------------------------------------   
+                                                                   1995            1994            1993      
+                                                                ----------      ----------      ----------   
+<S>                                                             <C>             <C>             <C>
+Income before cumulative effect of accounting changes........   $1,088,101      $  690,902      $  476,226   
+  Less preferred dividends accrued:
+    Market auction preferred.................................            -               -          (2,043)  
+    Money market preferred...................................            -               -          (2,028)  
+    Series A conversion preferred............................            -               -         (16,097)  
+  Add:
+    Dividends on Series A conversion preferred
+      shares assumed converted...............................            -               -          16,097   
+    Interest, net of tax and profit sharing effect, on
+      convertible debentures assumed converted...............        1,582           2,413           2,681   
+                                                                ----------      ----------      ----------   
+Adjusted income before cumulative effect
+  of accounting changes......................................    1,089,683         693,315         474,836   
+Cumulative effect of accounting changes......................            -               -          (4,173)   
+                                                                ----------      ----------      ----------   
+Adjusted net income..........................................   $1,089,683      $  693,315      $  470,663   
+                                                                ==========      ==========      ==========   
+
+
+Earnings per Common and Common Equivalent Share:
+- -----------------------------------------------
+Weighted average common shares outstanding...................      187,644         184,124         171,901   
+  Weighted average common equivalent shares:
+    Stock option and compensation plans......................        3,127           2,379           2,643   
+    Convertible debentures...................................        2,860           4,352           4,827   
+    Series A conversion preferred............................            -               -           7,840   
+                                                                ----------      ----------      ----------   
+Weighted average common and common equivalent shares.........      193,631         190,855         187,211   
+                                                                ==========      ==========      ==========   
+
+Earnings per Common and Common Equivalent Share:
+  Income before cumulative effect of accounting changes......   $     5.63      $     3.63      $     2.54   
+  Cumulative effect of accounting changes....................            -               -            (.03)  
+                                                                ----------      ----------      ----------   
+  Net Income.................................................   $     5.63      $     3.63      $     2.51   
+                                                                ==========      ==========      ==========   
+
+
+Earnings per Common Share Assuming Full Dilution:
+- ------------------------------------------------
+Weighted average common shares outstanding...................      187,644         184,124         171,901   
+  Weighted average common equivalent shares:
+    Stock option and compensation plans......................        3,215           2,399           2,786   
+    Convertible debentures...................................        2,860           4,352           4,827   
+    Series A conversion preferred............................            -               -           7,840   
+                                                                ----------      ----------      ----------   
+Weighted average common and common equivalent shares.........      193,719         190,875         187,354   
+                                                                ==========      ==========      ==========   
+
+Earnings per Common Share Assuming Full Dilution:
+  Income before cumulative effect of accounting changes......   $     5.63      $     3.63      $     2.54   
+  Cumulative effect of accounting changes....................            -               -            (.03)  
+                                                                ----------      ----------      ----------   
+  Net income.................................................   $     5.63      $     3.63      $     2.51   
+                                                                ==========      ==========      ==========   
+</TABLE>
+
+
+                                         22
+
+<TABLE>
+<CAPTION>
+                                                                                         EXHIBIT 12
+                                                                                       ----------
+
+
+                          TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+                  COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES AND RATIO OF
+                 EARNINGS TO COMBINED FIXED CHARGES AND PREFERRED STOCK DIVIDENDS
+                                       (Dollars in millions)
+
+                                                     1991     1992     1993     1994     1995    
+                                                    ------   ------   ------   ------   ------   
+<S>                                                 <C>      <C>      <C>      <C>      <C>
+Income (loss) before income taxes                                                                
+  and fixed charges:                                                                             
+    Income (loss) before cumulative                                                              
+      effect of accounting changes,                                                              
+      interest expense on loans,                                                                 
+      capitalized interest amortized,                                                            
+      and provision for income taxes..........      $ (250)  $  433   $  755   $1,098   $1,679   
+    Add interest attributable to                                                                 
+      rental and lease expense................          43       42       38       40       41   
+                                                    ------   ------   ------   ------   ------   
+                                                    $ (207)  $  475   $  793   $1,138   $1,720   
+                                                    ======   ======   ======   ======   ======   
+
+Fixed charges:
+  Total interest on loans (expensed
+    and capitalized)..........................      $   59   $   57   $   55   $   58   $   69   
+  Interest attributable to rental
+    and lease expense.........................          43       42       38       40       41   
+                                                    ------   ------   ------   ------   ------   
+Fixed charges.................................      $  102   $   99   $   93   $   98   $  110   
+                                                    ======   ======   ======   ======   ======   
+
+Combined fixed charges and
+  preferred stock dividends:
+    Fixed charges.............................      $  102   $   99   $   93   $   98   $  110   
+    Preferred stock dividends
+     (adjusted as appropriate to a
+      pretax equivalent basis)................          34       55       29       --       --   
+                                                    ------   ------   ------   ------   ------   
+    Combined fixed charges and
+      preferred stock dividends...............      $  136   $  154   $  122   $   98   $  110   
+                                                    ======   ======   ======   ======   ======   
+
+Ratio of earnings to fixed charges............       <F1>*      4.8      8.5     11.6     15.6   
+                                                    ======   ======   ======   ======   ======   
+
+Ratio of earnings to combined
+  fixed charges and preferred
+  stock dividends.............................      <F2>**      3.1      6.5     11.6     15.6   
+                                                    ======   ======   ======   ======   ======   
+<FN>
+<F1> * Not meaningful.  The coverage deficiency was $309 million in 1991.
+
+<F2>** Not meaningful.  The coverage deficiency was $343 million in 1991.
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+                                      23
+
+INSERT ANNUAL REPORT
+
+                                                                     Exhibit 21
+                                                                     ----------
+
+
+
+                 TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+                      LIST OF SUBSIDIARIES OF THE REGISTRANT
+
+The following are current subsidiaries of the Registrant.
+<TABLE>
+<CAPTION>
+
+Subsidiary and Name Under Which Business is Done    Where Organized
+- ------------------------------------------------    ---------------
+<S>                                                 <C>
+Texas Instruments Deutschland G.m.b.H.              Germany
+Texas Instruments France S.A.                       France
+Texas Instruments Holland B.V.                      Netherlands
+Texas Instruments Hong Kong Limited                 Hong Kong
+Texas Instruments Italia S.p.A.                     Italy
+Texas Instruments Japan Limited                     Japan
+Texas Instruments Limited                           United Kingdom
+Texas Instruments Malaysia Sdn. Bhd.                Malaysia
+Texas Instruments (Philippines) Incorporated        Delaware
+Texas Instruments Singapore (Pte) Limited           Singapore
+Texas Instruments Taiwan Limited                    Taiwan
+TI Information Engineering Limited                  United Kingdom
+
+</TABLE>
+
+
+Note:   The names of other subsidiaries of the Registrant are not listed 
+herein since the additional subsidiaries considered in the aggregate as a 
+single subsidiary do not constitute a significant subsidiary as defined by 
+Rule 1.02(v) of Regulation S-X.
+
+
+
+
+                                                                     EXHIBIT 23
+                                                                     ----------
+
+
+
+                        CONSENT OF INDEPENDENT AUDITORS
+
+We consent to the incorporation by reference in this Annual Report on Form 10-K 
+of Texas Instruments Incorporated and subsidiaries of our report dated 
+January 22, 1996, included in the 1995 Annual Report to Stockholders of Texas 
+Instruments Incorporated.
+
+Our audits also included the financial statement schedule of Texas Instruments 
+Incorporated listed in Item 14(a).  This schedule is the responsibility of the 
+Registrant's management.  Our responsibility is to express an opinion based on 
+our audits.  In our opinion, the financial statement schedule referred to 
+above, when considered in relation to the basic financial statements taken as a 
+whole, presents fairly in all material respects the information set forth 
+therein.
+
+We also consent to the incorporation by reference in the following registration 
+statements, and in the related prospectuses thereto, of our report dated 
+January 22, 1996 with respect to the consolidated financial statements and 
+consolidated schedule of Texas Instruments Incorporated, included in or 
+incorporated by reference in this Annual Report on Form 10-K for the year ended 
+December 31, 1995:  Registration Statement No. 33-61154 on Form S-8, 
+Registration Statement No. 33-21407 on Form S-8, Registration Statement 
+No. 33-42172 on Form S-8, Registration Statement No. 33-54615 on Form S-8, and 
+Registration Statement No. 33-18509 on Form S-3.
+
+
+
+
+
+
+                                                      ERNST & YOUNG LLP
+
+Dallas, Texas 
+February __, 1996
+
+
+                                                                Exhibit 24
+                                                                ----------
+
+
+                              POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes 
+and appoints JERRY R. JUNKINS, WILLIAM A. AYLESWORTH and RICHARD J. AGNICH, 
+and each of them, with full power to act without the others, his true and 
+lawful attorneys-in-fact and agents, with full and several power of 
+substitution, for him and in his name, place and stead, in any and all 
+capacities, to sign the Annual Report on Form 10-K of Texas Instruments 
+Incorporated for the year ended December 31, 1995, and to file the same, with 
+all exhibits thereto, and other documents in connection therewith, with the 
+Securities and Exchange Commission, granting unto said attorneys-in-fact and 
+agents, and each of them, full power and authority to do and perform each and 
+every act and thing requisite and necessary to be done in and about the 
+premises, as fully to all intents and purposes as they or he might or could do 
+in person, hereby ratifying and confirming all that said attorneys-in-fact and 
+agents or any of them, or their or his substitute or substitutes, may lawfully 
+do or cause to be done by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney 
+on this _________ day of February, 1996.
+
+
+
+                                         /s/ JAMES R. ADAMS                  
+                                         James R. Adams
+
+
+                                                                Exhibit 24
+                                                                ----------
+
+
+                              POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes 
+and appoints JERRY R. JUNKINS, WILLIAM A. AYLESWORTH and RICHARD J. AGNICH, 
+and each of them, with full power to act without the others, his true and 
+lawful attorneys-in-fact and agents, with full and several power of 
+substitution, for him and in his name, place and stead, in any and all 
+capacities, to sign the Annual Report on Form 10-K of Texas Instruments 
+Incorporated for the year ended December 31, 1995, and to file the same, with 
+all exhibits thereto, and other documents in connection therewith, with the 
+Securities and Exchange Commission, granting unto said attorneys-in-fact and 
+agents, and each of them, full power and authority to do and perform each and 
+every act and thing requisite and necessary to be done in and about the 
+premises, as fully to all intents and purposes as they or he might or could do 
+in person, hereby ratifying and confirming all that said attorneys-in-fact and 
+agents or any of them, or their or his substitute or substitutes, may lawfully 
+do or cause to be done by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney 
+on this _________ day of February, 1996.
+
+
+
+                                         /s/ DAVID L. BOREN                   
+                                         David L. Boren
+
+
+                                                                Exhibit 24
+                                                                ----------
+
+
+                              POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes 
+and appoints JERRY R. JUNKINS, WILLIAM A. AYLESWORTH and RICHARD J. AGNICH, 
+and each of them, with full power to act without the others, his true and 
+lawful attorneys-in-fact and agents, with full and several power of 
+substitution, for him and in his name, place and stead, in any and all 
+capacities, to sign the Annual Report on Form 10-K of Texas Instruments 
+Incorporated for the year ended December 31, 1995, and to file the same, with 
+all exhibits thereto, and other documents in connection therewith, with the 
+Securities and Exchange Commission, granting unto said attorneys-in-fact and 
+agents, and each of them, full power and authority to do and perform each and 
+every act and thing requisite and necessary to be done in and about the 
+premises, as fully to all intents and purposes as they or he might or could do 
+in person, hereby ratifying and confirming all that said attorneys-in-fact and 
+agents or any of them, or their or his substitute or substitutes, may lawfully 
+do or cause to be done by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney 
+on this _________ day of February, 1996.
+
+
+
+                                         /s/ JAMES B. BUSEY IV                
+                                         James B. Busey IV
+
+
+                                                                Exhibit 24
+                                                                ----------
+
+
+                              POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes 
+and appoints JERRY R. JUNKINS, WILLIAM A. AYLESWORTH and RICHARD J. AGNICH, 
+and each of them, with full power to act without the others, his true and 
+lawful attorneys-in-fact and agents, with full and several power of 
+substitution, for him and in his name, place and stead, in any and all 
+capacities, to sign the Annual Report on Form 10-K of Texas Instruments 
+Incorporated for the year ended December 31, 1995, and to file the same, with 
+all exhibits thereto, and other documents in connection therewith, with the 
+Securities and Exchange Commission, granting unto said attorneys-in-fact and 
+agents, and each of them, full power and authority to do and perform each and 
+every act and thing requisite and necessary to be done in and about the 
+premises, as fully to all intents and purposes as they or he might or could do 
+in person, hereby ratifying and confirming all that said attorneys-in-fact and 
+agents or any of them, or their or his substitute or substitutes, may lawfully 
+do or cause to be done by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney 
+on this _________ day of February, 1996.
+
+
+
+                                         /s/ DAVID R. GOODE                   
+                                         David R. Goode
+
+
+                                                                Exhibit 24
+                                                                ----------
+
+
+                              POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes 
+and appoints WILLIAM A. AYLESWORTH and RICHARD J. AGNICH, and each of them, 
+with full power to act without the other, his true and lawful attorneys-in-
+fact and agents, with full and several power of substitution, for him and in 
+his name, place and stead, in any and all capacities, to sign the Annual 
+Report on Form 10-K of Texas Instruments Incorporated for the year ended 
+December 31, 1995, and to file the same, with all exhibits thereto, and other 
+documents in connection therewith, with the Securities and Exchange 
+Commission, granting unto said attorneys-in-fact and agents, and each of them, 
+full power and authority to do and perform each and every act and thing 
+requisite and necessary to be done in and about the premises, as fully to all 
+intents and purposes as they or he might or could do in person, hereby 
+ratifying and confirming all that said attorneys-in-fact and agents or any of 
+them, or their or his substitute or substitutes, may lawfully do or cause to 
+be done by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney 
+on this _________ day of February, 1996.
+
+
+
+                                         /s/ JERRY R. JUNKINS                 
+                                         Jerry R. Junkins
+
+
+                                                                Exhibit 24
+                                                                ----------
+
+
+                              POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes 
+and appoints JERRY R. JUNKINS, WILLIAM A. AYLESWORTH and RICHARD J. AGNICH, 
+and each of them, with full power to act without the others, his true and 
+lawful attorneys-in-fact and agents, with full and several power of 
+substitution, for him and in his name, place and stead, in any and all 
+capacities, to sign the Annual Report on Form 10-K of Texas Instruments 
+Incorporated for the year ended December 31, 1995, and to file the same, with 
+all exhibits thereto, and other documents in connection therewith, with the 
+Securities and Exchange Commission, granting unto said attorneys-in-fact and 
+agents, and each of them, full power and authority to do and perform each and 
+every act and thing requisite and necessary to be done in and about the 
+premises, as fully to all intents and purposes as they or he might or could do 
+in person, hereby ratifying and confirming all that said attorneys-in-fact and 
+agents or any of them, or their or his substitute or substitutes, may lawfully 
+do or cause to be done by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney 
+on this _________ day of February, 1996.
+
+
+
+                                        /s/ WILLIAM S. LEE                    
+                                        William S. Lee
+
+
+                                                                 Exhibit 24
+                                                                ----------
+
+
+                              POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes 
+and appoints JERRY R. JUNKINS, WILLIAM A. AYLESWORTH and RICHARD J. AGNICH, 
+and each of them, with full power to act without the others, his true and 
+lawful attorneys-in-fact and agents, with full and several power of 
+substitution, for him and in his name, place and stead, in any and all 
+capacities, to sign the Annual Report on Form 10-K of Texas Instruments 
+Incorporated for the year ended December 31, 1995, and to file the same, with 
+all exhibits thereto, and other documents in connection therewith, with the 
+Securities and Exchange Commission, granting unto said attorneys-in-fact and 
+agents, and each of them, full power and authority to do and perform each and 
+every act and thing requisite and necessary to be done in and about the 
+premises, as fully to all intents and purposes as they or he might or could do 
+in person, hereby ratifying and confirming all that said attorneys-in-fact and 
+agents or any of them, or their or his substitute or substitutes, may lawfully 
+do or cause to be done by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney 
+on this _________ day of February, 1996.
+
+
+
+                                         /s/ WILLIAM B. MITCHELL              
+                                         William B. Mitchell
+
+
+                                                                Exhibit 24
+                                                                ----------
+
+
+                              POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes 
+and appoints JERRY R. JUNKINS, WILLIAM A. AYLESWORTH and RICHARD J. AGNICH, 
+and each of them, with full power to act without the others, her true and 
+lawful attorneys-in-fact and agents, with full and several power of 
+substitution, for her and in her name, place and stead, in any and all 
+capacities, to sign the Annual Report on Form 10-K of Texas Instruments 
+Incorporated for the year ended December 31, 1995, and to file the same, with 
+all exhibits thereto, and other documents in connection therewith, with the 
+Securities and Exchange Commission, granting unto said attorneys-in-fact and 
+agents, and each of them, full power and authority to do and perform each and 
+every act and thing requisite and necessary to be done in and about the 
+premises, as fully to all intents and purposes as they or she might or could 
+do in person, hereby ratifying and confirming all that said attorneys-in-fact 
+and agents or any of them, or their or his substitute or substitutes, may 
+lawfully do or cause to be done by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney 
+on this _________ day of February, 1996.
+
+
+
+                                         /s/ GLORIA M. SHATTO                 
+                                         Gloria M. Shatto
+
+
+                                                                Exhibit 24
+                                                                ----------
+
+
+                              POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes 
+and appoints JERRY R. JUNKINS, WILLIAM A. AYLESWORTH and RICHARD J. AGNICH, 
+and each of them, with full power to act without the others, his true and 
+lawful attorneys-in-fact and agents, with full and several power of 
+substitution, for him and in his name, place and stead, in any and all 
+capacities, to sign the Annual Report on Form 10-K of Texas Instruments 
+Incorporated for the year ended December 31, 1995, and to file the same, with 
+all exhibits thereto, and other documents in connection therewith, with the 
+Securities and Exchange Commission, granting unto said attorneys-in-fact and 
+agents, and each of them, full power and authority to do and perform each and 
+every act and thing requisite and necessary to be done in and about the 
+premises, as fully to all intents and purposes as they or he might or could do 
+in person, hereby ratifying and confirming all that said attorneys-in-fact and 
+agents or any of them, or their or his substitute or substitutes, may lawfully 
+do or cause to be done by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney 
+on this _________ day of February, 1996.
+
+
+
+                                         /s/ WILLIAM P. WEBER                 
+                                         William P. Weber
+
+
+                                                                Exhibit 24
+                                                                ----------
+
+
+                              POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes 
+and appoints JERRY R. JUNKINS, WILLIAM A. AYLESWORTH and RICHARD J. AGNICH, 
+and each of them, with full power to act without the others, his true and 
+lawful attorneys-in-fact and agents, with full and several power of 
+substitution, for him and in his name, place and stead, in any and all 
+capacities, to sign the Annual Report on Form 10-K of Texas Instruments 
+Incorporated for the year ended December 31, 1995, and to file the same, with 
+all exhibits thereto, and other documents in connection therewith, with the 
+Securities and Exchange Commission, granting unto said attorneys-in-fact and 
+agents, and each of them, full power and authority to do and perform each and 
+every act and thing requisite and necessary to be done in and about the 
+premises, as fully to all intents and purposes as they or he might or could do 
+in person, hereby ratifying and confirming all that said attorneys-in-fact and 
+agents or any of them, or their or his substitute or substitutes, may lawfully 
+do or cause to be done by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney 
+on this _________ day of February, 1996.
+
+
+
+                                         /s/ CLAYTON K. YEUTTER               
+                                         Clayton K. Yeutter
+
+
+                                                                Exhibit 24
+                                                                ----------
+
+
+                              POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that the undersigned hereby constitutes 
+and appoints JERRY R. JUNKINS, WILLIAM A. AYLESWORTH and RICHARD J. AGNICH, 
+and each of them, with full power to act without the others, his true and 
+lawful attorneys-in-fact and agents, with full and several power of 
+substitution, for him and in his name, place and stead, in any and all 
+capacities, to sign the Annual Report on Form 10-K of Texas Instruments 
+Incorporated for the year ended December 31, 1995, and to file the same, with 
+all exhibits thereto, and other documents in connection therewith, with the 
+Securities and Exchange Commission, granting unto said attorneys-in-fact and 
+agents, and each of them, full power and authority to do and perform each and 
+every act and thing requisite and necessary to be done in and about the 
+premises, as fully to all intents and purposes as they or he might or could do 
+in person, hereby ratifying and confirming all that said attorneys-in-fact and 
+agents or any of them, or their or his substitute or substitutes, may lawfully 
+do or cause to be done by virtue hereof.
+
+     IN WITNESS WHEREOF, the undersigned has executed this Power of Attorney 
+on this _________ day of February, 1996.
+
+
+
+                                         /s/ MARVIN M. LANE, JR.              
+                                         Marvin M. Lane, Jr.
+
+
+<TABLE>
+<CAPTION>
+                                                                                         EXHIBIT 27
+                                                                                       ----------
+
+
+
+                      TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+                                  FINANCIAL DATA SCHEDULE
+                    (In millions of dollars, except per-share amounts.)
+
+
+
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE CONSOLIDATED FINANCIAL 
+STATEMENTS OF TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES AS OF DECEMBER 31, 1995, AND FOR 
+THE YEAR THEN ENDED, AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+
+
+Item Number           Item Description                                           Amount 
+- --------------        ---------------------------------------------------       ------- 
+<S>                   <C>                                                       <C>
+5-02(1)               Cash and cash items                                       $ 1,364 
+5-02(2)               Marketable securities                                         189 
+5-02(3)(a)(1)         Notes and accounts receivable--trade                        2,320 
+5-02(4)               Allowances for doubtful accounts                               45 
+5-02(6)               Inventory                                                   1,135 
+5-02(9)               Total current assets                                        5,518 
+5-02(13)              Property, plant and equipment                               5,631 
+5-02(14)              Accumulated depreciation                                    2,444 
+5-02(18)              Total assets                                                9,215 
+5-02(21)              Total current liabilities                                   3,188 
+5-02(22)              Bonds, mortgages and similar debt                             804 
+5-02(28)              Preferred stock--mandatory redemption                           0 
+5-02(29)              Preferred stock--no mandatory redemption                        0 
+5-02(30)              Common stock                                                  190 
+5-02(31)              Other stockholders' equity                                  3,905 
+5-02(32)              Total liabilities and stockholders' equity                  9,215 
+5-03(b)1(a)           Net sales of tangible products                             13,128 
+5-03(b)1              Total revenues                                             13,128 
+5-03(b)2(a)           Cost of tangible goods sold                                 9,318 
+5-03(b)2              Total costs and expenses applicable to sales and
+                       revenues                                                   9,318 
+5-03(b)3              Other costs and expenses                                      509 
+5-03(b)5              Provision for doubtful accounts and notes                       0 
+5-03(b)(8)            Interest and amortization of debt discount                     48 
+5-03(b)(10)           Income before taxes and other items                         1,619 
+5-03(b)(11)           Income tax expense                                            531 
+5-03(b)(14)           Income/loss continuing operations                           1,088 
+5-03(b)(15)           Discontinued operations                                         0 
+5-03(b)(17)           Extraordinary items                                             0 
+5-03(b)(18)           Cumulative effect--changes in accounting principles             0 
+5-03(b)(19)           Net income or loss                                          1,088 
+5-03(b)(20)           Earnings per share--primary                                  5.63 
+5-03(b)(20)           Earnings per share--fully diluted                               0 
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

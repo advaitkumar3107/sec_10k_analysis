@@ -1,0 +1,3582 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NnGCIW1G3qucscr75wiOXIm7IV8/XpYWOT4HH0feIYrbMyrP9n/gAX8gRtEleXNV
+ 9LESthr12INoIrSMxbQvWw==
+
+<SEC-DOCUMENT>0000891020-95-000433.txt : 19950928
+<SEC-HEADER>0000891020-95-000433.hdr.sgml : 19950927
+ACCESSION NUMBER:		0000891020-95-000433
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	19950630
+FILED AS OF DATE:		19950925
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSOFT CORP
+		CENTRAL INDEX KEY:			0000789019
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				911144442
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14278
+		FILM NUMBER:		95575998
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MICROSOFT WAY #BLDG 8
+		STREET 2:		NORTH OFFICE 2211
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052
+		BUSINESS PHONE:		2068828080
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MICROSOFT WAY - BLDG 8
+		STREET 2:		NORTH OFFICE 2211
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052-6399
+</SEC-HEADER>
+<SEC-DOCUMENT>0000891020-95-000433.txt : 19950927
+<SEC-HEADER>0000891020-95-000433.hdr.sgml : 19950927
+ACCESSION NUMBER:		0000891020-95-000433
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	19950630
+FILED AS OF DATE:		19950925
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSOFT CORP
+		CENTRAL INDEX KEY:			0000789019
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				911144442
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14278
+		FILM NUMBER:		95575998
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MICROSOFT WAY #BLDG 8
+		STREET 2:		NORTH OFFICE 2211
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052
+		BUSINESS PHONE:		2068828080
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MICROSOFT WAY - BLDG 8
+		STREET 2:		NORTH OFFICE 2211
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052-6399
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10K
+<TEXT>
+
+<PAGE>   1
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+ 
+                            ------------------------
+ 
+                                   FORM 10-K
+ 
+       /X/   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+             SECURITIES EXCHANGE ACT OF 1934
+     
+                           FOR THE FISCAL YEAR ENDED JUNE 30, 1995
+ 
+       / /   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+             SECURITIES EXCHANGE ACT OF 1934
+ 
+                           FOR THE TRANSITION PERIOD FROM      TO
+ 
+                            -----------------------------
+ 
+                           COMMISSION FILE NUMBER: 0-14278
+ 
+                                MICROSOFT CORPORATION
+               (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 
+<TABLE>
+   <S>                                                     <C>
+                  WASHINGTON                                    91-1144442
+       (STATE OR OTHER JURISDICTION OF                       (I.R.S. EMPLOYER
+        INCORPORATION OR ORGANIZATION)                     IDENTIFICATION NO.)
+
+    ONE MICROSOFT WAY, REDMOND, WASHINGTON                      98052-6399
+   (ADDRESS OF PRINCIPAL EXECUTIVE OFFICE)                      (ZIP CODE)
+</TABLE>
+ 
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (206) 882-8080
+ 
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT: NONE
+ 
+    SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT: COMMON STOCK
+ 
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes /X/     No / /
+ 
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. / /
+ 
+     The aggregate market value of the common stock held by non-affiliates of
+the registrant as of September 8, 1995 was $34,330,611,220.
+ 
+     The number of shares outstanding of the registrant's common stock as of
+September 8, 1995 was 589,952,132.
+ 
+                      DOCUMENTS INCORPORATED BY REFERENCE
+ 
+     Portions of the definitive Proxy Statement dated September 25, 1995 to be
+delivered to shareholders in connection with the Annual Meeting of Shareholders
+to be held October 27, 1995 are incorporated by reference into Part III.
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>   2
+ 
+                             MICROSOFT CORPORATION
+ 
+                                   FORM 10-K
+ 
+                    FOR THE FISCAL YEAR ENDED JUNE 30, 1995
+ 
+                                     INDEX
+ 
+<TABLE>
+<CAPTION>
+                                                                                           PAGE
+                                                                                           ----
+<S>         <C>                                                                            <C>
+                                                PART I
+Item 1.     Business.....................................................................    1
+Item 2.     Properties...................................................................   10
+Item 3.     Legal Proceedings............................................................   11
+Item 4.     Submission of Matters to a Vote of Security Holders..........................   11
+Item E.O.   Executive Officers of the Registrant.........................................   11
+                                               PART II
+Item 5.     Market for Registrant's Common Stock and Related Stockholder Matters.........   13
+Item 6.     Selected Financial Data......................................................   14
+Item 7.     Management's Discussion and Analysis of Financial Condition and Results of
+            Operations...................................................................   14
+Item 8.     Financial Statements and Supplementary Data..................................   18
+Item 9.     Changes in and Disagreements with Accountants on Accounting and Financial
+            Disclosures..................................................................   18
+                                              PART III
+Item 10.    Directors and Executive Officers of the Registrant...........................   30
+Item 11.    Executive Compensation.......................................................   30
+Item 12.    Security Ownership of Certain Beneficial Owners and Management...............   30
+Item 13.    Certain Relationships and Related Transactions...............................   30
+                                              PART IV
+Item 14.    Exhibits, Financial Statement Schedules and Reports on Form 8-K..............   31
+Signatures...............................................................................   33
+</TABLE>
+<PAGE>   3
+ 
+                                     PART I
+ITEM 1. BUSINESS
+ 
+GENERAL
+ 
+     Microsoft Corporation (the "Company" or "Microsoft") was founded as a
+partnership in 1975 and incorporated in 1981. Microsoft develops, manufactures,
+licenses, sells, and supports a wide range of software products, including
+operating systems for personal computers (PCs), workstations, and servers;
+business and consumer programs for productivity, reference, education, and
+entertainment; and development tools. Microsoft also markets personal computer
+books and input devices and is engaged in the research and development of online
+and advanced technology software products. Microsoft(R) products are available
+for most PCs, including Intel-type microprocessor-based computers and Apple
+computers.
+ 
+     Microsoft's business strategy emphasizes the development of a broad line of
+microcomputer software products for business and personal use, marketed through
+multiple channels of distribution. The Company is divided into four main groups:
+the Platforms Product Group; the Applications and Content Product Group; the
+Sales and Support Group; and the Operations Group.
+ 
+     The Platforms Product Group is comprised of four divisions, each
+responsible for a particular area of platforms software development and
+marketing. The Personal Systems Division designs and develops operating systems
+and technologies (such as multimedia, user interface, and online browsers) for
+general and home PC users. The Business Systems Division is responsible for
+computing solutions for corporate and enterprise use, including client-server
+operating systems, networking products, and server and workgroup applications.
+The Developer Division creates database products, as well as programming
+language products and software development tools. The Consumer Systems Division
+is developing software products and technologies for use on the emerging public
+networks, including future interactive television networks, and for creating
+advanced multimedia applications, such as 3D titles.
+ 
+     The Applications and Content Product Group has two divisions that create
+and market productivity programs for PCs and multimedia content titles. The
+group also includes online systems and research. The Desktop Applications
+Division creates productivity applications. The Consumer Division develops
+products designed for the home, school, and small business market, including
+multimedia consumer products and PC input devices. The MSN Division is
+responsible for an online and Internet service. Microsoft Research is a research
+lab dedicated to creating new technology in support of the Company's vision for
+the evolution of personal computing.
+ 
+     The Sales and Support Group is responsible for building long-term business
+relationships with customers. This group is organized to serve three customer
+types: OEMs (original equipment manufacturers), end users, and organizations.
+The Sales and Support Group manages the channels that serve those customers.
+These include the OEM channel and the following geographic channels: U.S. and
+Canada, Europe, and Other International. The group also provides support for the
+Company's products through Product Support Services, Consulting Services, and
+Solutions Providers.
+ 
+     The Operations Group is responsible for managing business operations and
+overall business planning. This includes the process of manufacturing and
+delivering finished goods, licenses, subscriptions, and fulfillment orders; the
+publishing efforts of Microsoft Press; and other corporate functions.
+ 
+PRODUCTS
+ 
+     PERSONAL SYSTEMS
+ 
+     The Personal Systems Division develops desktop operating systems software,
+which performs operations such as allocating computer memory, scheduling the
+execution of applications software, and managing the flow of information and
+communication among the various components of the PC. The division's primary
+desktop operating systems for PCs are: Microsoft Windows(R) 95, Microsoft
+MS-DOS(R), Microsoft Windows 3.1, and Microsoft Windows for Workgroups. (Windows
+3.1 and Windows for Workgroups 3.11 are hereafter referred to collectively as
+"Windows 3.x.")
+ 
+                                        1
+<PAGE>   4
+ 
+     Windows 95: Microsoft's new personal operating system, designed to be the
+successor to MS-DOS and Windows 3.x, was released commercially on August 24,
+1995. Windows 95 is a fully integrated, multitasking 32-bit operating system,
+compatible with mainstream PCs and most Windows 3.x and MS-DOS software
+applications. Windows 95 was also designed for the next generation of
+applications, games, PCs, and peripherals.
+ 
+     MS-DOS: Microsoft MS-DOS is a single-user, single-tasking operating system
+designed for PCs that utilize Intel microprocessor chips. Since the introduction
+of MS-DOS in 1981, the Company has enhanced MS-DOS as new technologies have
+developed and new user needs have arisen. MS-DOS has been preinstalled by OEMs
+on most PCs.
+ 
+     Windows 3.1: Microsoft Windows 3.1 is a graphical operating system for
+MS-DOS-based PCs. Microsoft Windows 3.1 supports high-performance Windows-based
+applications, and offers ease of use and aesthetic appeal, scalable TrueType(R)
+fonts, built-in multimedia functionality, and straightforward integration into
+corporate computing environments.
+ 
+     Windows for Workgroups 3.11: Windows for Workgroups 3.11 integrates network
+and workgroup functionality directly into the Windows operating system. With
+Windows for Workgroups, users can share files, data, and printers, with ease of
+access and security.
+ 
+     BUSINESS SYSTEMS
+ 
+     The Business Systems Division is focused on delivering a broad range of
+business computing solutions for organizations. The division develops and
+markets an integrated product line of software for creating business solutions,
+including foundation operating systems for servers and workstations, as well as
+applications for business servers. Server applications development is divided
+into the areas of databases, connectivity, systems management, and workgroup
+applications. Server software products are marketed separately or as a part of
+an integrated family of products, the Microsoft BackOffice(TM). The BackOffice
+family includes the following key products.
+ 
+     Windows NT Workstation and Server: Microsoft Windows NT(TM) Workstation is
+a powerful desktop operating system designed for demanding business needs. It is
+a 32-bit, multithreaded operating system for mission critical computing which
+provides the same feature and applications programming interface (API) set
+across four hardware platforms: Intel, Alpha AXP, MIPS, and Power PC. The
+operating system provides integrated mail and networking with remote access,
+pre-emptive multitasking, and support for background communication sessions. The
+Windows NT Server is designed to be the network foundation for a new generation
+of business applications. It provides extensive network management features,
+administration tools, security, and fault tolerance. It is a platform for
+business critical applications and database, connectivity, system management,
+and mail servers.
+ 
+     SQL Server: Microsoft SQL Server is a high-performance relational database
+management system designed specifically for distributed computing. SQL Server
+supports the Structured Query Language, which is a commonly used language
+through which application programs communicate with relational databases. The
+Company provides SQL Server for Windows NT systems. This product is developed in
+the Developer Division and marketed as part of BackOffice by the Business
+Systems Division.
+ 
+     SNA Server: Microsoft SNA Server is a robust, highly fault-tolerant, and
+easy-to-maintain gateway product that connects PC local area networks (LANs)
+with IBM host systems using SNA protocols.
+ 
+     Systems Management Server: Microsoft Systems Management Server is a
+software tool that helps information technology departments centrally manage
+distributed-computing environments. With Systems Management Server, system
+administrators can distribute and install software to PCs throughout an
+enterprise, meter software licenses, conduct remote diagnostics, and perform a
+detailed inventory of hardware and software resources.
+ 
+     Mail Server: Microsoft Mail Server for PC networks is a system for
+distributing messages and information. It provides administrative utilities for
+managing message files, addresses, and mail system
+ 
+                                        2
+<PAGE>   5
+ 
+capabilities. Microsoft Mail Server supports users of popular desktop platforms,
+including Windows 95, Windows 3.x, MS-DOS, Macintosh, and OS/2.
+ 
+     Mail: Microsoft Mail for PC networks includes client-access software for
+Windows 95, Windows 3.x, MS-DOS, Macintosh, and OS/2 platforms. In addition,
+this workgroup application offers large corporate users support for multiple
+network environments. A companion product, Microsoft Mail for AppleTalk
+networks, is used by companies with Macintosh servers. Microsoft Mail Remote for
+Windows offers software for remote clients used by travelers or those working at
+home to stay in touch with the office mail system.
+ 
+     Schedule+: Microsoft Schedule+ is a calendar and scheduling program that
+helps individuals and groups manage their time and resources. The program can
+search other workgroup members' schedules to determine meeting availability
+times, provide invitees the means to accept, decline, or tentatively accept
+invitations to meetings, and automatically notify attendees if a meeting is
+canceled or rescheduled.
+ 
+     DEVELOPER PRODUCTS
+ 
+     The Developer Division provides software development tools, database
+products, and technical information to Windows developers worldwide. These
+products and services help independent software developers, corporate
+developers, solutions developers, and hobbyists create a wide variety of
+applications, primarily for Windows 95, Windows 3.x, and Windows NT.
+ 
+     Database Products: Database products control the maintenance and
+utilization of structured data organized into a set of records or files. The
+Company offers database products which span the needs of a wide variety of
+users, from individuals to large corporations. These products include Microsoft
+Access, Microsoft FoxPro(R), Microsoft SQL Server, and a variety of database
+connectivity technologies. Microsoft Access is a relational database management
+application, also offered in conjunction with Microsoft Office, which provides
+access to structured business data. Microsoft FoxPro is a desktop database
+development tool which is compatible with the industry standard xBase
+development language. FoxPro supports xBase applications on MS-DOS, Windows 3.x,
+Windows 95, Windows NT, Macintosh, and UNIX. The Open Database Connectivity
+(ODBC) product provides access and connectivity to read and write to various
+databases from other computer industry vendors from within Microsoft Windows
+applications.
+ 
+     Software Development Tools and Computer Languages: Software development
+tools and computer languages allow software developers to write programs in a
+particular computer language and translate programs into a binary
+machine-readable set of commands that activate and instruct the hardware. The
+Company develops and markets a number of software development environments,
+language compilers, and software testing tools. Microsoft Visual C++(TM) is the
+Company's development system for 16- and 32-bit application development on
+Windows 3.x, Windows 95, and Windows NT. The Microsoft Visual Basic(TM)
+programming system for Windows 95, Windows 3.x, and Windows NT operating systems
+provides easy access to a wide variety of data sources by integrating the
+Microsoft Access database engine and the ability to leverage investments in
+commercial applications through OLE 2.0. Additionally, the Company offers
+professional, highly-integrated development environments in the FORTRAN language
+for MS-DOS, Windows 3.x, and Windows NT.
+ 
+     Developer Information Products: The Company provides third party software
+developers with a wide range of technical and support information that assists
+them in developing software products intended to run on Windows 3.x, Windows 95,
+and Windows NT. Developers subscribe to the Microsoft Developer Network (MSDN)
+information service and receive periodic updates via CD-ROMs, magazines, and
+several on-line information services.
+ 
+     CONSUMER SYSTEMS
+ 
+     The Consumer Systems Division is developing advanced system software. Core
+technologies under development include broadband networking and multimedia
+operating system architecture, advanced video and graphics, and new authoring
+system technologies for interactive television. The group is also responsible
+ 
+                                        3
+<PAGE>   6
+ 
+for the development and marketing activities of the Company's SoftImage
+products, which include authoring and editing systems for film and video.
+ 
+     DESKTOP APPLICATIONS SOFTWARE
+ 
+     The Desktop Applications Division develops applications software, which
+provides the PC with instructions for the performance of end user tasks. The
+Company's desktop applications software is designed for use by a broad class of
+end users, regardless of business, industry, or market segment. Primary examples
+of desktop applications software are word processing, spreadsheet, and
+presentation graphics programs. The Company's desktop applications programs are
+developed principally for Windows 95, Windows 3.x, and Macintosh operating
+systems.
+ 
+     Microsoft Office: Microsoft Office(R) is a suite of software programs
+featuring seamless integration of the most commonly used desktop applications.
+Microsoft Office is based upon a document-centric concept, with common commands
+and extensive use of object linking and embedding (OLE) cross-application
+capabilities. Microsoft Office is available in two editions, Standard and
+Professional. The Standard Edition includes Microsoft Word, Microsoft Excel, and
+the Microsoft PowerPoint(R) presentation graphics program. The Microsoft Office
+for Windows 95 version also includes Schedule+, while earlier versions of the
+Standard Edition included a client-access license for Microsoft Mail. The
+Standard Edition is available for Windows 95, Windows 3.x, and Macintosh
+operating systems. The Microsoft Office Professional Edition for Windows adds
+the Microsoft Access(R) database.
+ 
+     Microsoft Word: The Company's principal word processing program is
+Microsoft Word. Versions of Microsoft Word for Windows 95 and for Windows 3.x
+provide all the features that users of word processing products expect in the
+Windows graphical environment, plus the ability to handle graphics, tables,
+spreadsheet data, charts, and images imported from other Windows-based software
+programs. The Company also has Windows NT and Macintosh versions of Microsoft
+Word.
+ 
+     Microsoft Excel: The Company's spreadsheet program is Microsoft Excel,
+which is available for Windows 95, Windows 3.x, Windows NT, and Macintosh
+operating systems. It is an integrated spreadsheet with pivot table, database,
+and business graphics capabilities. Microsoft Excel allows full linking and
+embedding of objects that permits users to view and edit graphics or charts from
+other Windows-based programs from the worksheet in which the object is stored.
+Microsoft Excel graphics capabilities can be linked to its spreadsheets to allow
+simultaneous changes to charts as changes are made to the spreadsheets.
+ 
+     Microsoft PowerPoint: Microsoft PowerPoint is a presentation graphics
+program for producing slides, overheads, transparencies, and prints. The Company
+markets versions of PowerPoint for Windows 95, Windows 3.x, and the Macintosh.
+ 
+     Microsoft Project: Microsoft Project is a critical path project scheduling
+and resource allocation program that runs on Windows 95, Windows 3.x, and
+Macintosh operating systems. The product can perform as a budgeting, monitoring,
+and cost estimating tool for large business projects and as a critical path and
+schedule planning tool.
+ 
+     ONLINE SERVICES
+ 
+     The MSN Division manages MSN, The Microsoft Network, a new, interactive
+online service. MSN provides easy and inexpensive access for users to a wide
+range of graphically-rich online content, a compelling business model and
+platform for independent content providers (ICPs), and rich and powerful
+development tools.
+ 
+     The Microsoft Network: Client-access software for MSN is included as a
+feature of Windows 95, which was released commercially on August 24, 1995. The
+online service provides access to the Internet, electronic mail, bulletin
+boards, and myriad additional services offered by Microsoft and by independent
+content providers. The Microsoft Internet Explorer, an Internet browser, takes
+advantage of various technical advances in Windows 95 and includes real-time
+audio capabilities. Content and service providers aligned with MSN
+ 
+                                        4
+<PAGE>   7
+ 
+have flexibility in creating products and pricing their services, such as
+subscriptions, online transactions, and ticket events. Services may be supported
+by advertising and commerce.
+ 
+     MSN is owned by The Microsoft Network, LLC (formerly the Microsoft Online
+Services Partnership). Microsoft owns 80% of the entity and a wholly owned
+subsidiary of Tele-Communications, Inc. (TCI) owns the remaining 20%.
+ 
+     CONSUMER PRODUCTS
+ 
+     The Microsoft Consumer Division develops and markets useful, enjoyable, and
+fundamental software and services for small businesses, schools, and homes. The
+division is developing and managing a synergistic product line focusing on the
+following categories of consumer usage: Information, Productivity, Kids,
+Personal Finance, Entertainment, and PC Input Devices. Many of the titles are
+available on CD-ROM.
+ 
+     Information: Reference titles include Microsoft Encarta(TM) and Microsoft
+Bookshelf(R), which are both available for Windows 3.x and Macintosh operating
+systems. The Encarta multimedia encyclopedia database blends text in articles
+with a wealth of innovative, interactive information presented through
+animations, videos, maps, charts, sounds, and pictures. Bookshelf is a
+multimedia reference library that integrates seven well-respected and
+authoritative works on one compact disc, including a dictionary, world atlas,
+world almanac, thesaurus, concise encyclopedia, and two books of quotations.
+ 
+     Personal interest titles include Microsoft Cinemania(TM), an interactive
+guide to the movies with entries for 19,000 films, Microsoft Dinosaurs, and many
+musical titles.
+ 
+     Geography and travel products include Automap Road Atlas, a comprehensive
+route-planning program with detailed maps and road information for routes in
+North America.
+ 
+     Productivity: The Company's leading consumer productivity products are
+Microsoft Works and Microsoft Publisher. The Company markets versions of
+Microsoft Works that run on Windows 95, Windows 3.x, MS-DOS, and Macintosh
+operating systems. Microsoft Works is an integrated software program that
+contains basic word processing, spreadsheet, and database capabilities that
+allows the easy exchange of information from one tool to another. Microsoft
+Publisher is an easy-to-use, entry-level desktop publishing tool for Windows 95
+and Windows 3.x operating systems. Publisher features an interactive tool that
+automates the design process of 12 custom publications, including newsletters,
+calendars, greeting cards, and invitations.
+ 
+     Kids: Titles for children include Microsoft Creative Writer and Microsoft
+Fine Artist. Creative Writer is a full-featured creative writing and publishing
+program; Fine Artist is a comprehensive art program. Both products take
+advantage of the computer's ability to integrate text, high-quality graphics,
+sound, and animation to produce an enriching creative experience for children.
+The Company also has a series of products based on the popular children's books
+and television series, The Magic School Bus.
+ 
+     Personal Finance: Microsoft Money is a financial organization product that
+allows users to computerize their household finances. Microsoft Money is
+available for systems running Windows 95 and became available August 24, 1995.
+It is visually appealing, easy to use, and focuses on the financial tasks that
+people do most often. Microsoft Money provides enhanced online home-banking
+services with 17 different banks in the U.S. Users who are customers of
+participating banks will be able to pay bills online, access up-to-date
+statements and balances, transfer funds, and send email messages and inquiries
+to their banks.
+ 
+     Entertainment: The Company also has a line of entertainment products.
+Microsoft Flight Simulator, which was developed by Bruce Artwick Organization
+Ltd., is a popular airplane-flying game available for MS-DOS and Macintosh
+operating systems. Microsoft Golf, licensed from Access Software, Inc., is a
+realistic simulation of the sport of golf for Windows 95 and Windows 3.x
+operating systems.
+ 
+     PC Input Devices: The Company's major input device is the Microsoft Mouse,
+a hand-held pointing device that facilitates use of a PC. It can be used with
+MS-DOS, Windows 95, and Windows 3.x operating systems and works with many
+applications products from Microsoft and other companies. The Microsoft
+BallPoint(R) Mouse is designed especially for use with laptop and notebook
+computers. The BallPoint Mouse is shipped with a universal clamp that fits on
+the keyboards of most laptop computers and a positioner that allows
+ 
+                                        5
+<PAGE>   8
+ 
+the user to adjust the angle of the mouse to the keyboard. The Company also
+designed and markets the Microsoft Natural Keyboard(TM), an
+ergonomically-designed keyboard.
+ 
+     MICROSOFT PRESS
+ 
+     Microsoft Press publishes books about software products from Microsoft and
+other software developers and about current developments in the industry. Books
+published by Microsoft Press typically are written and copyrighted by
+independent authors who submit their manuscripts to the Company for publication
+and who receive royalties based on net revenues generated by the book.
+ 
+     Microsoft Press contracts with an independent commercial printer for the
+manufacturing of its books. Publisher's Resources, Inc. acts as the Company's
+main fulfillment house in the United States, maintaining the majority of the
+inventory of Microsoft Press books. Books are marketed by independent sales
+representatives and by Microsoft Press sales personnel. Internationally,
+Microsoft Press has numerous international agreements with publishers for the
+worldwide distribution of its books. Microsoft Press has granted a publisher in
+England the right to distribute English language versions of its books in all
+countries except the United States, Canada, Central and South America, and
+certain Asian countries. In most cases, Microsoft Press provides each publisher
+with a book's manuscript, and the publisher arranges for its translation and the
+printing, marketing, and distribution of the translated version.
+ 
+PRODUCT DEVELOPMENT
+ 
+     The PC software industry is characterized by extremely rapid technological
+change, which requires a continuous and high level of expenditures for enhancing
+existing products and developing new products. The Company is committed to
+continued high expenditures for research and product development.
+ 
+     Most of the Company's software products are developed internally. The
+Company also purchases technology, licenses intellectual property rights, and
+oversees third party development for certain products. Product documentation is
+also created internally. Internal development enables Microsoft to maintain
+closer technical control over the products and gives the Company the freedom to
+designate which modifications and enhancements are most important and when they
+should be implemented. The Company has created a substantial body of proprietary
+development tools and has evolved a development methodology for creating and
+enhancing its products. These tools and methodology are also designed to
+simplify a product's portability among different operating systems or computers.
+ 
+     The Company believes that a crucial factor in the success of a new product
+is getting it to market quickly to respond to new user needs or advances in
+hardware design, without compromising product quality. The Company strives to
+become as informed as possible at the earliest possible time about changing
+usage patterns and hardware advances that may affect software design.
+ 
+     During fiscal years 1993, 1994, and 1995, the Company spent $470 million,
+$610 million, and $860 million, respectively, on product research and
+development activities. Those amounts represented 12.5%, 13.1%, and 14.5%,
+respectively, of net revenues in each of those years.
+ 
+LOCALIZATION
+ 
+     In order to best serve the needs of users in foreign countries, Microsoft
+"localizes" many of its products to reflect local languages and conventions. In
+France, for example, all user messages and documentation are in French and all
+monetary references are in French francs, and in the United Kingdom, monetary
+references are in British pounds and user messages and documentation reflect
+certain British conventions. Various Microsoft products have been localized into
+more than 30 languages.
+ 
+MANUFACTURING
+ 
+     The Company has manufacturing facilities located in the United States,
+Puerto Rico, and Ireland. The Company's manufacturing operations involve disk
+replication, assembly of purchased parts, and final packaging. Quality control
+tests are performed on purchased parts, finished disks, and other products. The
+ 
+                                        6
+<PAGE>   9
+ 
+chief materials and components used in Microsoft products include disks or
+CD-ROMs, books, and multicolor printed materials. The Company is often able to
+acquire component parts and materials on a volume discount basis. The Company
+has multiple sources for raw materials, supplies, and components.
+ 
+     The Company contracts a substantial portion of its manufacturing activity
+to third parties. Outside manufacturers produce various software products,
+documentation, and hardware such as mouse pointing devices and keyboards. There
+are other custom manufacturers in the event that outsourced manufacturing
+becomes unavailable from current sources.
+ 
+MARKETING AND DISTRIBUTION
+ 
+     Microsoft aligns its sales and marketing people with three customer types:
+end users, organizations, and OEMs. The Company's sales and marketing staff
+seeks to build long-term relationships with these customers of Microsoft
+products. Microsoft has four major channels of distribution which deliver
+product to end users: finished goods in the U.S. and Canada, Europe, and Other
+International; and OEM.
+ 
+     The end user customer unit has responsibility for activities that target
+end users who make individual buying decisions for the PCs they use at work or
+home. All sales and marketing activities aimed at end user customers are
+performed by this unit, including developing and administering distributor and
+reseller relationships; reseller sales terms and conditions; channel marketing
+and promotions; end user marketing programs; support policies; and seminars,
+events, and sales training for resellers. The key products licensed and sold are
+the Company's personal operating systems and consumer and desktop applications.
+ 
+     The organization customer unit has responsibility for activities that
+target groups of users in organizations of all sizes. The unit works with
+Solutions Providers, the Microsoft Consulting Services division, and directly
+with organizations to create enterprise-wide solutions to business computing
+problems. The unit's sales and marketing activities include providing technical
+training of Solutions Providers and channel resellers; developing support
+policies; and supporting and providing seminars, events, and sales training for
+resellers and Solutions Providers. Key products are the Company's business
+systems, developer software, and software sold via volume licensing programs. In
+the U.S., the organization customer unit is further segregated into an
+enterprise customer unit, which services only large organization customers, and
+a more specialized unit which services small and medium customers.
+ 
+     The OEM customer unit includes the sales force which works with original
+equipment manufacturers that include Microsoft software on their PCs.
+ 
+     FINISHED GOODS CHANNELS
+ 
+     Distributors and Resellers: The Company markets its products in the
+finished goods channels primarily through independent non-exclusive distributors
+and resellers. Distributors include Computer 2000, Ingram Micro, and Merisel.
+Resellers include Egghead Software, Softbank, Software Spectrum, and Stream
+International (formerly Corporate Software). Microsoft has a network of field
+sales representatives and field support personnel who solicit orders from
+distributors and resellers and provide product training and sales support.
+ 
+     Large Accounts: The Company has a program designed to make it easier for
+large organizations to acquire and maintain Microsoft products. The program,
+Microsoft Select, offers flexible software acquisition, licensing, and
+maintenance options specially designed to meet the needs of large multinational
+organizations. Targeted audiences include technology specialists and influential
+end users in large enterprises. Marketing efforts and fulfillment are generally
+coordinated with the Microsoft network of large account resellers.
+ 
+     Solutions Providers: Microsoft's Solutions Providers program is a
+comprehensive support relationship with independent organizations that provide
+network and system integration, custom development, training, and technical
+support for business computing solutions. The program supports value-added
+resellers (VARs), system integrators, consultants, and developers, as well as
+technical support and training organizations. Under this business partnership
+strategy, the Company provides sales and product information, development
+services, early access to Microsoft products, and customer support tools
+including priority telephone support, education,
+ 
+                                        7
+<PAGE>   10
+ 
+and business development support. To ensure high-quality technical services for
+the Company's products, Microsoft Solutions Providers are required to have
+Microsoft-certified professionals on staff.
+ 
+     Consulting Services: The Company's Consulting Services Division assists
+customers in using the Company's computer operating systems, applications, and
+communications products. The group works with Solutions Providers and helps
+create enterprise-wide computing solutions for large corporate accounts.
+ 
+     Direct Marketing: Microsoft promotes some of its products through direct
+marketing techniques directed toward existing and potential users of the
+Company's products. Promotional materials are typically delivered through the
+mail, utilizing lists of targeted individuals. Fulfillment of product to the end
+user is accomplished by either direct shipment or through resellers.
+ 
+     International Sales Sites: The Company has established marketing, support,
+and/or distribution subsidiaries in Argentina, Australia, Austria, Belgium,
+Brazil, Canada, Chile, Colombia, Costa Rica, the Czech Republic, Denmark,
+Ecuador, Finland, France, Germany, Greece, Hong Kong, Hungary, India, Ireland,
+Israel, Italy, Japan, Malaysia, Mexico, Morocco, the Netherlands, New Zealand,
+Norway, the People's Republic of China, Peru, the Philippines, Poland, Portugal,
+Puerto Rico, Russia, Singapore, Slovakia, Slovenia, South Africa, South Korea,
+Spain, Sweden, Switzerland, Taiwan, Thailand, Turkey, United Arab Emirates, the
+United Kingdom, and Venezuela.
+ 
+     The Company's international operations, both OEM and finished goods, are
+subject to certain risks common to foreign operations in general, such as
+governmental regulations, import restrictions, and foreign exchange rate
+fluctuations. Microsoft hedges a portion of its foreign exchange risk.
+ 
+     OEM CHANNEL
+ 
+     The Company's operating systems are licensed primarily to OEMs under
+agreements that grant the OEMs the right to distribute copies of Microsoft's
+products with their computers. The Company also markets certain language and
+applications programs to OEMs under similar arrangements. In addition, the
+Company markets the Microsoft Mouse, BallPoint Mouse, and Natural Keyboard to
+OEMs for distribution to buyers of their computers. In almost all cases, the
+products are distributed under Microsoft trademarks. The Company has OEM
+agreements covering one or more of its products with virtually all of the major
+microcomputer OEMs, including AST Research, Acer, Digital Equipment Corporation,
+Dell, Compaq, Gateway 2000, Hewlett-Packard, IBM, NEC, Olivetti, Packard Bell,
+and Toshiba.
+ 
+     ADVERTISING
+ 
+     The Company works closely with large advertising and direct marketing
+firms. Advertising, direct marketing, worldwide packaging, and marketing
+materials are targeted to various end-user segments. The Company utilizes broad
+consumer media (television, radio, and business publications) and trade
+publications. Microsoft has programs under which qualifying resellers and OEMs
+are reimbursed for certain advertising expenditures. Microsoft also invests
+heavily in direct marketing and customer satisfaction areas. In 1996, the
+Company plans to spend more than $150 million on a broad campaign emphasizing
+the Microsoft brand identity.
+ 
+CUSTOMERS
+ 
+     As described above, Microsoft has three customer types: end users,
+organizations, and OEMs. Most end users of Microsoft products are individuals in
+businesses, government agencies, educational institutions, and at home. These
+end users obtain Microsoft products primarily through distributors, resellers,
+and OEMs, which include certain Microsoft products with their hardware. Notes to
+Financial Statements describe customers that represent more than 10% of the
+Company's revenues. The Company's practice is to ship its products promptly upon
+receipt of purchase orders from its customers and, consequently, backlog is not
+significant.
+ 
+                                        8
+<PAGE>   11
+ 
+PRODUCT SUPPORT SERVICES
+ 
+     The Company's Product Support Services group, with locations in the U.S.
+and in various Microsoft subsidiaries, provides product support coverage options
+to meet the needs of users of Microsoft products. The Company hires individuals
+with proven product expertise and provides them with productivity tools,
+continuous product education and training, and consistent processes to deliver
+quality support for Microsoft products. Certain telephone support is also
+supplied by qualified third-party support organizations. Coverage options range
+from standard no-charge toll telephone support to fee-based offerings providing
+unlimited 800 number telephone and electronic technical support across all
+Microsoft products 24 hours per day, 7 days per week.
+ 
+     Users have access to Microsoft KnowledgeBase, a library of thousands of
+technical articles that is updated regularly with useful information regarding
+Microsoft products. Microsoft provides access to KnowledgeBase via MSN, America
+Online, CompuServe(R), GEnie(TM), Prodigy, and the Internet. Additionally, the
+Company offers two information subscription services: Microsoft TechNet and
+Microsoft Developer Network.
+ 
+     As a supplement or alternative to direct support, the Company enhances the
+third party support channel by providing Microsoft Solutions Providers with
+education, training, tools, and support. Microsoft Solutions Providers include
+Authorized Training Centers, which offer advanced product education and
+certification on Microsoft products; and Authorized Support Centers, which
+provide a wide spectrum of multinational support, multivendor support, and
+integration services.
+ 
+COMPETITION
+ 
+     The microcomputer software business is intensely competitive and subject to
+extremely rapid technological change. Microsoft faces formidable competition in
+all areas of its business activity, including competition from many companies
+whose revenues and resources are much larger than Microsoft's.
+ 
+     Operating systems.  Microsoft's operating systems products face substantial
+competition from a number of sources. Major competitors such as IBM, Apple
+Computer, Digital Equipment Corporation, and others, which are vertically
+integrated in both software development and hardware manufacture, have developed
+operating systems that they preinstall on computers of their own manufacture.
+Many of these operating system software products are also licensed to third
+party OEMs for preinstallation on their machines. Microsoft's operating systems
+products compete with UNIX-based operating systems from a wide range of
+companies including IBM, AT&T, Hewlett Packard, Sun Microsystems, Novell, The
+Santa Cruz Operation, and others. Variants of UNIX run on a wide variety of
+computer platforms and are gaining increasing acceptance as desktop operating
+systems. As microcomputer technology increasingly moves toward connectivity and
+communications, Microsoft's operating systems products will face increased
+competition from network server operating systems, such as Novell NetWare, and
+"middleware" products such as Lotus Notes from IBM. Microsoft's operating
+systems products also face constant competition from software pirates who
+unlawfully copy and distribute Microsoft's copyrighted software products.
+ 
+     Business systems. The Company is a fairly recent entrant into
+enterprise-wide computing solutions. As such, competitors enjoy larger market
+shares and installed bases. Software developers that provide competing server
+applications include Oracle, Sybase, and Informix. There are also several
+software vendors who offer connectivity servers. Additionally, Lotus Development
+(now owned by IBM) has a large installed base of Lotus Notes and cc:Mail, which
+compete with the Company's workgroup products.
+ 
+     Desktop applications. The Company's competitors include many software
+application vendors, such as Lotus, Oracle, Claris, and Novell. Some of the
+competitors in this arena do not offer products in every major desktop
+application category (e.g., spreadsheet, word processors, databases, etc.) and
+as a result may be able to more effectively focus their efforts on enhancing
+particular product offerings.
+ 
+     Online services. An enormous range of companies, including media
+conglomerates, telephone companies, cable companies, retailers, hardware
+manufacturers, and software developers, are competing to make online services
+widely available to computer users. Microsoft's new online services network,
+MSN, faces
+ 
+                                        9
+<PAGE>   12
+ 
+formidable competition from both established online networks, such as CompuServe
+(owned by H&R Block), Prodigy (owned by IBM and Sears), America Online, and
+others, and impending entrants, such as a number of new online networks that
+will be offered by AT&T. MSN and other online networks also face competition
+from online services that are offered to users directly via the Internet,
+including, in particular, the World Wide Web portion of the Internet.
+Additionally, Netscape, Adobe, Sun Microsystems, and many other companies offer
+software for Internet servers and for user navigation of the Internet.
+ 
+     Developer. The Company's developer products compete against offerings from
+Sybase, Borland, and many other companies.
+ 
+     Consumer. Microsoft's Consumer division faces many smaller but focused
+competitors, particularly in the areas of entertainment and education. Examples
+include Intuit, Broderbund, Electronic Arts, Softkey, The Learning Company,
+Davidson Associates, Voyager, Comptons, Edmark, Sierra On-Line, and Dorling
+Kindersley. Still other competitors own branded content, such as Walt Disney and
+Lucas Arts. Additionally, as platforms become more powerful, PC-based games will
+compete head-to-head with games created for proprietary systems such as Nintendo
+and Sega. The Consumer Division's input devices face substantial competition
+from computer manufactures, since computers are typically sold with a keyboard
+and mouse, and other manufacturers of these devices.
+ 
+     The Company believes that the principal competitive factors in marketing PC
+software are the product's reputation, features and functions, ease of use,
+reliability, price relative to performance, timeliness of delivery, and
+availability and quality of support services. There is no assurance that the
+Company's competitive position will not be adversely affected by one or more of
+these factors in the future, particularly in view of the fast pace of
+technological change in the software industry.
+ 
+EMPLOYEES
+ 
+     As of June 30, 1995, the Company employed 17,801 people, 12,193
+domestically and 5,608 internationally. Of the total, 5,397 were in product
+research and development, 9,166 in sales, marketing, and support, 1,639 in
+manufacturing and distribution, and 1,599 in finance and administration.
+Microsoft's success is highly dependent on its ability to attract and retain
+qualified employees. Competition for employees is intense in the software
+industry. To date, the Company believes it has been successful in its efforts to
+recruit qualified employees, but there is no assurance that it will continue to
+be as successful in the future. None of the Company's employees are subject to
+collective bargaining agreements. The Company believes that relations with its
+employees are excellent.
+ 
+ITEM 2. PROPERTIES
+ 
+     The Company's corporate offices consist of approximately 2.2 million square
+feet of office building space located in Redmond, Washington. There are two
+sites that total approximately 300 acres of land. The Company is constructing a
+225,000 square foot office building, which is expected to be completed in the
+spring of 1996. Additionally, construction is continuing on another series of
+office buildings with approximately 685,000 square feet of space. Occupancy on
+this site will be phased starting in the fall of 1995 and completed by spring of
+1996. The Company owns all of its corporate campus.
+ 
+     The Company's domestic manufacturing and distribution operation consists of
+a 265,000 square foot facility situated on 23 acres in nearby Snohomish County,
+Washington, and a 45,000 square foot disk duplication facility in Humacao,
+Puerto Rico. The Puerto Rican facility, which began operation in April 1990, is
+leased under a 10-year lease, with an option to renew for an additional 10
+years. The Company's European manufacturing operation consists of a 155,000
+square foot facility situated on 12 acres in Dublin, Ireland. The Ireland site
+also includes a 25,000 square foot office building for international
+localization. An additional 80,000 of square feet of office space for
+localization is being constructed in Ireland.
+ 
+     The Company owns a 65,000 square foot office building on seven acres of
+land plus another 33 acres near London, England. In Les Ulis, France, the
+Company owns a 110,000 square foot office building on four acres of land.
+ 
+                                       10
+<PAGE>   13
+ 
+     In addition, the Company leases office space in numerous locations in the
+United States and many other countries.
+ 
+ITEM 3. LEGAL PROCEEDINGS
+ 
+     See Notes to Financial Statements -- Contingencies.
+ 
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+ 
+     No matters were submitted to a vote of security holders during the fourth
+quarter of fiscal 1995.
+ 
+ITEM E.O. EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+     The executive officers of Microsoft as of September 8, 1995 were as
+follows:
+ 
+<TABLE>
+<CAPTION>
+    NAME                       AGE     POSITION WITH THE COMPANY
+    ----                       ---     -------------------------
+    <S>                        <C>     <C>
+    William H. Gates           39      Chairman of the Board; Chief Executive Officer
+    Steven A. Ballmer          39      Executive Vice President, Worldwide Sales and Support
+    Robert J. Herbold          53      Executive Vice President; Chief Operating Officer
+    Frank M. (Pete) Higgins    37      Group Vice President, Applications and Content Group
+    Paul A. Maritz             40      Group Vice President, Platforms Group
+    Nathan P. Myhrvold         36      Group Vice President, Applications and Content Group
+    James E. Allchin           43      Senior Vice President, Business Systems Division
+    Roger J. Heinen, Jr.       44      Senior Vice President, Developer Division
+    Joachim Kempin             53      Senior Vice President, Worldwide OEM Sales
+    Craig J. Mundie            46      Senior Vice President, Consumer Systems Division
+    William H. Neukom          53      Senior Vice President, Law and Corporate Affairs;
+                                       Secretary
+    Jeffrey S. Raikes          37      Senior Vice President, North America
+    Brad A. Silverberg         41      Senior Vice President, Personal Systems Division
+    Patricia Q. Stonesifer     39      Senior Vice President, Consumer Division
+    Bernard P. Vergnes         50      Senior Vice President, Microsoft; President, Microsoft
+                                       Europe
+    Michael W. Brown           49      Vice President, Finance; Chief Financial Officer
+</TABLE>
+ 
+     Mr. Gates co-founded Microsoft in 1975 and has been its Chief Executive
+Officer and Chairman of the Board since the original partnership was
+incorporated in 1981.
+ 
+     Mr. Ballmer was named Executive Vice President, Worldwide Sales and Support
+in February 1992. He had been Senior Vice President, Systems Software since
+1989. From 1984 until 1989, Mr. Ballmer served as Vice President, Systems
+Software. He joined Microsoft in 1980.
+ 
+     Mr. Herbold joined Microsoft as Executive Vice President and Chief
+Operating Officer in November 1994. Herbold had been with The Procter & Gamble
+Company since 1968, with experience in information services, advertising and
+market research. Most recently, he was P&G's Senior Vice President, Information
+Services and Advertising.
+ 
+     Mr. Higgins was named Group Vice President, Applications and Content Group
+in May 1995. He was named Senior Vice President, Desktop Applications Division
+in March 1993. He had been Vice President, Desktop Applications Division since
+1992 and previously, Vice President, Analysis Business Unit since 1991. Mr.
+Higgins joined Microsoft in 1983.
+ 
+     Mr. Maritz was named Group Vice President, Platforms Group in May 1995. He
+was named Senior Vice President, Product and Technology Strategy in November
+1994 and had been Senior Vice President, Systems
+ 
+                                       11
+<PAGE>   14
+ 
+Division since February 1992. He had been Vice President, Advanced Operating
+Systems since 1989. Mr. Maritz joined Microsoft in 1986.
+ 
+     Mr. Myhrvold was named Group Vice President, Applications and Content Group
+in May 1995. He was named Senior Vice President, Advanced Technology in July
+1993. He had been Vice President, Advanced Technology and Business Development
+since 1989. Mr. Myhrvold joined Microsoft in 1986.
+ 
+     Mr. Allchin was named Senior Vice President, Business Systems Division in
+November 1994. He had been Vice President, Business Systems Division, since July
+1991. Prior to joining Microsoft in 1991, Mr. Allchin spent seven years at
+Banyan Systems, Inc., where he held numerous positions, most recently Senior
+Vice President and Chief Technology Officer.
+ 
+     Mr. Heinen joined Microsoft as Senior Vice President, Developer Division in
+January 1993. He had been Senior Vice President and General Manager of the
+Macintosh Software Division at Apple Computer, Inc. from 1990 to 1993. Prior to
+1990, Heinen was a corporate consulting engineer for software at Digital
+Equipment Corporation.
+ 
+     Mr. Kempin was named Senior Vice President, Worldwide OEM Sales in August
+1993. He had been Vice President, OEM Sales since 1987. Mr. Kempin had served as
+General Manager of Microsoft's German subsidiary since its inception in 1983.
+ 
+     Mr. Mundie was named Senior Vice President, Consumer Systems Division in
+May 1995. He had been Vice President, Advanced Consumer Technology since July
+1993. He joined Microsoft as General Manager, Advanced Consumer Technology Group
+in December 1992. Previously, Mr. Mundie had been CEO of Alliant Computer
+Systems Corporation, which declared bankruptcy on May 25, 1992 and was
+liquidated.
+ 
+     Mr. Neukom was named Senior Vice President, Law and Corporate Affairs in
+February 1994. He joined Microsoft in 1985 as Vice President. Mr. Neukom
+formerly was a member of the Seattle law firm of Shidler McBroom Gates & Lucas
+(now Preston Gates & Ellis), Microsoft's primary outside law firm.
+ 
+     Mr. Raikes was named Senior Vice President, Microsoft North America in
+January 1992. He had been Vice President, Office Systems since 1990. Mr. Raikes
+came to Microsoft in 1981.
+ 
+     Mr. Silverberg was named Senior Vice President, Personal Systems Division
+in November 1994. He joined Microsoft in August 1990 as Vice President, Personal
+Operating Systems Division. From 1987 until joining Microsoft, Mr. Silverberg
+served as Vice President, Engineering for Borland International, Inc.
+ 
+     Ms. Stonesifer was named Senior Vice President, Consumer Division in
+November 1994, after having been Vice President, Consumer Division since June
+1993. She had been Vice President, Support since 1992 and General Manager of
+Product Support Services since 1991. Previously, she was General Manager of
+Microsoft Canada and before that, General Manager for Microsoft Press. Prior to
+joining Microsoft in 1988, Ms. Stonesifer was with Que Corporation, a publisher
+of books for computer users.
+ 
+     Mr. Vergnes is a Senior Vice President of Microsoft and was named
+President, Microsoft Europe in April 1992. He had been Vice President, Europe
+since 1989. Mr. Vergnes served as General Manager of Microsoft's French
+subsidiary since its inception in 1983.
+ 
+     Mr. Brown was named Chief Financial Officer in August 1994 and Vice
+President, Finance in April 1993. He had been Treasurer since February 1990,
+after joining Microsoft in January 1990. Previously, Mr. Brown was a partner in
+the accounting firm Deloitte & Touche, Microsoft's independent auditors.
+ 
+                                       12
+<PAGE>   15
+ 
+                                    PART II
+ 
+ITEM 5. MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+ 
+     The Company's common stock is traded on The Nasdaq Stock Market under the
+symbol MSFT. On September 8, 1995, there were 35,643 holders of record of the
+Company's common stock. The Company has not paid cash dividends on its common
+stock.
+ 
+                QUARTERLY FINANCIAL AND STOCK PRICE INFORMATION
+                      (IN MILLIONS, EXCEPT PER SHARE DATA)
+ 
+<TABLE>
+<CAPTION>
+                                                            QUARTER ENDED
+                                      ---------------------------------------------------------
+                                      SEPTEMBER 30      DECEMBER 31      MARCH 31      JUNE 30       YEAR
+                                      -------------     ------------     ---------     --------     ------
+<S>                                      <C>               <C>            <C>           <C>         <C>
+1993
+Net revenues........................     $   818           $  938         $   958       $1,039      $3,753
+Operating income....................         289              326             338          373       1,326
+Net income..........................         209              236             243          265         953
+Earnings per share..................        0.35             0.39            0.40         0.43        1.57
+Common stock price per share:
+  High..............................      41               47 1/2          47 1/8       49          49
+  Low...............................      32 3/4           37 7/8          38 3/8       39 7/8      32 3/4
+1994
+Net revenues........................     $   983           $1,129         $ 1,244       $1,293      $4,649
+Operating income....................         343              415             480          488       1,726
+Net income..........................         239              289             256          362       1,146
+Earnings per share..................        0.39             0.48            0.42         0.59        1.88
+Common stock price per share:
+  High..............................      44 1/4           43 1/4          44 5/8       54 5/8      54 5/8
+  Low...............................      35 1/8           38              39           41          35 1/8
+1995
+Net revenues........................     $ 1,247           $1,482         $ 1,587       $1,621      $5,937
+Operating income....................         437              520             549          532       2,038
+Net income..........................         316              373             396          368       1,453
+Earnings per share..................        0.51             0.60            0.63         0.58        2.32
+Common stock price per share:
+  High..............................      59 1/4           65 1/8          74 1/8       92 3/8      92 3/8
+  Low...............................      46 7/8           53 7/8          58 1/4       68 3/4      46 7/8
+</TABLE>
+ 
+                                       13
+<PAGE>   16
+ 
+ITEM 6. SELECTED FINANCIAL DATA
+ 
+                              FINANCIAL HIGHLIGHTS
+                    (IN MILLIONS, EXCEPT EARNINGS PER SHARE)
+ 
+<TABLE>
+<CAPTION>
+                                                                YEAR ENDED JUNE 30
+                                                --------------------------------------------------
+                                                 1991       1992       1993       1994       1995
+                                                ------     ------     ------     ------     ------
+<S>                                             <C>        <C>        <C>        <C>        <C>
+Net revenues..................................  $1,843     $2,759     $3,753     $4,649     $5,937
+Net income....................................     463        708        953      1,146      1,453
+Earnings per share............................    0.82       1.20       1.57       1.88       2.32
+Return on net revenues........................    25.1%      25.7%      25.4%      24.7%      24.5%
+Cash and short-term investments...............  $  686     $1,345     $2,290     $3,614     $4,750
+Total assets..................................   1,644      2,640      3,805      5,363      7,210
+Stockholders' equity..........................   1,351      2,193      3,242      4,450      5,333
+</TABLE>
+ 
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+ 
+RESULTS OF OPERATIONS FOR 1993, 1994, AND 1995
+ 
+     Microsoft develops, manufactures, licenses, sells, and supports a wide
+range of software products, including operating system platforms for personal
+computers (PCs), workstations, and servers; business and consumer applications
+for productivity, reference, education, and entertainment; and development
+tools. Microsoft also sells personal computer books and input devices, and is
+engaged in the research and development of online and advanced technology
+software products.
+ 
+     NET REVENUES
+ 
+     Microsoft's net revenues grew 24% in the fiscal year ended June 30, 1994
+and 28% in fiscal year 1995. Software license volume (as opposed to price)
+increases have been the principal factor in Microsoft revenue growth. The
+average selling price per license has decreased, primarily because of general
+shifts in the sales mix from retail packaged products to licensing programs,
+from new products to product upgrades, and from stand-alone desktop applications
+to integrated product suites. Average revenue per license from original
+equipment manufacturer (OEM) licenses and corporate license programs, such as
+Microsoft Select, is lower than average revenue per license from retail
+versions. Likewise, product upgrades have lower prices than new products. Also,
+prices of integrated suites, e.g., Microsoft Office, are less than the sum of
+the prices for the individual programs included in these products when such
+programs are licensed separately.
+ 
+     Product groups. Microsoft has a platforms product group and an applications
+and content product group.
+ 
+     Platforms product group revenues were $1.52 billion, $1.83 billion, and
+$2.36 billion in 1993, 1994, and 1995.
+ 
+     Principal personal systems products have been the MS-DOS and Microsoft
+Windows operating systems. MS-DOS is preinstalled on PCs by most OEMs, and
+revenues from such licenses increased steadily in both 1994 and 1995. Revenues
+from retail upgrade versions of MS-DOS decreased in both 1994 and 1995 after a
+strong increase in 1993 when the MS-DOS 6 Upgrade was released. There were no
+major upgrades of MS-DOS in 1994 or 1995. The Microsoft Windows operating system
+was an increasingly strong contributor to revenues as the number of new PCs
+preinstalled with Windows increased rapidly during the three-year period.
+Windows units licensed to new users were 15 million, 30 million, and 40 million
+in 1993, 1994, and 1995.
+ 
+     Business systems products offer an enterprise-wide distributed
+client/server environment based on the Microsoft Windows NT operating system and
+the server applications in the Microsoft BackOffice family of products. Revenues
+from these products increased strongly in 1994 and 1995.
+ 
+                                       14
+<PAGE>   17
+ 
+     Revenues from developer products increased steadily in all three years, as
+more independent software vendors, corporate developers, and solutions
+developers licensed tools to develop software for Windows and Windows NT.
+ 
+     Applications and content product group revenues were $2.24 billion, $2.82
+billion, and $3.58 billion in 1993, 1994, and 1995.
+ 
+     Increases in desktop applications revenues were led by strong sales of
+Microsoft Office. The Microsoft Office Standard product includes the Microsoft
+Excel spreadsheet, the Microsoft Word word processor, the Microsoft PowerPoint
+presentation graphics program, and a Microsoft Mail client-access license, while
+the Microsoft Office Professional version also includes the Microsoft Access
+database management system. Sales of stand-alone versions of Microsoft Excel and
+Microsoft Word decreased in 1994 and 1995 as the sales mix continued to shift to
+integrated product suites.
+ 
+     Microsoft Home, a broad range of consumer products, also showed continued
+growth. The Microsoft Home brand includes CD-ROM multimedia reference titles and
+software products for home and small office productivity, children's creativity,
+and entertainment. Microsoft also markets the Microsoft Mouse and Microsoft
+Natural Keyboard. Mouse sales were flat during the three-year period, while the
+initial introduction of the keyboard increased revenues in 1995.
+ 
+     Sales channels. Microsoft distributes its products primarily through OEM
+licenses, corporate licenses, and retail packaged products. OEM channel revenues
+are license fees from original equipment manufacturers. Microsoft has three
+major geographic sales and marketing organizations: U.S. and Canada, Europe, and
+elsewhere in the world (Other International). Sales of corporate licenses and
+packaged products in these channels are primarily to distributors and resellers.
+ 
+     OEM channel revenues were $731 million in 1993, $1.18 billion in 1994, and
+$1.65 billion in 1995. The primary source of OEM revenues is the licensing of
+operating systems, particularly MS-DOS and Microsoft Windows. As such, OEM
+channel revenues are highly dependent on PC shipment volume.
+ 
+     U.S. and Canada channel revenues were $1.37 billion, $1.58 billion, and
+$1.88 billion in 1993, 1994, and 1995.
+ 
+     Revenues in Europe were $1.26 billion, $1.36 billion, and $1.49 billion in
+1993, 1994, and 1995. Growth rates have been lower in Europe than in other
+geographic areas due to general economic slowness, higher existing market
+shares, and a more dramatic shift to corporate licensing programs.
+ 
+     Other International channel revenues were $392 million in 1993, $532
+million in 1994, and $924 million in 1995. Growth rates continue to be strong
+due to customer acceptance of newly localized products, particularly in Japan,
+and early entrance into emerging markets.
+ 
+     Microsoft's operating results are affected by foreign exchange rates.
+Approximately 44%, 40%, and 37% of Microsoft's revenues were collected in
+foreign currencies during 1993, 1994, and 1995. Since much of Microsoft's
+international manufacturing costs and operating expenses are also incurred in
+local currencies, the impact of exchange rates on net income is less than on
+revenues.
+ 
+     OPERATING EXPENSES
+ 
+     Cost of revenues. As a percentage of revenues, cost of revenues was 16.9%
+in 1993, 16.4% in 1994, and 14.8% in 1995. The percentage decreased due to a
+greater proportion of licenses to OEMs and corporations, lower disk prices from
+vendors, and a higher proportion of CD-ROM versions. These factors were offset
+somewhat by increased sales of lower-margin products such as integrated suites
+and upgrades.
+ 
+     Research and development. Microsoft made substantial investments in R&D in
+1994, and the rate of growth accelerated in 1995. Expense increases resulted
+primarily from development staff headcount growth and higher levels of
+third-party development costs in many areas, including development efforts for
+Windows 95 and The Microsoft Network. R&D costs also increased for business
+systems, consumer systems, desktop applications, and consumer products.
+ 
+                                       15
+<PAGE>   18
+ 
+     Sales and marketing. The increase in the absolute dollar amount of sales
+and marketing expense in 1995 was due primarily to increased product-specific
+marketing programs, a Microsoft brand advertising campaign, and continued
+expansion of Product Support Services. In 1994, sales and marketing expenses
+increased at a slower rate than revenues due to a concerted performance
+orientation at all sales sites.
+ 
+     General and administrative. Increases in general and administrative
+expenses in 1994 and 1995 were primarily attributable to higher legal costs and
+growth in the computer systems and the number of people necessary to support
+overall increases in the scope of Microsoft's operations.
+ 
+     NONOPERATING ITEMS
+ 
+     Interest income, which was $83 million, $104 million, and $193 million in
+1993, 1994, and 1995, increased primarily as a result of a larger investment
+portfolio generated by cash from operations.
+ 
+     In the fourth quarter of 1995, Microsoft paid a $46 million breakup fee to
+Intuit Inc. in connection with the termination of a planned merger.
+ 
+     In the third quarter of 1994, Microsoft recorded a $120 million charge to
+reflect the estimated impact of a jury verdict in the Stac Electronics patent
+litigation and related expenses. In June 1994, Microsoft reached an agreement
+with Stac to settle the litigation and adjusted its estimate accordingly,
+resulting in a credit of $30 million in the fourth quarter and a net pretax
+charge of $90 million for 1994.
+ 
+     PROVISION FOR INCOME TAXES
+ 
+     The effective tax rate increased from 32.0% in 1993 to 33.5% in 1994 and
+33.0% in 1995 primarily because of an increase in the U.S. statutory income tax
+rate.
+ 
+     NET INCOME
+ 
+     Net income as a percent of revenues decreased in 1995 due to increased
+relative research and development, sales and marketing, and general and
+administrative expenses, offset by the lower relative cost of revenues and the
+higher relative net nonoperating income. The net income percentage decreased in
+1994, primarily due to the patent litigation charge and increased research and
+development expenses, offset by the lower relative level of sales and marketing
+expenses.
+ 
+FINANCIAL CONDITION
+ 
+     Microsoft's cash and short-term investments totaled $4.75 billion at June
+30, 1995. The portfolio is diversified among security types, industries, and
+individual issuers. Microsoft's investments are investment grade and liquid. The
+portfolio is invested predominantly in U.S. dollar denominated securities, but
+also includes foreign currency positions in anticipation of continued
+international expansion. Microsoft's portfolio is invested in short-term
+securities to minimize interest rate risk and facilitate rapid deployment in the
+event of immediate cash needs. Microsoft has no material long-term debt.
+Microsoft has $70 million of standby multicurrency lines of credit that support
+foreign currency hedging and international cash management.
+ 
+     Stockholders' equity at June 30, 1995 exceeded $5.3 billion.
+ 
+     Cash generated from operations has been sufficient historically to fund
+Microsoft's investment in research and development activities and facilities
+expansion. As Microsoft grows, investments will continue in research and
+development in existing and advanced areas of technology. Microsoft's cash will
+also be used to acquire technology and to fund ventures and other strategic
+opportunities. Additions to property, plant, and equipment are expected to
+continue, including facilities and computer systems for research and
+development, sales and marketing, product support, and administrative staff. For
+example, on June 30, 1995, commitments related to the construction of new
+buildings approximated $150 million.
+ 
+     The exercise of stock options by employees provides additional cash. These
+proceeds have been used in Microsoft's open market stock repurchase program
+through which Microsoft provides shares for stock option and stock purchase
+plans. This program will continue in 1996.
+ 
+                                       16
+<PAGE>   19
+ 
+     During 1995, to enhance its stock repurchase program, Microsoft sold equity
+put warrants to independent third parties. These put warrants entitle the
+holders to sell shares of Microsoft common stock to Microsoft on certain dates
+at specified prices.
+ 
+     Also during 1995, a subsidiary of Tele-Communications, Inc. (TCI) purchased
+a 20% minority interest in the newly formed Microsoft Online Services
+Partnership. TCI contributed $125 million of TCI common stock, and Microsoft
+contributed the business assets of its online service, The Microsoft Network,
+which was in development.
+ 
+     Management believes existing cash and short-term investments together with
+funds generated from operations will be sufficient to meet operating
+requirements in 1996. Microsoft's cash and short-term investments are also
+managed to be available for strategic investment opportunities or other
+potential large-scale cash needs that may arise in pursuit of Microsoft's
+long-term strategies.
+ 
+     Microsoft shareholders have also authorized the issuance of up to 100
+million shares of preferred stock, which may be used for any proper corporate
+purpose.
+ 
+     Microsoft has not paid cash dividends on its common stock.
+ 
+OUTLOOK AND UNCERTAINTIES
+ 
+     Microsoft does not provide forecasts of potential future financial
+performance. While management of Microsoft is optimistic about Microsoft's
+long-term prospects, the following issues and uncertainties, among others,
+should be considered in evaluating its growth outlook.
+ 
+     Rapid technological change. The personal computer software industry is
+characterized by rapid technological change and uncertainty as to the impact of
+emerging areas such as the Internet and online services, the information
+highway, networked collaboration products, and electronic commerce.
+ 
+     Long-term investment cycle. Developing and localizing software is expensive
+and the investment in product development often involves a long payback cycle.
+Microsoft's plans for 1996 include significant investments in software research
+and development and related product opportunities from which significant
+revenues are not anticipated for a number of years. Management expects total
+spending for research and development in 1996 to increase over spending in 1995.
+ 
+     Customer acceptance. While Microsoft performs extensive usability and beta
+testing of new products, user acceptance and corporate penetration rates
+ultimately dictate the success of development and marketing efforts of products
+such as Windows 95, Microsoft Office for Windows 95, or the Microsoft BackOffice
+family of products.
+ 
+     Product ship schedules. Delays in the release of new products can cause
+operational inefficiencies that impact manufacturing and distribution logistics,
+independent software vendor (ISV) and OEM relationships, and telephone support
+staffing.
+ 
+     Prices. Future prices Microsoft is able to obtain for its products may
+decrease from historical levels depending on competitive market or cost factors.
+Prices of software in Europe are generally higher than in the U.S. to cover
+localization costs and higher costs of distribution. Such price uplifts could
+erode in the future.
+ 
+     Integrated suites. The price of integrated suites such as Microsoft Office,
+is less than the sum of the prices for the individual programs included in this
+product when such programs are licensed separately. Revenues from Microsoft
+Office may continue to increase as a percentage of total revenues.
+ 
+     Saturation. Product upgrades, enabling users to upgrade from earlier
+versions of Microsoft's products or from competitors' products, have lower
+prices and margins than new products. As the desktop applications market becomes
+saturated, the sales mix shifts from standard products to upgrade products. This
+trend is expected to continue.
+ 
+                                       17
+<PAGE>   20
+ 
+     Channel mix. Average revenue per license is lower from OEM licenses than
+from retail versions, reflecting the relatively lower direct costs of operations
+in the OEM channel. An increasingly higher percentage of revenues was achieved
+through the OEM channel during 1994 and 1995.
+ 
+     Corporate licenses. Average revenue per unit from corporate license
+programs is lower than average revenue per unit from retail versions shipped
+through the finished goods channels. Unit sales under corporate licensing
+programs may continue to increase.
+ 
+     Cost of revenues. Although cost of revenues as a percentage of net revenues
+decreased in 1994 and 1995, it varies with channel mix and product mix within
+channels. Changes in channel and product mix, including the potential retail
+upgrade cycle of Windows 95, may increase cost of revenues as a percentage of
+net revenues in 1996.
+ 
+     Sales and marketing and support investments. Microsoft's plans for 1996
+include continued investments in its sales and marketing and support groups.
+Microsoft brand advertising is also expected to increase.
+ 
+     Foreign exchange. A large percentage of Microsoft's sales and costs of
+manufacturing and marketing are transacted in local currencies. As a result,
+Microsoft's international results of operations are subject to foreign exchange
+rate fluctuations.
+ 
+     Intellectual property rights. Microsoft diligently defends its intellectual
+property rights, but unlicensed copying of software represents a loss of
+revenues to Microsoft. While this adversely affects U.S. revenues, revenue loss
+is even more significant outside of the U.S., particularly in certain countries
+where laws are less protective of intellectual property rights. Throughout the
+world, Microsoft actively educates consumers on the benefits of licensing
+genuine products and educates lawmakers on the advantages of a business climate
+where intellectual property rights are protected. There can be no assurance that
+continued efforts will affect revenues positively.
+ 
+     Future growth rates. If a substantial number of users upgrade to Windows
+95, revenue growth rates in the initial shipping quarters of 1996 could be at
+relatively high levels. Revenue growth rates in the comparable quarters of 1997
+may not approach such levels. As discussed above, operating expenses are
+expected to increase in 1996. Because of the fixed nature of a significant
+portion of such expenses, coupled with the possibility of slower revenue growth,
+operating margins in 1997 may decrease from those in 1996.
+ 
+     Litigation. Litigation regarding intellectual property rights, patents, and
+copyrights is increasing in the PC software industry. In addition, there are
+government regulation and investigation risks along with other general corporate
+legal risks.
+ 
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ 
+                         INDEX TO FINANCIAL STATEMENTS
+ 
+<TABLE>
+<S>                                                                                         <C>
+Income Statements for the three years ended June 30, 1995...............................    19
+Cash Flows Statements for the three years ended June 30, 1995...........................    20
+Balance Sheets as of June 30, 1995 and 1994.............................................    21
+Stockholders' Equity Statements for the three years ended June 30, 1995.................    22
+Notes to Financial Statements...........................................................    23
+Independent Auditors' Report............................................................    29
+Schedule II -- Valuation and Qualifying Accounts for the three years ended June 30,
+  1995..................................................................................    32
+</TABLE>
+ 
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURES
+ 
+     None.
+ 
+                                       18
+<PAGE>   21
+ 
+                               INCOME STATEMENTS
+                    (IN MILLIONS, EXCEPT EARNINGS PER SHARE)
+ 
+<TABLE>
+<CAPTION>
+                                                                        YEAR ENDED JUNE 30
+                                                                   ----------------------------
+                                                                    1993       1994       1995
+                                                                   ------     ------     ------
+<S>                                                                <C>        <C>        <C>
+Net revenues.....................................................  $3,753     $4,649     $5,937
+Operating expenses:
+  Cost of revenues...............................................     633        763        877
+  Research and development.......................................     470        610        860
+  Sales and marketing............................................   1,205      1,384      1,895
+  General and administrative.....................................     119        166        267
+                                                                   ------     ------     ------
+          Total operating expenses...............................   2,427      2,923      3,899
+                                                                   ------     ------     ------
+Operating income.................................................   1,326      1,726      2,038
+Interest income -- net...........................................      82        102        191
+Noncontinuing items..............................................      --        (90)       (46)
+Other expenses...................................................      (7)       (16)       (16)
+                                                                   ------     ------     ------
+Income before income taxes.......................................   1,401      1,722      2,167
+Provision for income taxes.......................................     448        576        714
+                                                                   ------     ------     ------
+Net income.......................................................  $  953     $1,146     $1,453
+                                                                   ======     ======     ======
+Earnings per share...............................................  $ 1.57     $ 1.88     $ 2.32
+                                                                   ======     ======     ======
+Weighted average shares outstanding..............................     606        610        627
+                                                                   ======     ======     ======
+</TABLE>
+ 
+                            See accompanying notes.
+ 
+                                       19
+<PAGE>   22
+ 
+                             CASH FLOWS STATEMENTS
+                                 (IN MILLIONS)
+ 
+<TABLE>
+<CAPTION>
+                                                                       YEAR ENDED JUNE 30
+                                                                 ------------------------------
+                                                                  1993       1994        1995
+                                                                 ------     -------     -------
+<S>                                                              <C>        <C>         <C>
+CASH FLOWS FROM OPERATIONS
+  Net income...................................................  $  953     $ 1,146     $ 1,453
+  Depreciation and amortization................................     151         237         269
+  Current liabilities..........................................     177         360         419
+  Accounts receivable..........................................    (121)       (146)        (91)
+  Inventories..................................................     (51)         23          15
+  Other current assets.........................................     (35)        (27)        (75)
+                                                                 ------     -------     -------
+          Net cash from operations.............................   1,074       1,593       1,990
+                                                                 ------     -------     -------
+CASH FLOWS FROM FINANCING
+  Common stock issued..........................................     229         280         332
+  Common stock repurchased.....................................    (250)       (348)       (649)
+  Stock option income tax benefits.............................     207         151         179
+                                                                 ------     -------     -------
+          Net cash from financing..............................     186          83        (138)
+                                                                 ------     -------     -------
+CASH FLOWS USED FOR INVESTMENTS
+  Additions to property, plant, and equipment..................    (236)       (278)       (495)
+  Other assets.................................................     (17)        (64)       (230)
+  Short-term investments.......................................    (723)       (860)       (651)
+                                                                 ------     -------     -------
+          Net cash used for investments........................    (976)     (1,202)     (1,376)
+                                                                 ------     -------     -------
+Net change in cash and equivalents.............................     284         474         476
+Effect of exchange rates on cash...............................     (62)        (10)          9
+Cash and equivalents, beginning of year........................     791       1,013       1,477
+                                                                 ------     -------     -------
+Cash and equivalents, end of year..............................   1,013       1,477       1,962
+Short-term investments.........................................   1,277       2,137       2,788
+                                                                 ------     -------     -------
+Cash and short-term investments................................  $2,290     $ 3,614     $ 4,750
+                                                                 ======     =======     =======
+</TABLE>
+ 
+                            See accompanying notes.
+ 
+                                       20
+<PAGE>   23
+ 
+                                 BALANCE SHEETS
+                                 (IN MILLIONS)
+ 
+<TABLE>
+<CAPTION>
+                                                                                  JUNE 30
+                                                                             -----------------
+                                                                              1994       1995
+                                                                             ------     ------
+<S>                                                                          <C>        <C>
+ASSETS
+Current assets:
+  Cash and short-term investments..........................................  $3,614     $4,750
+  Accounts receivable -- net of allowances of $92 and $139.................     475        581
+  Inventories..............................................................     102         88
+  Other....................................................................     121        201
+                                                                             ------     ------
+          Total current assets.............................................   4,312      5,620
+Property, plant, and equipment -- net......................................     930      1,192
+Other assets...............................................................     121        398
+                                                                             ------     ------
+               Total assets................................................  $5,363     $7,210
+                                                                             ======     ======
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable.........................................................  $  324     $  563
+  Accrued compensation.....................................................      96        130
+  Income taxes payable.....................................................     305        410
+  Other....................................................................     188        244
+                                                                             ------     ------
+          Total current liabilities........................................     913      1,347
+                                                                             ------     ------
+Minority interest..........................................................      --        125
+                                                                             ------     ------
+Put warrants...............................................................      --        405
+                                                                             ------     ------
+Commitments and contingencies
+Stockholders' equity:
+  Common stock and paid-in capital -- shares authorized 2,000;
+     issued and outstanding 581 and 588....................................   1,500      2,005
+  Retained earnings........................................................   2,950      3,328
+                                                                             ------     ------
+          Total stockholders' equity.......................................   4,450      5,333
+                                                                             ------     ------
+               Total liabilities and stockholders' equity..................  $5,363     $7,210
+                                                                             ======     ======
+</TABLE>
+ 
+                            See accompanying notes.
+ 
+                                       21
+<PAGE>   24
+ 
+                        STOCKHOLDERS' EQUITY STATEMENTS
+                                 (IN MILLIONS)
+ 
+<TABLE>
+<CAPTION>
+                                                                        YEAR ENDED JUNE 30
+                                                                   ----------------------------
+                                                                    1993       1994       1995
+                                                                   ------     ------     ------
+<S>                                                                <C>        <C>        <C>
+COMMON STOCK AND PAID-IN CAPITAL
+  Balance, beginning of year.....................................  $  657     $1,086     $1,500
+  Common stock issued............................................     229        280        332
+  Common stock repurchased.......................................      (7)       (17)       (30)
+  Proceeds from sale of put warrants.............................      --         --         49
+  Reclassification of put warrant obligation.....................      --         --        (25)
+  Stock option income tax benefits...............................     207        151        179
+                                                                   ------     ------     ------
+          Balance, end of year...................................   1,086      1,500      2,005
+                                                                   ------     ------     ------
+RETAINED EARNINGS
+  Balance, beginning of year.....................................   1,536      2,156      2,950
+  Common stock repurchased.......................................    (243)      (331)      (668)
+  Reclassification of put warrant obligation.....................      --         --       (380)
+  Net income.....................................................     953      1,146      1,453
+  Translation adjustment.........................................     (90)       (21)       (27)
+                                                                   ------     ------     ------
+          Balance, end of year...................................   2,156      2,950      3,328
+                                                                   ------     ------     ------
+               Total stockholders' equity........................  $3,242     $4,450     $5,333
+                                                                   ======     ======     ======
+</TABLE>
+ 
+                            See accompanying notes.
+ 
+                                       22
+<PAGE>   25
+ 
+                         NOTES TO FINANCIAL STATEMENTS
+                                 (IN MILLIONS)
+ 
+SIGNIFICANT ACCOUNTING POLICIES
+ 
+     Principles of consolidation. The financial statements include the accounts
+of Microsoft and its subsidiaries. Significant intercompany transactions and
+balances have been eliminated.
+ 
+     Foreign currencies. Assets and liabilities recorded in foreign currencies
+on the books of foreign subsidiaries are translated at the exchange rate on the
+balance sheet date. Translation adjustments resulting from this process are
+charged or credited to equity. Revenues, costs, and expenses are translated at
+average rates of exchange prevailing during the year. Gains and losses on
+foreign currency transactions are included in other expenses.
+ 
+     Revenue recognition. Revenue from sales to distributors and resellers is
+recognized when related products are shipped. Revenue from corporate license
+programs generally is recognized when the product is installed by the user.
+Finished goods revenue attributable to significant support (telephone support
+and specified and unspecified enhancements) is recognized when such obligations
+are fulfilled. Costs related to insignificant obligations, which includes
+telephone support for certain products, are accrued.
+ 
+     Revenue from products licensed to original equipment manufacturers is
+recognized when the licensed products are shipped by the OEM.
+ 
+     Revenue from software maintenance, service, and support contracts is
+recognized ratably over the contract period.
+ 
+     Provisions are recorded for returns and bad debts.
+ 
+     Research and development. Research and development costs are expensed as
+incurred. The current accounting rule, Accounting for the Costs of Computer
+Software to Be Sold, Leased, or Otherwise Marketed, does not materially affect
+the Company.
+ 
+     Telephone support. Telephone support costs are included in sales and
+marketing.
+ 
+     Income taxes. Income tax expense includes U.S. and international income
+taxes, plus an accrual for U.S. taxes on undistributed earnings of international
+subsidiaries. Certain items of income and expense are not reported in tax
+returns and financial statements in the same year. The tax effect of this
+difference is reported as deferred income taxes. Tax credits are accounted for
+as a reduction of tax expense in the year in which the credits reduce taxes
+payable.
+ 
+     Earnings per share. Earnings per share is computed on the basis of the
+weighted average number of common shares outstanding plus the effect of
+outstanding stock options, computed using the treasury stock method.
+ 
+     Financial instruments. The Company considers all liquid investments with a
+maturity of three months or less at the date of purchase to be cash equivalents.
+Short-term investments generally mature between three months and three years
+from the purchase date. All cash and short-term investments are classified as
+available for sale. Cost approximates market value for all classifications of
+cash and short-term investments; realized and unrealized gains and losses are
+not material.
+ 
+     Statement of Financial Accounting Standard Accounting for Certain
+Investments in Debt and Equity Securities was adopted in 1995 and did not have a
+material impact on the financial statements.
+ 
+     Inventories. Inventories are stated at the lower of cost or market. Cost is
+determined using the first-in, first-out method.
+ 
+     Property, plant, and equipment. Property, plant, and equipment is stated at
+cost and depreciated using the straight-line method. Estimated lives are as
+follows: buildings, 30 years; leasehold improvements, the lease term; computer
+equipment and other, principally three years.
+ 
+                                       23
+<PAGE>   26
+ 
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                                 (IN MILLIONS)
+ 
+     Diversification of risk. The Company's investment portfolio is diversified
+and consists of short-term investment grade securities. At June 30, 1994 and
+1995, approximately 40% of accounts receivable represented amounts due from ten
+channel purchasers. Two of these each accounted for approximately 10%, 13%, and
+12% of revenues in 1993, 1994, and 1995.
+ 
+     Finished goods sales to international customers in Europe, Japan,
+Australia, and Canada are primarily billed in local currencies. Payment cycles
+are relatively short, generally less than 90 days. European manufacturing costs
+and international selling, distribution, and support costs are generally
+disbursed in local currencies. Local currency cash balances in excess of
+short-term operating needs are generally converted into U.S. dollar cash and
+short-term investments upon receipt. Therefore, foreign exchange rate
+fluctuations generally do not create a risk of material transaction gains or
+losses. As a result, Microsoft's hedging activities for transaction exposures
+have been minimal. No material hedge contracts were outstanding at June 30,
+1995.
+ 
+     Translated results of operations of the Company's foreign subsidiaries are
+affected by foreign exchange rates. During 1995 and for 1996, the Company hedged
+a percentage of planned translated international finished goods revenues by
+purchasing options on the applicable currencies. Premiums paid for the options,
+which were not material, are being amortized over the lives of the options. Any
+gains will be recognized when and if realized.
+ 
+     Reclassifications. Certain reclassifications have been made for consistent
+presentation.
+ 
+CASH AND SHORT-TERM INVESTMENTS
+ 
+<TABLE>
+<CAPTION>
+                                                                          JUNE 30
+                                                                     -----------------
+                                                                      1994       1995
+                                                                     ------     ------
+        <S>                                                          <C>        <C>
+        Cash and equivalents:
+          Cash.....................................................  $  263     $  135
+          Commercial paper.........................................     619      1,035
+          Money market preferreds..................................     180        255
+          Certificates of deposit..................................     218        492
+          Bank loan participations.................................     197         45
+                                                                     ------     ------
+          Cash and equivalents.....................................   1,477      1,962
+                                                                     ------     ------
+        Short-term investments:
+          Municipal securities.....................................   1,245      1,291
+          Corporate notes and bonds................................     423        866
+          U.S. Treasury securities.................................     417        444
+          Commercial paper.........................................      52        187
+                                                                     ------     ------
+          Short-term investments...................................   2,137      2,788
+                                                                     ------     ------
+                  Cash and short-term investments..................  $3,614     $4,750
+                                                                     ======     ======
+</TABLE>
+ 
+PROPERTY, PLANT, AND EQUIPMENT
+ 
+<TABLE>
+<CAPTION>
+                                                                          JUNE 30
+                                                                     -----------------
+                                                                      1994       1995
+                                                                     ------     ------
+        <S>                                                          <C>        <C>
+        Land.......................................................  $  162     $  206
+        Buildings..................................................     440        607
+        Computer equipment.........................................     532        707
+        Other......................................................     311        387
+                                                                     ------     ------
+        Property, plant, and equipment -- at cost..................   1,445      1,907
+        Accumulated depreciation...................................    (515)      (715)
+                                                                     ------     ------
+        Property, plant, and equipment -- net......................  $  930     $1,192
+                                                                     ======     ======
+</TABLE>
+ 
+                                       24
+<PAGE>   27
+ 
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                                 (IN MILLIONS)
+ 
+INCOME TAXES
+ 
+     The provision for income taxes was composed of:
+ 
+<TABLE>
+<CAPTION>
+                                                             1993       1994       1995
+                                                            ------     ------     ------
+        <S>                                                  <C>        <C>        <C>
+        Current taxes:
+          U.S. and state.................................    $352       $470       $518
+          International..................................     123         94        151
+                                                             ----       ----       ----
+          Current taxes..................................     475        564        669
+        Deferred taxes...................................     (27)        12         45
+                                                             ----       ----       ----
+        Provision for income taxes.......................    $448       $576       $714
+                                                             ====       ====       ====
+</TABLE>
+ 
+     Differences between the U.S. statutory and effective tax rates were:
+ 
+<TABLE>
+<CAPTION>
+                                                             1993       1994       1995
+                                                            ------     ------     ------
+        <S>                                                  <C>        <C>        <C>
+        U.S. statutory rate..............................    34.0%      35.0%      35.0%
+        Tax exempt income................................    (0.6)      (0.9)      (1.1)
+        Foreign sales corporation........................    (1.0)      (1.0)      (0.7)
+        Tax credits......................................    (0.9)      (2.1)      (1.6)
+        State taxes and other -- net.....................     0.5        2.5        1.4
+                                                             ----       ----       ----
+        Effective tax rate...............................    32.0%      33.5%      33.0%
+                                                             ====       ====       ====
+</TABLE>
+ 
+     Deferred income tax balances were:
+ 
+<TABLE>
+<CAPTION>
+                                                                           JUNE 30
+                                                                      -----------------
+                                                                       1994       1995
+                                                                      ------     ------
+        <S>                                                            <C>        <C>
+        Deferred income tax assets:
+          Revenue items..................................              $  61      $  68
+          Expense items..................................                143        221
+                                                                       -----      -----
+          Deferred income tax assets.....................                204        289
+                                                                       -----      -----
+        Deferred income tax liabilities:
+          International earnings.........................               (147)      (276)
+          Other..........................................                 (4)        (5)
+                                                                       -----      -----
+          Deferred income tax liabilities................               (151)      (281)
+                                                                       -----      -----
+               Net deferred income tax asset.............              $  53      $   8
+                                                                       =====      =====
+</TABLE>
+ 
+     U.S. and international components of income before income taxes were:
+ 
+<TABLE>
+<CAPTION>
+                                                            1993       1994       1995
+                                                           ------     ------     ------
+        <S>                                                <C>        <C>        <C>
+        U.S..............................................  $  960     $1,281     $1,549
+        International....................................     441        441        618
+                                                           ------     ------     ------
+        Income before income taxes.......................  $1,401     $1,722     $2,167
+                                                           ======     ======     ======
+</TABLE>
+ 
+     The Internal Revenue Service is examining the Company's U.S. income tax
+returns for 1990 and 1991. The Company believes any adjustments from the
+examination will not be material to the financial statements. Income taxes paid
+were $187 million, $247 million, and $430 million in 1993, 1994, and 1995.
+ 
+                                       25
+<PAGE>   28
+ 
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                                 (IN MILLIONS)
+ 
+COMMON STOCK
+ 
+     Shares of common stock outstanding were as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                  1993     1994     1995
+                                                                  ----     ----     ----
+        <S>                                                        <C>      <C>      <C>
+        Balance, beginning of year..............................   544      565      581
+        Issued..................................................    27       25       19
+        Repurchased.............................................    (6)      (9)     (12)
+                                                                   ---      ---      ---
+        Balance, end of year....................................   565      581      588
+                                                                   ===      ===      ===
+</TABLE>
+ 
+     The Company repurchases its common stock in the open market to provide
+shares for issuance to employees under stock option and stock purchase plans.
+The Company's Board of Directors authorized continuation of this program in
+1996.
+ 
+PUT WARRANTS
+ 
+     In connection with the Company's stock repurchase program, put warrants
+were sold to independent third parties during 1995. The put warrants entitle the
+holders to sell shares of Microsoft common stock to the Company at specified
+prices. On June 30, 1995, 8.0 million warrants were outstanding with a strike
+price of $69.75 per share. The warrants expire at various dates between February
+1996 and November 1996, are exercisable only at maturity, and are settleable in
+cash at Microsoft's option. The maximum potential repurchase obligation of $405
+million has been reclassified from stockholders' equity to put warrants as of
+June 30, 1995. There was no impact on earnings per share in 1995.
+ 
+EMPLOYEE STOCK AND SAVINGS PLANS
+ 
+     Employee stock purchase plan. The Company has an employee stock purchase
+plan for all eligible employees. Under the plan, shares of the Company's common
+stock may be purchased at six-month intervals at 85% of the lower of the fair
+market value on the first or the last day of each six-month period. Employees
+may purchase shares having a value not exceeding 10% of their gross compensation
+during an offering period. During 1993, 1994, and 1995, employees purchased 1.0
+million, 1.1 million, and 1.0 million shares at average prices of $33.29,
+$34.16, and $46.76 per share. At June 30, 1995, 2.1 million shares were reserved
+for future issuance.
+ 
+     Savings plan. The Company has a savings plan, which qualifies under Section
+401(k) of the Internal Revenue Code. Under the plan, participating U.S.
+employees may defer up to 15% of their pretax salary, but not more than
+statutory limits. The Company contributes fifty cents for each dollar
+contributed by a participant, with a maximum contribution of 3% of a
+participant's earnings. The Company's matching contributions to the savings plan
+were $7 million, $9 million, and $12 million in 1993, 1994, and 1995.
+ 
+     Stock option plans. The Company has stock option plans for directors,
+officers, and all employees, which provide for nonqualified and incentive stock
+options. The Board of Directors determines the option price (not to be less than
+fair market value for incentive options) at the date of grant. Options granted
+prior to 1995 generally vest over four and one-half years and expire ten years
+from the date of grant. Options granted during and after 1995 generally vest
+over four and one-half years and expire seven years from the date of grant,
+while certain options vest over seven and one-half years and expire after ten
+years. At June 30, 1995, options for 58.5 million shares were vested and 92.8
+million shares were available for future grants under the plans.
+ 
+                                       26
+<PAGE>   29
+ 
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                                 (IN MILLIONS)
+ 
+     Stock options outstanding were as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                     PRICE PER SHARE
+                                                                -------------------------
+                                                                                 WEIGHTED
+                                                     NUMBER        RANGE         AVERAGE
+                                                     ------     ------------     --------
+        <S>                                          <C>        <C>               <C>
+        Balance, June 30, 1992.....................  120.3      $ 0.31-39.79      $12.44
+        Granted....................................   24.4       30.88-44.25       34.30
+        Exercised..................................  (26.2)       0.31-36.92        7.95
+        Canceled...................................   (4.4)       4.97-44.13       14.23
+                                                     -----
+        Balance, June 30, 1993.....................  114.1        0.31-44.25       18.06
+        Granted....................................   26.2       35.50-50.13       37.47
+        Exercised..................................  (20.9)       1.51-44.25       11.42
+        Canceled...................................   (5.5)       5.01-44.13       28.67
+                                                     -----
+        Balance, June 30, 1994.....................  113.9        0.31-50.13       23.29
+        Granted....................................   21.7       47.75-83.13       50.50
+        Exercised..................................  (17.6)       0.31-47.75       15.81
+        Canceled...................................   (4.2)       5.11-75.00       35.40
+                                                     -----
+        Balance, June 30, 1995.....................  113.8        1.54-83.13       29.12
+                                                     =====
+</TABLE>
+ 
+LEASES
+ 
+     The Company has operating leases for most U.S. and international sales and
+support offices and certain equipment. Rental expense for operating leases was
+$54 million, $68 million, and $86 million in 1993, 1994, and 1995. Future
+minimum rental commitments under noncancelable leases, in millions of dollars,
+are: 1996, $78; 1997, $65; 1998, $56; 1999, $44; 2000, $28; and thereafter, $13.
+ 
+THE MICROSOFT NETWORK
+ 
+     During 1995, a wholly owned subsidiary of Tele-Communications, Inc. (TCI)
+purchased a 20% minority interest in the newly formed Microsoft Online Services
+Partnership. TCI contributed $125 million of TCI common stock and Microsoft
+contributed the business assets of its online service, The Microsoft Network,
+which was in development. Microsoft owns 80% of the entity, whose operations
+have not been material to the financial results of Microsoft. The entity was
+subsequently reorganized into The Microsoft Network, LLC.
+ 
+NONCONTINUING ITEMS
+ 
+     In the fourth quarter of 1995, the Company paid a $46 million breakup fee
+to Intuit Inc. in connection with the termination of a planned merger.
+ 
+     In the third quarter of 1994, the Company recorded a $120 million charge to
+reflect the estimated impact of a jury verdict in the Stac Electronics patent
+litigation and related expenses. In June 1994, the Company reached an agreement
+with Stac to settle the litigation and adjusted its estimate accordingly,
+resulting in a credit of $30 million in the fourth quarter and a net pretax
+charge of $90 million for 1994.
+ 
+CONTINGENCIES
+ 
+     On July 15, 1994, Microsoft and the U.S. Department of Justice (DOJ)
+entered into a consent decree resolving the DOJ's non-public investigation of
+Microsoft. In the consent decree, which involves no admission of wrongdoing on
+Microsoft's part, Microsoft agreed to make certain changes in its OEM licensing
+practices. Microsoft also agreed to employ a uniform duration in its
+nondisclosure agreement for precommercial versions
+ 
+                                       27
+<PAGE>   30
+ 
+                   NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+                                 (IN MILLIONS)
+ 
+of certain operating system products, and clarified the rights and
+responsibilities of those signing such nondisclosure agreements. The consent
+decree was approved by the U.S. District Court for the District of Columbia on
+August 21, 1995.
+ 
+     The Antitrust Division of the DOJ has stated that it is conducting an
+investigation concerning Microsoft's inclusion of client-access software for The
+Microsoft Network in Windows 95. Although there is no assurance that this matter
+will be resolved favorably and that Microsoft's future financial statements will
+not be adversely affected, Microsoft currently believes that resolution of this
+matter will not have a material adverse effect on its financial condition or
+results of operations.
+ 
+INFORMATION BY GEOGRAPHIC AREA
+ 
+<TABLE>
+<CAPTION>
+                                                            1993       1994       1995
+                                                           ------     ------     ------
+        <S>                                                <C>        <C>        <C>
+        Net revenues
+          U.S. operations................................  $2,655     $3,472     $4,495
+          European operations............................   1,289      1,401      1,575
+          Other international operations.................     395        375        558
+          Eliminations...................................    (586)      (599)      (691)
+                                                           ------     ------     ------
+                  Total net revenues.....................  $3,753     $4,649     $5,937
+                                                           ======     ======     ======
+        Operating income
+          U.S. operations................................  $  961     $1,394     $1,709
+          European operations............................     360        346        412
+          Other international operations.................      18         31         91
+          Eliminations...................................     (13)       (45)      (174)
+                                                           ------     ------     ------
+                  Total operating income.................  $1,326     $1,726     $2,038
+                                                           ======     ======     ======
+        Identifiable assets
+          U.S. operations................................  $2,944     $4,397     $5,862
+          European operations............................   1,133      1,366      1,806
+          Other international operations.................     310        423        689
+          Eliminations...................................    (582)      (823)    (1,147)
+                                                           ------     ------     ------
+                  Total identifiable assets..............  $3,805     $5,363     $7,210
+                                                           ======     ======     ======
+</TABLE>
+ 
+     Intercompany sales between geographic areas are accounted for at prices
+representative of unaffiliated party transactions. "U.S. operations" include
+shipments to customers in the U.S., licensing to OEMs, and exports of finished
+goods directly to international customers, primarily in Canada, South America,
+and Asia. Exports and international OEM transactions are primarily in U.S.
+dollars and totaled $426 million, $787 million, and $1,263 million in 1993,
+1994, and 1995. "Other international operations" primarily include subsidiaries
+in Australia, Japan, Korea, and Taiwan. International revenues, which include
+European operations, other international operations, exports, and OEM
+distribution, were 55.3%, 54.0%, and 55.3% of total revenues in 1993, 1994, and
+1995.
+ 
+                                       28
+<PAGE>   31
+ 
+                          INDEPENDENT AUDITORS' REPORT
+ 
+To the Board of Directors and Stockholders of Microsoft Corporation:
+ 
+     We have audited the accompanying balance sheets of Microsoft Corporation
+and subsidiaries as of June 30, 1994 and 1995, the related statements of income,
+cash flows, and stockholders' equity for each of the three years ended June 30,
+1995. Our audits also included the financial statement schedule listed in the
+Index at Item 8. These financial statements and schedule are the responsibility
+of the Company's management. Our responsibility is to express an opinion on
+these financial statements and schedule based on our audits.
+ 
+     We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+ 
+     In our opinion, such financial statements present fairly, in all material
+respects, the financial position of Microsoft Corporation and subsidiaries as of
+June 30, 1994 and 1995, and the results of their operations and their cash flows
+for each of the three years ended June 30, 1995 in conformity with generally
+accepted accounting principles. Also, in our opinion the financial statement
+schedule, when considered in relation to the basic financial statements taken as
+a whole, presents fairly in all material respects the information set forth
+therein.
+ 
+/s/  DELOITTE & TOUCHE LLP
+ 
+Seattle, Washington
+July 17, 1995
+(August 21, 1995 as to
+Contingencies Note)
+ 
+                                       29
+<PAGE>   32
+ 
+                                    PART III
+ 
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+     Information with respect to Directors may be found under the caption
+"Election of Directors and Management Information" on pages 1 and 2 of the
+Company's Proxy Statement dated September 25, 1995, for the Annual Meeting of
+Shareholders to be held October 27, 1995 (the "Proxy Statement"). Such
+information is incorporated herein by reference. Information with respect to
+Executive Officers may be found on pages 11 and 12 hereof, under the caption
+"Executive Officers of the Registrant."
+ 
+ITEM 11. EXECUTIVE COMPENSATION
+ 
+     The information in the Proxy Statement set forth under the captions
+"Information Regarding Executive Officer Compensation" on pages 4 through 8 and
+"Information Regarding the Board and its Committees" on page 2 is incorporated
+herein by reference.
+ 
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ 
+     The information set forth under the caption "Information Regarding
+Beneficial Ownership of Principal Shareholders, Directors, and Management" on
+page 3 of the Proxy Statement is incorporated herein by reference.
+ 
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+     The information set forth under the caption "Certain Transactions" on page
+8 of the Proxy Statement is incorporated herein by reference.
+ 
+                                       30
+<PAGE>   33
+ 
+                                    PART IV
+ 
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+ 
+     (a) Financial Statements and Schedules
+ 
+         The financial statements of Microsoft as set forth under Item 8 are
+         filed as part of this report.
+ 
+         Supplemental Schedule II -- Valuation and Qualifying Accounts is filed
+         on page 32 of this report.
+ 
+         Financial statement schedules other than those listed above have been
+         omitted since they are either not required, not applicable, or the
+         information is otherwise included.
+ 
+         The independent auditors' report with respect to the above-listed
+         financial statements and schedule appears on page 29 of this report.
+ 
+     (b) Reports on Form 8-K
+ 
+         No reports on Form 8-K were filed during the last quarter of fiscal
+         1995.
+ 
+     (c) Exhibit Listing
+ 
+<TABLE>
+<CAPTION>
+        EXHIBIT
+        NUMBER                                    DESCRIPTION
+        ------                                    -----------
+        <S>        <C>
+          3.1      Restated Articles of Incorporation(1)
+          3.2      Bylaws(1)
+         10.1      Microsoft Corporation 1991 Stock Option Plan(1)
+         10.2      Microsoft Corporation 1981 Stock Option Plan(2)
+         10.3      Microsoft Corporation Stock Option Plan for Non-Employee Directors(1)
+         10.4      Microsoft Corporation Stock Option Plan for Consultants and Advisor(1)
+         10.5      Microsoft Corporation 1991 Employee Stock Purchase Plan
+         10.6      Microsoft Corporation Savings Plus Plan(1)
+         10.7      Trust Agreement dated June 1, 1993 between Microsoft Corporation and First
+                   Interstate Bank of Washington(3)
+         10.8      Form of Indemnification Agreement(3)
+         11.       Computation of Earnings Per Share
+         21.       Subsidiaries
+         23.       Independent Auditors' Consent
+         27.       Financial Data Schedule
+         99.1      Financial Statements for the Microsoft Corporation 1991 Employee Stock
+                   Purchase Plan for the Three Years Ended June 30, 1995
+         99.2      Financial Statements for the Microsoft Corporation Savings Plus Plan for
+                   the Two Years Ended December 31, 1994 and the Nine Months Ended December
+                   31, 1992
+</TABLE>
+ 
+- ---------------
+ 
+(1) Incorporated by reference to Annual Report on Form 10-K For The Fiscal Year
+    Ended June 30, 1994.
+ 
+(2) Incorporated by reference to Registration Statement 33-37623 on Form S-8.
+ 
+(3) Incorporated by reference to Annual Report on Form 10-K For The Fiscal Year
+    Ended June 30, 1993.
+ 
+                                       31
+<PAGE>   34
+ 
+                SCHEDULE II -- VALUATION AND QUALIFYING ACCOUNTS
+ 
+                        ALLOWANCE FOR DOUBTFUL ACCOUNTS
+                                 (IN MILLIONS)
+ 
+<TABLE>
+<CAPTION>
+                                                                          YEAR ENDED JUNE 30
+                                                                        ----------------------
+                                                                        1993     1994     1995
+                                                                        ----     ----     ----
+<S>                                                                     <C>      <C>      <C>
+Balance, beginning of year............................................  $ 57     $ 76     $ 92
+Additions charged to expense..........................................    47       27       51
+Deductions............................................................   (28)     (11)      (4)
+                                                                        ----     ----     ----
+Balance, end of year..................................................  $ 76     $ 92     $139
+                                                                        ====     ====     ====
+</TABLE>
+ 
+                                       32
+<PAGE>   35
+ 
+                                   SIGNATURES
+ 
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, in the City of
+Redmond, State of Washington, on September 13, 1995.
+ 
+                                          MICROSOFT CORPORATION
+ 
+                                          By      /s/  MICHAEL W. BROWN
+                                            ------------------------------------
+                                                     Michael W. Brown,
+                                                  Vice President, Finance;
+                                                  Chief Financial Officer
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of Registrant
+and in the capacities indicated on September 13, 1995.
+ 
+<TABLE>
+<CAPTION>
+                  SIGNATURE                                        TITLE
+                  ---------                                        -----
+<S>                                             <C>
+         /s/  WILLIAM H. GATES                      Chairman of the Board of Directors
+- ---------------------------------------------           and Chief Executive Officer
+              William H. Gates
+
+           /s/  PAUL G. ALLEN                                    Director
+- ---------------------------------------------
+                Paul G. Allen
+
+        /s/  RICHARD A. HACKBORN                                 Director
+- ---------------------------------------------
+             Richard A. Hackborn
+
+        /s/  DAVID F. MARQUARDT                                  Director
+- ---------------------------------------------
+             David F. Marquardt
+
+         /s/  ROBERT D. O'BRIEN                                  Director
+- ---------------------------------------------
+              Robert D. O'Brien
+                                                                 Director
+- ---------------------------------------------
+              Wm. G. Reed, Jr.
+
+          /s/  JON A. SHIRLEY                                    Director
+- ---------------------------------------------
+               Jon A. Shirley
+
+         /s/  MICHAEL W. BROWN                            Vice President, Finance;                
+- ---------------------------------------------              Chief Financial Officer
+              Michael W. Brown                  (Principal Financial and Accounting Officer)
+</TABLE>
+ 
+                                       33
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.5
+<SEQUENCE>2
+<DESCRIPTION>1991 EMPLOYEE STOCK PURCHASE PLAN
+<TEXT>
+
+<PAGE>   1
+
+
+
+
+
+                                                                    EXHIBIT 10.5
+
+
+
+
+
+                             MICROSOFT CORPORATION
+
+                       1991 EMPLOYEE STOCK PURCHASE PLAN
+
+
+
+
+                     As approved by the Board of Directors
+                           on August 11, 1990 and the
+                       Shareholders on October 26, 1990,
+                     and amended by the Board of Directors
+                       on April 23, 1994 and May 13, 1995
+<PAGE>   2
+
+                             MICROSOFT CORPORATION
+                       1991 EMPLOYEE STOCK PURCHASE PLAN
+
+
+
+         Microsoft Corporation (the "Company") does hereby establish its 1991
+Employee Stock Purchase Plan as follows:
+
+         1.      Purpose of the Plan.  The purpose of this Plan is to provide
+eligible employees who wish to become shareholders in the Company a convenient
+method of doing so.  It is believed that employee participation in the
+ownership of the business will be to the mutual benefit of both the employees
+and the Company.  It is the intention of the Company to have the Plan qualify
+as an "employee stock purchase plan" under Section 423 of the Internal Revenue
+Code of 1986. The provisions of the Plan shall, accordingly, be construed so as
+to extend and limit participation in a manner consistent with the requirements
+of that Section of the Code.
+
+         2.      Definitions.
+
+                  2.1  "Base pay" means regular straight time earnings, plus
+review cycle bonuses and overtime payments, payments for incentive
+compensation, and other special payments except to the extent that any such
+item is specifically excluded by the Board of Directors of the Company (the
+"Board").
+
+                  2.2  "Account" shall mean the funds accumulated with respect
+to an individual employee as a result of deductions from his paycheck for the
+purpose of purchasing stock under this Plan. The funds allocated to an
+employee's account shall remain the property of the respective employee at all
+times but may be commingled with the general funds of the Company.
+
+         3.      Employees Eligible to Participate.  Any regular employee of
+the Company or any of its subsidiaries who is in the employ of the Company on
+one or more offering dates is eligible to participate in the Plan, except (a)
+employees whose customary employment is less than 20 hours per week, and (b)
+employees whose customary employment is for not more than five months in any
+calendar year.
+
+         4.      Offerings.  There will be twelve separate consecutive
+six-month offerings pursuant to the Plan.  The first offering shall commence on
+January 1, 1991.  Thereafter, offerings shall commence on each subsequent July 1
+and January 1, and the final offering under this Plan shall commence on July 1,
+1996 and terminate on December 31, 1996.  In order to become eligible to
+purchase shares, an employee must sign an Enrollment Agreement, and any other
+necessary papers on or before the commencement date (January 1 or July 1) of
+the particular offering in which he wishes to participate.  Participation in
+one offering under the Plan shall neither limit, nor require, participation in
+any other offering.
+
+         5.      Price.  The purchase price per share shall be the lesser of
+(1) 85% of the fair market value of the stock on the offering date; or (2) 85%
+of the fair market value of the stock on the last business day of the offering.
+Fair market value shall mean the closing bid price as reported on the National
+Association of Securities Dealers Automated Quotation System or, if the stock
+is traded on a stock exchange, the closing price for the stock on the principal
+such exchange.
+
+         6.      Offering Date.  The "offering date" as used in this Plan shall
+be the commencement date of the offering, if such date is a regular business
+day, or the first regular business day following such commencement date.  A
+different date may be set by resolution of the Board.
+
+         7.      Number of Shares to be Offered.  The maximum number of shares
+that will be offered under the Plan is 6,750,000. The shares to be sold to
+participants under the Plan will be common stock of the Company.  If the total
+number of shares for which options are to be granted on any date in accordance
+with Section 10 exceeds the number of shares then available under the Plan
+(after deduction
+
+
+
+                                       2
+
+<PAGE>   3
+
+of all shares for which options have been exercised or are then outstanding),
+the Company shall make a pro rata allocation of the shares remaining available
+in as nearly a uniform manner as shall be practicable and as it shall determine
+to be equitable.  In such event, the payroll deductions to be made pursuant to
+the authorizations therefor shall be reduced accordingly and the Company shall
+give written notice of such reduction to each employee affected thereby.
+
+         8.      Participation.
+
+                  8.1  An eligible employee may become a participant by
+completing an Enrollment Agreement provided by the Company and filing it with
+Shareholder Services prior to the Commencement of the offering to which it
+relates.
+
+                  8.2  Payroll deductions for a participant shall commence on
+the offering date, and shall end on the termination date of such offering
+unless earlier terminated by the employee as provided in Paragraph 14.
+
+         9.      Payroll Deductions.
+
+                  9.1  At the time a participant files his authorization for a
+payroll deduction, he shall elect to have deductions made from his pay on each
+payday during the time he is a participant in an offering at the rate of 2%,
+4%, 6%, 8%, or 10% of his base pay.
+
+                  9.2  All payroll deductions made for a participant shall be
+credited to his account under the Plan.  A participant may not make any
+separate cash payment into such account nor may payment for shares be made
+other than by payroll deduction.
+
+                  9.3  A participant may discontinue his participation in the
+Plan as provided in Section 14, but no other change can be made during an
+offering and, specifically, a participant may not alter the rate of his payroll
+deductions for that offering.
+
+         10.     Granting of Option.  On the offering date, this Plan shall be
+deemed to have granted to the participant an option for as many full shares as
+he will be able to purchase with the payroll deductions credited to his account
+during his participation in that offering.  Notwithstanding the foregoing, no
+participant may purchase more than 2,250 shares of stock during any single
+offering.
+
+         11.     Exercise of Option.  Each employee who continues to be a
+participant in an offering on the last business day of that offering shall be
+deemed to have exercised his option on such date and shall be deemed to have
+purchased from the Company such number of full shares of common stock reserved
+for the purpose of the Plan as his accumulated payroll deductions on such date
+will pay for at the option price.
+
+         12.     Employee's Rights as a Shareholder. No participating employee
+shall have any right as a shareholder with respect to any shares until the
+shares have been purchased in accordance with Section 11 above and the stock
+has been issued by the Company.
+
+         13.     Evidence of Stock Ownership.
+
+                 13.1  Promptly following the end of each offering, the number
+of shares of common stock purchased by each participant shall be deposited into
+an account established in the participant's name at a stock brokerage or other
+financial services firm designated by the Company (the "ESPP Broker").
+
+                 13.2  The participant may direct, by written notice to the
+Company at the time of his enrollment in the Plan, that his ESPP Broker account
+be established in the names of the participant and one other person designated
+by the participant, as joint tenants with right of survivorship, tenants in
+common, or community property, to the extent and in the manner permitted by
+applicable law.
+
+
+
+
+
+                                       3
+<PAGE>   4
+
+                 13.3  A participant shall be free to undertake a disposition
+(as that term is defined in Section 424(c) of the Code) of the shares in his
+account at any time, whether by sale, exchange, gift, or other transfer of
+legal title, but in the absence of such a disposition of the shares, the shares
+must remain in the participant's account at the ESPP Broker until the holding
+period set forth in Section 423(a) of the Code has been satisfied.  With
+respect to shares for which the Section 423(a) holding period has been
+satisfied, the participant may move those shares to another brokerage account
+of participant's choosing or request that a stock certificate be issued and
+delivered to him.
+
+                 13.4  A participant who is not subject to payment of U.S.
+income taxes may move his shares to another brokerage account of his choosing
+or request that a stock certificate be issued and delivered to him at any time,
+without regard to the satisfaction of the Section 423(a) holding period.
+
+         14.     Withdrawal.
+
+                 14.1  An employee may withdraw from an offering, in whole but
+not in part, at any time prior to the last business day of such offering by
+delivering a Withdrawal Notice to the Company, in which event the Company will
+refund the entire balance of his deductions as soon as practicable thereafter.
+
+                 14.2  To re-enter the Plan, an employee who has previously
+withdrawn must file a new Enrollment Agreement in accordance with Section 8.1.
+The employee's re-entry into the Plan will not become effective before the
+beginning of the next offering following his withdrawal, and if the withdrawing
+employee is an officer of the Company within the meaning of Section 16 of the
+Securities Exchange Act of 1934 he may not re-enter the Plan before the
+beginning of the second offering following his withdrawal.
+
+         15.     Carryover of Account.  At the termination of each offering the
+Company shall automatically re-enroll the employee in the next offering, and
+the balance in the employee's account shall be used for option exercises in the
+new offering, unless the employee has advised the Company otherwise.  Upon
+termination of the Plan, the balance of each employee's account shall be
+refunded to him.
+
+         16.     Interest.  No interest will be paid or allowed on any money in
+the accounts of participating employees.
+
+         17.     Rights Not Transferable.  No employee shall be permitted to
+sell, assign, transfer, pledge, or otherwise dispose of or encumber either the
+payroll deductions credited to his account or any rights with regard to the
+exercise of an option or to receive shares under the Plan other than by will or
+the laws of descent and distribution, and such right and interest shall not be
+liable for, or subject to, the debts, contracts, or liabilities of the
+employee.  If any such action is taken by the employee, or any claim is
+asserted by any other party in respect of such right and interest whether by
+garnishment, levy, attachment or otherwise, such action or claim will be
+treated as an election to withdraw funds in accordance with Section 14.
+
+         18.     Termination of Employment.  Upon termination of employment for
+any reason whatsoever, including but not limited to death or retirement, the
+balance in the account of a participating employee shall be paid to the
+employee or his estate.
+
+         19.     Amendment or Discontinuance of the Plan.  The Board shall have
+the right to amend, modify, or terminate the Plan at any time without notice,
+provided that no employee's existing rights under any offering already made
+under Section 4 hereof may be adversely affected thereby, and provided further
+that no such amendment of the Plan shall, except as provided in Section 20,
+increase above 6,750,000 the total number of shares to be offered unless
+shareholder approval is obtained therefor.
+
+
+
+
+
+                                       4
+<PAGE>   5
+
+         20.     Changes in Capitalization.  In the event of reorganization,
+recapitalization, stock split, stock dividend, combination of shares, merger,
+consolidation, offerings of rights, or any other change in the structure of the
+common shares of the Company, the Board may make such adjustment, if any, as it
+may deem appropriate in the number, kind, and the price of shares available for
+purchase under the Plan, and in the number of shares which an employee is
+entitled to purchase.
+
+         21.     Share Ownership.  Notwithstanding anything herein to the
+contrary, no employee shall be permitted to subscribe for any shares under the
+Plan if such employee, immediately after such subscription, owns shares
+(including all shares which may be purchased under outstanding subscriptions
+under the Plan) possessing 5% or more of the total combined voting power or
+value of all classes of shares of the Company or of its parent or subsidiary
+corporations.  For the foregoing purposes the rules of Section 425(d) of the
+Internal Revenue Code of 1986 shall apply in determining share ownership.  In
+addition, no employee shall be allowed to subscribe for any shares under the
+Plan which permits his rights to purchase shares under all "employee stock
+purchase plans" of the Company and its subsidiary corporations to accrue at a
+rate which exceeds $25,000 of the fair market value of such shares (determined
+at the time such right to subscribe is granted) for each calendar year in which
+such right to subscribe is outstanding at any time.
+
+         22.     Administration.  The Plan shall be administered by the Board.
+The Board shall be vested with full authority to make, administer, and
+interpret such rules and regulations as it deems necessary to administer the
+Plan, and any determination, decision, or action of the Board in connection
+with the construction, interpretation, administration, or application of the
+Plan shall be final, conclusive, and binding upon all participants and any and
+all persons claiming under or through any participant.
+
+         The Board may delegate any or all of its authority hereunder to such
+committee as it may designate.
+
+         23.     Notices.  All notices or other communications by a participant
+to the Company under or in connection with the Plan shall be deemed to have
+been duly given when received by Shareholder Services of the Company or when
+received in the form specified by the Company at the location, or by the
+person, designated by the Company for the receipt thereof.
+
+         24.     Termination of the Plan.  This Plan shall terminate at the
+earliest of the following:
+
+                  24.1  December 31, 1996;
+
+                  24.2  The date of the filing of a Statement of Intent to
+Dissolve by the Company or the effective date of a merger or consolidation
+wherein the Company is not to be the surviving corporation, which merger or
+consolidation is not between or among corporations related to the Company.
+Prior to the occurrence of either of such events, on such date as the Company
+may determine, the Company may permit a participating employee to exercise the
+option to purchase shares for as many full shares as the balance of his account
+will allow at the price set forth in accordance with Section 5. If the employee
+elects to purchase shares, the remaining balance of his account will be
+refunded to him after such purchase.
+
+                  24.3  The date the Board acts to terminate the Plan in
+accordance with Section 19 above.
+
+                  24.3  The date when all shares reserved under the Plan have
+been purchased.
+
+         25.     Limitations on Sale of Stock Purchased Under the Plan. The
+Plan is intended to provide common stock for investment and not for resale.
+The Company does not, however, intend to restrict or influence any employee in
+the conduct of his own affairs.  An employee, therefore, may sell stock
+purchased under the Plan at any time he chooses, subject to compliance with any
+applicable Federal or state securities laws.  THE EMPLOYEE ASSUMES THE RISK OF
+ANY MARKET FLUCTUATIONS IN THE PRICE OF THE STOCK.
+
+
+
+
+
+                                       5
+<PAGE>   6
+
+         26.     Governmental Regulation.  The Company's obligation to sell and
+deliver shares of the Company's common stock under this Plan is subject to the
+approval of any governmental authority required in connection with the
+authorization, issuance, or sale of such shares.
+
+         [The number of shares set forth in Sections 7, 10, and 19 have been
+changed to reflect the effect of three-for-two stock splits in 1991 and 1992,
+and a two-for-one stock split in 1994.]
+
+
+
+
+
+                                       6
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>3
+<DESCRIPTION>COMPUTATION OF EARNINGS PER SHARE
+<TEXT>
+
+<PAGE>   1
+
+                                                                     EXHIBIT 11.
+COMPUTATION OF EARNINGS PER SHARE
+(In millions, except earnings per share)
+
+<TABLE>
+<CAPTION>
+                                                                 Year Ended June 30
+                                                            ----------------------------
+                                                             1993      1994        1995
+                                                            -----     ------      ------
+<S>                                                         <C>       <C>         <C>
+Weighted average common shares outstanding                    556        571         582
+Common equivalent shares from stock options                    50         39          45
+                                                            -----     ------      ------
+Average common and equivalent shares outstanding (1)          606        610         627
+                                                            =====     ======      ======
+Net income                                                  $ 953     $1,146      $1,453
+                                                            =====     ======      ======
+Earnings per share (1)                                      $1.57     $ 1.88      $ 2.32
+                                                            =====     ======      ======
+</TABLE>
+
+
+__________________
+(1) Fully diluted earnings per share have not been presented because the
+    effects are not material.
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<DESCRIPTION>SUBSIDIARIES
+<TEXT>
+
+<PAGE>   1
+                                                                     EXHIBIT 21.
+SUBSIDIARIES
+<TABLE>
+ <S>                                                   <C>
+ Antura S.A.R.L.                                       Microsoft Informatica Limitada (Brazil)
+ ASCII Network Technology, Inc. (Japan JV)             Microsoft Institute PTY Limited
+ CorporacionMicrosoft Del Ecuador S.A.                 Microsoft International BV (The Netherlands)
+ Corporation MS 90 de Venezuela SA                     Microsoft Israel Ltd.
+ Dram Realty, Inc.                                     Microsoft Kft (Hungary)
+ Dreamworks Interactive L.L.C. (U.S. JV)               Microsoft Limited (U.K.)
+ Forethought Inc.                                      Microsoft (Thailand) Limited
+ Fox Software GmbH (Germany)                           Microsoft (S.A.) (Proprietary) Limited (South Africa)
+ Fox Software, Inc.                                    Microsoft Manufacturing B.V. (Ireland manufacturing)
+ Fox Software (U.K.) Limited                           Microsoft Maroc S.A.R.L. (Morocco)
+ Fox Software S.A.R.L. (France)                        Microsoft Mexico, S.A. de C.V.
+ GraceMac Corporation                                  Microsoft New Zealand Limited
+ HomePlate, Inc.                                       Microsoft Norge AS (Norway)
+ ImageWare Research and Development, Inc. (Canada)     Microsoft N.V. (Belgium)
+ Microsoft A.O. (Russia)                               Microsoft Oy (Finland)
+ Microsoft AG (Switzerland)                            Microsoft Perc, S.A.
+ Microsoft Aktiebolag (Sweden)                         Microsoft Phillipines, Inc.
+ Microsoft B.V. (The Netherlands)                      Microsoft Properties France S.A.R.L.
+ Microsoft Bilgisayar Yazilim Hizmetleri Limited       Microsoft Properties UK Limited
+   Sirketi (Turkey)
+ Microsoft Canada Inc.                                 Microsoft Pty Limited (Australia)
+ Microsoft Caribbean, Inc. (Puerto Rico)               Microsoft Puerto Rico, Inc. (Manufacturing)
+ Microsoft CH (Korea)                                  Microsoft Rendermorphics Limited (U.K.)
+ Microsoft Chile S.A.                                  Microsoft (Malaysia) Sdn. Bhd.
+ Microsoft Colombia Inc.                               Microsoft Singapore Pte Ltd
+ Microsoft Company, Limited (Japan)                    Microsoft Slovakia s.r.o.
+ Microsoft Coris, S.P.A. (Italy JV)                    MSFT-Software Para Microcomputadores, LDA (Portugal)
+ Microsoft Corporation-Beijing Representative Office   Microsoft S.p.A. (Italy)
+   (The Peoples Republic of China)
+ Microsoft Corporation (Dubai Branch)                  Microsoft sp. z.o.o. (Poland)
+ Microsoft Corporation Limitada (Colombia)             Microsoft s.r.o. (Czech Republic)
+ Microsoft Corporation (India) Private Limited         Microsoft Taiwan Corporation
+ Microsoft d.o.o., Ljubljana (Slovenia)                Microsoft Venezuela, S.A.
+ Microsoft Danmark ApS (Denmark)                       Microsoft Workgroup Canada, Inc.
+ Microsoft de Argentina S.A.                           MSHC Inc. (Holding Company)
+ Microsoft De Centroamerica S.A. (Costa Rica)          NRI India, Inc.
+ Microsoft Distribution Limited (Ireland)              On Australia Pty. Limited (Australia JV)
+ Microsoft Europe S.A.R.L. (European Headquaters)      SoftCapital, Inc.
+ Microsoft France S.A.R.L.                             SOFTIMAGE France S.A.R.L.
+ Microsoft FSC Corp.                                   SOFTIMAGE, Inc. (Canada)
+ Microsoft Gesellschaft m.b.H. (Austria)               SOFTIMAGE, Italy S.R.L.
+ Microsoft G.m.b.H. (Germany)                          SOFTIMAGE U.K. Limited
+ Microsoft Hellas S.A. (Greece)                        Technology Resources Management Corporation
+ Microsoft Hong Kong Limited                           The Monotype Corporation
+ Microsoft Iberica S.R.L. (Spain)
+</TABLE>
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<DESCRIPTION>INDEPENDENT AUDITORS' CONSENT
+<TEXT>
+
+<PAGE>   1
+
+                                                                     EXHIBIT 23.
+INDEPENDENT AUDITORS' CONSENT
+
+Microsoft Corporation:
+
+We consent to the incorporation by reference in Registration Statement Numbers
+33-06335, 33-18381, 33-25575, 33-33695, and 33-37623 (Microsoft Corporation
+1981 Stock Option Plan), 33-44302 and 33-51583 (Microsoft Corporation 1991
+Stock Option Plan), 33-37622 (Microsoft Corporation 1991 Employee Stock
+Purchase Plan), 33-10732 (Microsoft Corporation Savings Plus Plan), 33-36498
+(Microsoft Corporation Stock Option Plan for Non-Employee Directors) and
+33-45617 (Microsoft Corporation Stock Option Plan for Consultants and Advisors)
+of Microsoft Corporation on Forms S-8 and 33-29823, 33-34794, 33-36347,
+33-46958, 33-49496, 33-56039, 33-57277, 33-57899, 33-58867, 33-62725, and
+33-64870 of Microsoft Corporation on Forms S-3 of our report dated July 17,
+1995 (August 21, 1995 as to Contingencies Note) appearing in and incorporated
+by reference in this Annual Report on Form 10-K of Microsoft Corporation for the
+year ended June 30, 1995.
+        
+/S/ DELOITTE & TOUCHE LLP
+
+Seattle, Washington
+September 25, 1995
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>6
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER>   1,000,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1995
+<PERIOD-END>                               JUN-30-1995
+<CASH>                                           4,750
+<SECURITIES>                                         0
+<RECEIVABLES>                                      720
+<ALLOWANCES>                                       139
+<INVENTORY>                                         88
+<CURRENT-ASSETS>                                 5,620
+<PP&E>                                           1,907
+<DEPRECIATION>                                     715
+<TOTAL-ASSETS>                                   7,210
+<CURRENT-LIABILITIES>                            1,347
+<BONDS>                                              0
+<COMMON>                                         2,005
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                       3,328
+<TOTAL-LIABILITY-AND-EQUITY>                     7,210
+<SALES>                                          5,937
+<TOTAL-REVENUES>                                 5,937
+<CGS>                                              877
+<TOTAL-COSTS>                                    3,848
+<OTHER-EXPENSES>                                    16
+<LOSS-PROVISION>                                    51
+<INTEREST-EXPENSE>                                   2
+<INCOME-PRETAX>                                  2,167
+<INCOME-TAX>                                       714
+<INCOME-CONTINUING>                              1,453
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     1,453
+<EPS-PRIMARY>                                     2.32
+<EPS-DILUTED>                                     2.32
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>7
+<DESCRIPTION>1991 EMPLOYEE STOCK PURCHASE PLAN FINANCIAL STMTS
+<TEXT>
+
+<PAGE>   1
+
+
+
+
+
+                                                                    EXHIBIT 99.1
+MICROSOFT CORPORATION
+1991 EMPLOYEE STOCK PURCHASE PLAN
+FINANCIAL STATEMENTS FOR THE
+THREE YEARS ENDED JUNE 30, 1995,
+1994, AND 1993, AND
+INDEPENDENT AUDITORS' REPORT
+
+<PAGE>   2
+
+
+
+
+
+INDEPENDENT AUDITORS' REPORT
+
+Plan Administrator
+Microsoft Corporation
+1991 Employee Stock Purchase Plan
+Redmond, Washington
+
+We have audited the accompanying statements of assets available for benefits of
+the Microsoft Corporation 1991 Employee Stock Purchase Plan (the Plan) as of
+June 30, 1995 and 1994, and the related statements of changes in assets
+available for benefits for the years ended June 30, 1995, 1994, and 1993.
+These financial statements are the responsibility of the Plan Administrator.
+Our responsibility is to express an opinion on these financial statements based
+on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by the Plan Administrator, as well as evaluating the overall
+financial statement presentation.  We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, such financial statements present fairly, in all material
+respects, the assets available for benefits of the Plan as of June 30, 1995 and
+1994, and the changes in assets available for benefits for the years ended June
+30, 1995, 1994, and 1993, in conformity with generally accepted accounting
+principles.
+
+/s/  DELOITTE & TOUCHE LLP
+
+Seattle, Washington
+August 11, 1995
+
+
+
+
+
+<PAGE>   3
+
+MICROSOFT CORPORATION
+1991 EMPLOYEE STOCK PURCHASE PLAN
+
+STATEMENTS OF ASSETS AVAILABLE FOR BENEFITS
+JUNE 30, 1995 AND 1994
+
+
+<TABLE>
+<CAPTION>
+                                                                   1995             1994
+                                                                 --------         --------
+<S>                                                              <C>              <C>
+ASSETS:
+       Cash                                                      $295,579         $492,243
+                                                                 --------         --------
+ASSETS AVAILABLE FOR BENEFITS                                    $295,579         $492,243
+                                                                 ========         ========
+</TABLE>
+
+
+
+
+
+See note to financial statements.                                          2
+
+
+
+
+
+<PAGE>   4
+
+MICROSOFT CORPORATION
+1991 EMPLOYEE STOCK PURCHASE PLAN
+
+STATEMENTS OF CHANGES IN ASSETS AVAILABLE FOR BENEFITS
+YEARS ENDED JUNE 30, 1995, 1994, AND 1993
+
+
+<TABLE>
+<CAPTION>
+                                                            1995             1994               1993
+                                                         -----------      -----------       -----------
+<S>                                                      <C>              <C>               <C>
+ASSETS AVAILABLE FOR BENEFITS,
+      beginning of period                                $   492,243      $   961,962       $   366,638
+
+ADDITIONS:
+      Employee contributions                              48,835,432       48,614,990        34,114,121
+
+DEDUCTIONS:
+      Cost of shares purchased                            49,032,095       39,084,709        33,518,797
+                                                         -----------      -----------       -----------
+CHANGES IN ASSETS AVAILABLE FOR
+      BENEFITS                                              (196,664)        (469,719)          595,324
+                                                         -----------      -----------       -----------
+ASSETS AVAILABLE FOR BENEFITS,
+      end of period                                      $   295,579      $   492,243       $   961,962
+                                                         ===========      ===========       ===========
+</TABLE>                                                                      
+
+
+
+
+
+See note to financial statements.                                           3
+<PAGE>   5
+
+MICROSOFT CORPORATION
+1991 EMPLOYEE STOCK PURCHASE PLAN
+
+NOTE TO FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 1995, 1994, AND 1993
+
+
+NOTE 1:      THE PLAN
+
+The following description of the Microsoft Corporation 1991 Employee Stock
+Purchase Plan (the Plan) provides only general information.  Participants
+should refer to the Plan agreement for a complete description of the Plan's
+provisions.
+
+    GENERAL:  The Plan Administrator believes the Plan meets the qualification
+    standards of Section 423 of the Internal Revenue Code of 1986.  The Plan is
+    not subject to the provisions of the Employee Retirement Income Security
+    Act of 1974 (ERISA).
+
+    The Plan covers substantially all employees of Microsoft Corporation (the
+    Company) whose customary employment is greater than 20 hours per week, and
+    more than five months in any calendar year.
+
+    CONTRIBUTIONS:  Participants may make contributions to the Plan through
+    payroll deductions (not exceeding 10% of their compensation) for the
+    purpose of purchasing the Company's common stock.  The Plan commenced on
+    January 1, 1991, and participants are given the opportunity to purchase
+    shares on each June 30 and December 31 until such time as the Plan is
+    terminated (see Termination of the Plan).  The maximum number of shares
+    that will be offered under the Plan is 6,750,000.
+
+    OPTIONS GRANTED AND WITHDRAWALS:  Participants are granted the option to
+    purchase shares of Microsoft Corporation common stock from the Company at
+    85% of the lesser of the fair market value on the first or last day of each
+    six-month period ending June 30 or December 31.  If the participant does
+    not exercise the option, the Company refunds the participant for amounts
+    withheld. The Plan purchased 1,049,695, 1,147,508, and 1,006,988, shares
+    during the years ended June 30, 1995, 1994, and 1993, respectively.  A
+    total of 4,686,060 shares have been purchased under the Plan since
+    inception with 2,063,940 shares reserved for future issue.
+
+    ASSETS AVAILABLE FOR BENEFITS:  Assets available for benefits represent
+    cash in participant accounts that was less than the amount necessary to
+    purchase a full share and cash contributed to the Plan greater than the
+    cost of the maximum number of shares allowed to be purchased in a six-month
+    period (see Limitations).  Participants may carry over such amounts to the
+    next period.
+
+    LIMITATIONS:  No employee shall be permitted to subscribe for any shares
+    under the Plan if such employee owns shares representing 5% or more of the
+    total combined voting power or value of all classes of shares of the
+    Company.  Additionally, no participant may purchase more than 2,250 shares
+    of stock during a six-month period, or purchase shares through the Plan
+    with an aggregate fair market value in excess of $25,000 in any one
+    calendar year.
+
+    TERMINATION OF THE PLAN:  The Plan shall terminate at the earliest of the
+    following:
+
+    o    December 31, 1996
+
+
+
+
+
+                                                                               4
+<PAGE>   6
+
+    o    The date of the filing of a statement of intent to dissolve by the
+         Company or the effective date of a merger or consolidation (except
+         with a related company) where the Company is not to be the surviving
+         corporation
+
+    o    The date the Board acts to terminate the Plan
+
+    o    The date when all shares reserved under the Plan have been purchased
+
+    In the event of a dissolution, merger, or acquisition, the Company may
+    permit a participating employee to exercise options to the extent that
+    employee payroll deductions have accumulated. In the event of termination,
+    Plan assets will be distributed to the participants.
+
+    PLAN ADMINISTRATION:  All expenses for administration of the Plan are paid
+    by the Company, and are not reflected in the accompanying statements.
+
+
+
+
+
+                                                                               5
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>8
+<DESCRIPTION>SAVINGS PLUS PLAN FINANCIAL STATEMENTS
+<TEXT>
+
+<PAGE>   1
+
+                                                                    EXHIBIT 99.2
+
+MICROSOFT CORPORATION
+SAVINGS PLUS PLAN
+
+FINANCIAL STATEMENTS FOR THE
+TWO YEARS ENDED DECEMBER 31, 1994, AND
+NINE MONTHS ENDED DECEMBER 31, 1992, AND
+INDEPENDENT AUDITORS' REPORT
+
+
+
+
+
+                                                                               
+<PAGE>   2
+
+INDEPENDENT AUDITORS' REPORT
+
+Plan Administrator
+Microsoft Corporation Savings Plus Plan
+Redmond, Washington
+
+We have audited the accompanying statements of assets available for benefits of
+the Microsoft Corporation Savings Plus Plan (the Plan) as of December 31, 1994
+and 1993, and the related statements of changes in assets available for
+benefits for the two years ended December 31, 1994, and the nine months ended
+December 31, 1992.  These financial statements are the responsibility of the
+Plan administrator.  Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and the significant
+estimates made by the Plan administrator, as well as evaluating the overall
+financial statement presentation.  We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, such financial statements present fairly, in all material
+respects, the assets available for benefits of the Plan as of December 31, 1994
+and 1993, and the related statements of changes in assets available for
+benefits for the two years ended December 31, 1994, and the nine months ended
+December 31, 1992, in conformity with generally accepted accounting principles.
+
+Our audits were made for the purpose of forming an opinion on the basic
+financial statements taken as a whole.  The supplemental schedules of assets
+held for investment as of December 31, 1994, and reportable transactions for
+the year then ended are presented for the purpose of additional analysis and
+are not a required part of the basic financial statements but are supplementary
+information required by the Department of Labor's Rules and Regulations for
+Reporting and Disclosure under the Employee Retirement Income Security Act of
+1974.  These supplemental schedules have been subjected to the auditing
+procedures applied in the audits of the basic financial statements and, in our
+opinion, are fairly stated in all material respects in relation to the basic
+financial statements taken as a whole.
+
+
+/s/  DELOITTE & TOUCHE LLP
+
+Seattle, Washington
+July 10, 1995
+
+
+
+
+
+                                                                               
+<PAGE>   3
+
+MICROSOFT CORPORATION SAVINGS PLUS PLAN
+
+STATEMENTS OF ASSETS AVAILABLE FOR BENEFITS
+DECEMBER 31, 1994 AND 1993
+
+<TABLE>
+<CAPTION>
+                                                                                      1994                   1993
+                                                                                  ------------           ------------
+<S>                                                                               <C>                    <C>
+ASSETS:
+      Investments held by trustee at fair value:
+            Microsoft Corporation Stock Fund                                      $ 96,047,305           $ 57,717,671
+            Fidelity Magellan Fund                                                  30,791,846             19,930,432
+            Fidelity U.S. Equity Index Fund                                         23,368,129             20,685,406
+            Fidelity Retirement Money Market Fund                                   19,881,402             16,776,143
+            Fidelity Growth Company Fund                                            17,814,128             11,638,038
+            Fidelity Intermediate Bond Fund                                         15,775,411             14,653,568
+            Fidelity Overseas Fund                                                  11,290,171              5,292,574
+      Participant loans receivable                                                   1,867,625              1,122,588
+                                                                                  ------------           ------------
+ASSETS AVAILABLE FOR BENEFITS                                                     $216,836,017           $147,816,420
+                                                                                  ============           ============
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+See notes to financial statements.                                           2
+<PAGE>   4
+
+MICROSOFT CORPORATION SAVINGS PLUS PLAN
+
+STATEMENTS OF CHANGES IN ASSETS
+AVAILABLE FOR BENEFITS
+TWO YEARS ENDED DECEMBER 31, 1994, AND
+NINE MONTHS ENDED DECEMBER 31, 1992
+
+
+<TABLE>
+<CAPTION>
+                                                                           1994                   1993                   1992
+                                                                       ------------           ------------           ------------
+<S>                                                                    <C>                    <C>                    <C>
+ADDITIONS:
+      Investment income:
+            Interest and dividends                                     $  4,440,600           $  4,978,058           $  2,530,108
+            Net appreciation in fair value of
+                  investments                                            25,559,250                328,116              4,705,139
+                                                                       ------------           ------------           ------------
+                        Total net investment income                      29,999,850              5,306,174              7,235,247
+
+      Contributions:
+            Employer                                                     10,616,736              8,539,976              5,003,882
+            Employee                                                     35,374,522             26,901,086             16,310,632
+                                                                       ------------           ------------           ------------
+                        Total contributions                              45,991,258             35,441,062             21,314,514
+                                                                       ------------           ------------           ------------
+                        Total additions                                  75,991,108             40,747,236             28,549,761
+
+DEDUCTIONS:
+      Benefits paid to participants                                       6,971,511              2,734,102              1,320,423
+                                                                       ------------           ------------           ------------
+CHANGES IN ASSETS AVAILABLE
+      FOR BENEFITS                                                       69,019,597             38,013,134             27,229,338
+
+ASSETS AVAILABLE FOR BENEFITS:
+      Beginning of year                                                 147,816,420            109,803,286             82,573,948
+                                                                       ------------           ------------           ------------
+      End of year                                                      $216,836,017           $147,816,420           $109,803,286
+                                                                       ============           ============           ============
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+See notes to financial statements.                                          3
+<PAGE>   5
+
+MICROSOFT CORPORATION SAVINGS PLUS PLAN
+
+NOTES TO FINANCIAL STATEMENTS
+TWO YEARS ENDED DECEMBER 31, 1994, AND
+NINE MONTHS ENDED DECEMBER 31, 1992
+
+NOTE 1:      DESCRIPTION OF THE PLAN AND
+             SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+
+    PLAN DESCRIPTION:  The Microsoft Corporation Savings Plus Plan (the Plan)
+    is a defined contribution plan.  All employees of Microsoft Corporation
+    (the Company) who have reached 18 years of age may enroll during the month
+    following completion of six months of service or during any subsequent
+    quarterly enrollment period.  The Plan is subject to the provisions of the
+    Employee Retirement Income Security Act of 1974 (ERISA).  The Plan is
+    administered by the Vice President of Human Resources and Administration of
+    Microsoft Corporation.
+
+    CONTRIBUTIONS:  Participants may contribute from 1% to 15% of their
+    compensation, tax deferred, through payroll deductions up to a maximum of
+    $9,240 under current law.  The amount of a participant's tax-deferred
+    contributions may be subject to limitations.  Participant contributions may
+    be suspended at any time.  Contributions may be reinstated on the first day
+    of the quarter that is at least six months after contributions were
+    suspended.
+
+    The Company makes a matching contribution equal to 50% of a participant's
+    contributions up to 6% of the participant's individual compensation.
+    Company contributions are funded on a semimonthly basis.
+
+    VESTING:  Employee contributions are fully vested immediately.  Employer
+    contributions vest fully upon completion of two years of service by a
+    participant, or when a participant reaches age 65, dies, or becomes
+    disabled.
+
+    DISTRIBUTIONS:  Participants may make a withdrawal from the vested portion
+    of their account if the Plan administrator determines a withdrawal is
+    necessary to avoid a financial hardship or if the participant is at least
+    59-1/2 years of age.
+
+    FORFEITURES:  Any nonvested interest of a terminated employee shall not be
+    forfeited to the Plan until a one-year period of severance service has
+    passed.  At this time, the forfeited amount is distributed to the Plan.  If
+    a terminated employee is reemployed before five consecutive one-year
+    periods of severance have passed, the forfeited amount will be reallocated
+    to the individual's account.
+
+    ADMINISTRATIVE EXPENSES:  Expenses for administration of the Plan are paid
+    by the Company.
+
+    PLAN AMENDMENT AND TERMINATION:  The Company has the right to modify,
+    amend, suspend or terminate the Plan at any time and for any reason.  If
+    the Plan is terminated, account balances will be fully vested and will be
+    distributed in the form and manner determined by the Plan administrator.
+
+    VALUATION OF INVESTMENTS AND PARTICIPANT LOANS:  Investments are recorded
+    at fair value. Security transactions are accounted for as of the trade
+    date.  Fair market value is based on quoted prices.  Loans to participants
+    are recorded at contract value, which approximates fair value.  Dividend
+    income is recorded on the ex-dividend date and interest income is recorded
+    as earned.
+
+
+
+
+
+                                                                               4
+<PAGE>   6
+
+NOTE 2:      INVESTMENTS
+
+Fidelity Investments (Fidelity) is trustee of the Plan.  All Plan investments
+are held by Fidelity.  Investment funds available to participants are
+summarized as follows:
+
+    MICROSOFT CORPORATION STOCK FUND:  The Microsoft Corporation Stock Fund
+    consists entirely of the Company's common stock.
+
+    FIDELITY U.S. EQUITY INDEX FUND:  The Fidelity U.S. Equity Index Fund
+    consists mainly of common stocks of the companies that make up Standard &
+    Poor's 500 Index.  The fund seeks investment results that correspond to the
+    total return performance of United States publicly traded common stocks.
+
+    FIDELITY RETIREMENT MONEY MARKET FUND:  The Fidelity Retirement Money
+    Market Fund strives to maintain a stable $1 share price while its yield
+    will fluctuate with changes in market conditions.  The fund seeks as high a
+    level of current income as is consistent with the preservation of capital
+    and liquidity.
+
+    FIDELITY INTERMEDIATE BOND FUND:  The Fidelity Intermediate Bond Fund
+    consists of investment-grade fixed income obligations.  The fund seeks a
+    high level of current income.
+
+    FIDELITY MAGELLAN FUND:  The Fidelity Magellan Fund consists of common
+    stocks, and securities convertible to common stock, issued by companies
+    operating in the United States or abroad.  The fund seeks long-term capital
+    appreciation.
+
+    FIDELITY GROWTH COMPANY FUND:  The Fidelity Growth Company Fund consists
+    mainly of investments in companies with above average growth
+    characteristics as demonstrated in earnings or gross sales.  The fund seeks
+    long-term capital appreciation.
+
+    FIDELITY OVERSEAS FUND:  The Fidelity Overseas Fund consists of investments
+    in securities of issuers whose principal activities are outside the United
+    States.  The fund seeks long-term capital appreciation.
+
+
+
+
+
+                                                                               5
+<PAGE>   7
+
+The following details activity for each of the participant-directed investment
+accounts at fair value.
+
+<TABLE>
+<CAPTION>
+                                                                                     Fidelity                             
+                                    Microsoft       Fidelity        Fidelity        Retirement                
+                                   Corporation      Magellan       U.S. Equity     Money Market               
+                                   Stock Fund         Fund         Index Fund         Fund                    
+                                   -----------     -----------     -----------     -----------                
+<S>                                <C>             <C>             <C>             <C>                        
+Balance, December 31, 1993         $57,717,671     $19,930,432     $20,685,406     $16,776,143                 
+                                                                                                              
+  Net investment income (loss)      30,227,408        (534,447)        235,253         753,604                   
+  Employer contributions             2,965,531       2,303,844       1,207,840       1,055,766                    
+  Employee contributions             9,650,674       7,649,724       3,981,633       3,294,995                    
+  Benefits paid to participants     (2,610,753)       (712,176)       (940,002)     (1,177,295)                 
+  Transfers                         (1,903,226)      2,154,469      (1,802,001)       (821,811)               
+                                   -----------     -----------     -----------     -----------                
+                                                                                                              
+Balance, December31,1994           $96,047,305     $30,791,846     $23,368,129     $19,881,402                 
+                                   ===========     ===========     ===========     ===========                
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                      Fidelity                                                         Total
+                                       Growth          Fidelity       Fidelity       Participant       assets
+                                       Company      Intermediate     Overseas          Loan          available
+                                        Fund            Fund            Fund            Fund         for benefits
+                                     -----------     -----------     -----------     -----------     ------------     
+<S>                                  <C>             <C>             <C>             <C>             <C>
+Balance, December 31, 1993           $11,638,038     $14,653,568     $5,292,574      $1,122,588      $147,816,420
+                                                
+  Net investment income (loss)          (300,914)       (286,380)       (94,674)                       29,999,850
+  Employer contributions               1,304,567         964,777        814,411                        10,616,736
+  Employee contributions               4,729,657       3,052,750      3,015,089                        35,374,522
+  Benefits paid to participants         (606,881)       (646,537)      (277,867)                       (6,971,511)
+  Transfers                            1,049,661      (1,962,767)     2,540,638         745,037        
+                                     -----------     -----------     -----------     ----------      ------------     
+                                                
+Balance, December 31, 1994           $17,814,128     $15,775,411     $11,290,171     $1,867,625      $216,836,017
+                                     ===========     ===========     ===========     ==========      ============
+</TABLE>
+
+
+
+
+                                       6
+<PAGE>   8
+
+NOTE 3:      PARTICIPANT LOANS
+
+Effective January 1, 1993, Plan participants are permitted to borrow up to 50%
+of the total vested account balance.  Participants are limited to one
+residential loan and one nonresidential loan outstanding.  The interest rate
+for residential loans is based on the yield for the Federal Home Loan Mortgage
+Corporation 30-year mortgage commitment for a standard conventional fixed rate
+mortgage, plus 1%.  The interest rate for nonresidential loans will be the
+prime rate on corporate loans plus 1%.  The range of interest rates was 7% -
+9.5% for nonresidential loans and 8.78% - 10.26% for residential loans for the
+year ended December 31, 1994.  Loan repayment is made through after-tax
+semimonthly payroll deductions over a period of up to 15 years for residential
+loans and five years for nonresidential loans.  If a participant's employment
+terminates for any reason and the loan balance is not paid in full by the
+participant in the month of termination, the loan balance will be cancelled and
+become taxable income to the participant.
+
+NOTE 4:      TAX STATUS
+
+The Internal Revenue Service has determined and informed the Plan by a letter
+dated June 18, 1990, that the Plan is tax-exempt under the appropriate sections
+of the Internal Revenue Code (the Code).  The Plan has been amended subsequent
+to the date of the determination letter.  The Plan administrator, however,
+believes that the Plan is in compliance with the applicable requirements of the
+Code.  As such, they believe the Plan is tax-exempt as of the financial
+statement date.  Accordingly, no provision for income taxes has been recorded.
+
+
+
+
+
+                                                                               7
+<PAGE>   9
+
+MICROSOFT CORPORATION SAVINGS PLUS PLAN
+
+ITEM 27(a) - SUPPLEMENTAL SCHEDULE OF ASSETS HELD FOR INVESTMENT
+DECEMBER 31, 1994
+
+<TABLE>
+<CAPTION>
+                                                                Shares                                        Fair
+                                                               or units                Cost                   value
+                                                              ----------           ------------          -------------
+<S>                                                           <C>                  <C>                    <C>
+DESCRIPTION OF ASSETS:
+      Microsoft Corporation Stock Fund                         1,571,326           $ 45,542,299           $ 96,047,305
+      Fidelity U.S. Equity Index Fund                          1,381,912             21,918,218             23,368,129
+      Fidelity Retirement Money Market Fund                   19,881,402             19,881,402             19,881,402
+      Fidelity Intermediate Bond Fund                          1,604,823             16,602,396             15,775,411
+      Fidelity Magellan Fund                                     460,955             31,616,996             30,791,846
+      Fidelity Growth Company Fund                               653,490             18,421,938             17,814,128
+      Fidelity Overseas Fund                                     413,559             11,132,566             11,290,171
+      Participant loans receivable                                                    1,867,625              1,867,625
+                                                                                   ------------           ------------
+                                                                                   $166,983,440           $216,836,017
+                                                                                   ============           ============
+</TABLE>
+
+
+
+
+
+                                                                               8
+<PAGE>   10
+
+MICROSOFT CORPORATION SAVINGS PLUS PLAN
+
+ITEM 27(d) - SUPPLEMENTAL SCHEDULE OF REPORTABLE TRANSACTIONS
+YEAR ENDED DECEMBER 31, 1994
+
+<TABLE>
+<CAPTION>
+                                               Purchases                                 Sales
+                                             ------------      ----------------------------------------------------------------
+                                                                                                 Fair value
+                                               Purchase         Selling           Cost          of asset on           Net gain
+                                                price            price          of asset       transaction date        (loss)
+                                              -----------      ----------      ----------      ----------------      ----------
+<S>                                           <C>              <C>             <C>                <C>                <C>
+SERIES OF TRANSACTIONS:                                                                    
+   Microsoft Corporation Stock Fund           $16,657,341      $8,526,670      $5,020,086         $8,526,670         $3,506,584
+   Fidelity Magellan Fund                      15,318,082       2,938,371       3,001,448          2,938,371            (63,077)
+   Fidelity Intermediate Bond Fund              5,573,490       3,089,675       3,153,371          3,089,675            (63,696)
+   Fidelity Overseas Fund                       7,510,209       1,227,829       1,164,110          1,227,829             63,719
+   Fidelity Retirement Money Market Fund        7,921,260       4,816,001       4,816,001          4,816,001
+   Fidelity U.S. Equity Index Fund              6,457,870       3,306,876       3,050,705          3,306,876            256,171
+   Fidelity Growth Company Fund                 9,157,878       1,990,665       2,004,396          1,990,665            (13,731)
+</TABLE>
+
+
+
+
+
+                                                                               
+                                                                            9
+                                                                            
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
