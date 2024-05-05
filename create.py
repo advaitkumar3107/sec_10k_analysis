@@ -8,6 +8,7 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 from predict import prediction
 
 def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):    
+    nltk.download('punkt')
     dl = Downloader("MyCompanyName", "my.email@domain.com")
     directory = 'sec-edgar-filings/' + ticker + '/10-K/'
     file = checker(directory, year)
