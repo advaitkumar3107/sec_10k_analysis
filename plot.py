@@ -37,3 +37,4 @@ def make_plots(fig, df, col, subplot_idx, title_text, legend_x, legend_y):
         showlegend=True,
         legend=dict(x=legend_x, y=legend_y, orientation="h")
     )
+    return fig
