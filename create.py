@@ -4,6 +4,7 @@ from section_location import get_section_location
 import numpy as np
 import pandas as pd
 from process import process_text
+import nltk
 from nltk.tokenize import word_tokenize, sent_tokenize
 from predict import prediction
 
