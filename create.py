@@ -6,7 +6,6 @@ import pandas as pd
 from process import process_text
 from nltk.tokenize import word_tokenize, sent_tokenize
 from predict import prediction
-import pdb
 
 def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):    
     dl = Downloader("MyCompanyName", "my.email@domain.com")
@@ -32,7 +31,6 @@ def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):
 
         for section in ['1', '1a', '1b', '1c', '2', '3', '4', '7', '7a']:
             try:
-                pdb.set_trace()
                 clean_text = process_text(text, section, section_df)
                 sentences = sent_tokenize(clean_text)
 
@@ -48,8 +46,9 @@ def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):
                 else:
                     print('Section ' + section + ' : has too few sentences')
 
-            except:
+            except Exception as e:
                 print('Section ' + section + " doesn't exist in the report")
+                print(e)
                 continue
 
         pct_positives = len(preds_df[(preds_df.preds == 'positive') & (preds_df.prob > 0.5)])/len(preds_df[(preds_df.prob > 0.5)])
