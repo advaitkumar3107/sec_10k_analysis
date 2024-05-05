@@ -26,6 +26,8 @@ def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):
         text = file.read()
         text, section_df = get_section_location(text)
 
+        print(section_df)
+        
         preds_df = pd.DataFrame()
         preds_fls_df = pd.DataFrame()
 
