@@ -6,6 +6,7 @@ import pandas as pd
 from process import process_text
 from nltk.tokenize import word_tokenize, sent_tokenize
 from predict import prediction
+from IPython.core.debugger import set_trace
 
 def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):    
     dl = Downloader("MyCompanyName", "my.email@domain.com")
@@ -25,14 +26,13 @@ def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):
     else:    
         text = file.read()
         text, section_df = get_section_location(text)
-
-        print(section_df)
         
         preds_df = pd.DataFrame()
         preds_fls_df = pd.DataFrame()
 
         for section in ['1', '1a', '1b', '1c', '2', '3', '4', '7', '7a']:
             try:
+                set_trace()
                 clean_text = process_text(text, section, section_df)
                 sentences = sent_tokenize(clean_text)
 
