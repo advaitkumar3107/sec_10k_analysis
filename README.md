@@ -28,9 +28,11 @@ The file [task 1.2](task_1_2.py) contains all the code for the task. The user ca
 * For text pre-processing before feeding into the model, I have used [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/) : a very popular xml/html parser to parse the xml files as well as remove any unnecessary data.
 * For each input ticker, I calculate it's 4 other competitors in the same industry according to the closest market cap of the competitors. I also download the past 5 years data to make a historical analysis.
 * I then use my models to calculate the percentage of positive statements, negative statements and forward looking statements in every report.
+* If a report has a higher percentage of positive sentences and a lower percentage of negative sentences, it implies that the company is more optimistic in its future/ or has been performing well in the past. In either cases it would be better to go long on it.
+* If a report has higher Forward Looking Statements, it means that the company cares more about its future outlook and growth, hence I have taken it to be a positive indicator.
 * I construct another dataframe that has the same data but normalised w.r.t:
-  1) The competitors' prediction data
-  2) It's own past 5 years prediction data
+  1) The competitors' prediction data ![competitors data](images/competitors.png)
+  2) It's own past 5 years prediction data ![historical data](images/historical.png)
 * This helps in a more aesthetic comparision in the plot.
 * I generate 2 figures, each having 2 subplots:
   1) The first figure has the historical bar plots for all the 3 percentages for the stock over the past 5 years (both normalised and unnormalised)
@@ -38,4 +40,17 @@ The file [task 1.2](task_1_2.py) contains all the code for the task. The user ca
 * I believe that these 4 plots will help in provide a better estimate of the stock's performance as we incorporate both its historical as well as its cross sectional performace.
 ### Analysis
 * I have performed an analysis on Morgan Stanley for the year 2014 in my [walkthrough notebook](walkthrough.ipynb).
-* We get the following plots
+* We get the following plots ![plots](images/plots.png)
+* From the above plots we can see that Morgan Stanley didn't perform well with respect to its past 5 years data having only a positive normalised score in positive sentiments and a negative normalised score in forward looking statements with an almost zero score in negative sentiments.
+* In comparision with its competitors, it performs pretty badly as it has both a negative normalised positive sentiment score as well as a negative normalised forward looking sentiment score. On the other hand, Chicago Mercentile Exchange or (CME) has both a positive sentiment score as well as a positive FLS score. Hence we can go long on CME and short on MS
+* I have plotted the returns of all the 5 competitors w.r.t its stock price on 1st Jan 2015, for the year 2015 (succeeding the year 2014 for which we did the analysis), to verify our claims. ![prices](images/stock_prices.png)
+* From the above plot we can see that CME has been one of the best performing stocks in the group (alongside SCHW) with almost a 10% annual return, whereas MS has been the worst performing stock in the group with a return of nearly -15%.
+
+## Task 2
+* For displaying these plots in an application, I have used [streamlit](https://share.streamlit.io/) which is a free of cost online dashboard builder. I chose this since it supports multiple free dashboards for an indefinite time as opposed to other paid apps like Heroku. 
+* My dashboard is present on the following url : [streamlit dashboard](https://sec10kanalysis.streamlit.app/).
+* Note : It takes about 10-15 minutes to generate the plots since there is a lot of data to be downloaded, and a lot of predictions to be made. Stay patient!
+
+## References
+1) Finbert : [https://www.kaggle.com/code/mexwell/huggingface-finbert-for-sentiment-analysis](https://www.kaggle.com/code/mexwell/huggingface-finbert-for-sentiment-analysis)
+2) LLMS Analysis : [https://developers.lseg.com/en/article-catalog/article/using-ai-modeling-to-interpret-10-Q-filings](https://developers.lseg.com/en/article-catalog/article/using-ai-modeling-to-interpret-10-Q-filings)
