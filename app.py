@@ -10,7 +10,7 @@ from utils import get_competitors
 from create import create_df
 from plot import make_plots
 
-@st.cache(allow_output_mutation=True)
+@st.cache_resource
 def load_model(model_name):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForSequenceClassification.from_pretrained(model_name)
