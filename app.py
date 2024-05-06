@@ -9,12 +9,20 @@ from transformers import BertTokenizer, BertForSequenceClassification, pipeline
 from utils import get_competitors
 from create import create_df
 from plot import make_plots
+import nltk
 
 @st.cache_resource
 def load_model(model_name):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForSequenceClassification.from_pretrained(model_name)
     return tokenizer, model
+
+@st.cache_resource
+def load_dataset():
+    nltk.download('punkt')
+    return 
+
+load_dataset()
 
 tokenizer, model = load_model("ProsusAI/finbert")
 tokenizer_fls, model_fls = load_model("yiyanghkust/finbert-fls")
