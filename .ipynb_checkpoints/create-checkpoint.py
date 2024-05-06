@@ -28,7 +28,7 @@ def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):
         directory = 'sec-edgar-filings/' + ticker + '/10-K/'    ### Directory to check if report already exists
         file = checker(directory, year)   ## Check if report exists
     except Exception as e:
-        st.error(f"An error occurred: {e}")
+        print(f"An error occurred: {e}")
     
     ## If Report doesnt exist
     if file is None:
@@ -48,7 +48,7 @@ def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):
         try:
             text, section_df = get_section_location(text)  ## Get the df containing start and end positions of sections
         except Exception as e:
-            st.error(f"An error occurred in get_section_location.py: {e}")
+            print(f"An error occurred in get_section_location.py: {e}")
 
         preds_df = pd.DataFrame()
         preds_fls_df = pd.DataFrame()
@@ -58,13 +58,13 @@ def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):
             try:
                 clean_text = process_text(text, section, section_df)   ### clean and process xml text of a particular section
             except Exception as e:
-                st.error(f"An error occurred in process_text.py: {e}")
+                print(f"An error occurred in process_text.py: {e}")
                 continue
 
             try:
                 sentences = sent_tokenize(clean_text)   ### Convert the entire text into a list of sentences
             except Exception as e:
-                st.error(f"An error occurred in get_section_location.py: {e}")
+                print(f"An error occurred in get_section_location.py: {e}")
                 continue
 
 
@@ -75,13 +75,13 @@ def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):
                 try:
                     preds['preds'], preds['prob'] = prediction(model, tokenizer, sentences)   ## Make a prediction of the sentiment
                 except Exception as e:
-                    st.error(f"An error occurred in finbert prediction: {e}")
+                    print(f"An error occurred in finbert prediction: {e}")
                     continue
 
                 try:
                     preds_fls['preds'], preds_fls['prob'] = prediction(model_fls, tokenizer_fls, sentences)   ## Make a prediction of forward looking nature
                 except Exception as e:
-                    st.error(f"An error occurred in finbert fls prediction: {e}")
+                    print(f"An error occurred in finbert fls prediction: {e}")
 
                 preds_df = pd.concat([preds_df, pd.DataFrame(preds)])   ## append to the existing df
                 preds_fls_df = pd.concat([preds_fls_df, pd.DataFrame(preds_fls)])  ## append to existing df

@@ -48,9 +48,11 @@ if st.button('Generate Plot'):
         competitors_dict[stock] = create_df(stock, year, tokenizer, tokenizer_fls, model, model_fls)
         if (stock == ticker):
             historical_dict[year] = competitors_dict[stock].copy()
+        print('Stock ' + stock + ' done')
 
     for curr_year in range(year-4,year):
         historical_dict[curr_year] = create_df(ticker, curr_year, tokenizer, tokenizer_fls, model, model_fls)
+        print('Year ' + str(curr_year) + ' done')
         
     historical_df = pd.DataFrame(historical_dict).transpose()
     historical_df_norm = (historical_df - historical_df.mean())/historical_df.std()
