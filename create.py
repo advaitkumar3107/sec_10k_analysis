@@ -23,12 +23,9 @@ def create_df(ticker, year, tokenizer, tokenizer_fls, model, model_fls):
     dict : Contains percentage of positive sentiment sentences, negative sentiment sentences and forward looking statements (specific as well as non-specific
     """
 
-    try:
-        dl = Downloader("MyCompanyName", "my.email@domain.com")  ## create a dummy profile for web request
-        directory = 'sec-edgar-filings/' + ticker + '/10-K/'    ### Directory to check if report already exists
-        file = checker(directory, year)   ## Check if report exists
-    except Exception as e:
-        print(f"An error occurred: {e}")
+    dl = Downloader("MyCompanyName", "my.email@domain.com")  ## create a dummy profile for web request
+    directory = 'sec-edgar-filings/' + ticker + '/10-K/'    ### Directory to check if report already exists
+    file = checker(directory, year)   ## Check if report exists
     
     ## If Report doesnt exist
     if file is None:
