@@ -48,9 +48,17 @@ The file [task 1.2](task_1_2.py) contains all the code for the task. The user ca
 
 ## Task 2
 * For displaying these plots in an application, I have used [streamlit](https://share.streamlit.io/) which is a free of cost online dashboard builder. I chose this since it supports multiple free dashboards for an indefinite time as opposed to other paid apps like Heroku. 
-* My dashboard is present on the following url : [streamlit dashboard](https://sec10kanalysis.streamlit.app/).
-* Note : It takes about 10-15 minutes to generate the plots since there is a lot of data to be downloaded, and a lot of predictions to be made. Stay patient!
+* My dashboard is present on the following url : [streamlit dashboard](https://sec10kanalysis.streamlit.app/). In case the url doesnt work due to memory issues, try running it locally by following the steps in [Local Run](https://github.com/advaitkumar3107/sec_10k_analysis/edit/main/README.md#local-run)
+* Note : It takes about 10-15 minutes to generate the plots since there is a lot of data to be downloaded, and a lot of predictions to be made. 
 
+### Local Run
+* In case the streamlit dashboard doesnt work due to memory issues, you can create a local dashboard using the following steps:
+  ```bash
+  git clone https://github.com/advaitkumar3107/sec_10k_analysis.git
+  cd sec_10k_analysis   ## Change working directory to github repo
+  pip install -r requirements.txt   ## install required files
+  streamlit run app.py   ## run the dashboard locally
+  ```
 ## References
 1) Finbert : [https://www.kaggle.com/code/mexwell/huggingface-finbert-for-sentiment-analysis](https://www.kaggle.com/code/mexwell/huggingface-finbert-for-sentiment-analysis)
 2) LLMS Analysis : [https://developers.lseg.com/en/article-catalog/article/using-ai-modeling-to-interpret-10-Q-filings](https://developers.lseg.com/en/article-catalog/article/using-ai-modeling-to-interpret-10-Q-filings)
